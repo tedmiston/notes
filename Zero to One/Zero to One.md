@@ -9,9 +9,18 @@ by Peter Thiel with Blake Masters
 
 ## Preface: Zero to One
 
-**PURPOSE**: TODO
+**PURPOSE**: Why does this book exist?
 
-- TODO
+- learn from what Gates, Zuckerberg, etc. have done; don't just copy them
+- copying an existing model takes the world from 1 to n
+- creating something new takes the world from 0 to 1 (what this book is about)
+- just fine-tuning today's models leads to a failed future -- innovation is necessary
+
+> "Humans are distinguished from other species by our ability to work miracles. We call these miracles *technology*."
+
+> "[T]his book offers no formula for success. The paradox of teaching entrepreneurship is that such a formula necessarily cannot exist; because every innovation is new and unique, no authority can prescribe in concrete terms how to be innovative."
+
+- based on Thiel's Stanford course [CS183](https://explorecourses.stanford.edu/search?page=0&q=CS+183&filter-coursestatus-Active=on&view=catalog&collapse=&academicYear=20112012), and [renowned notes compiled by Blake Masters](http://blakemasters.com/peter-thiels-cs183-startup)
 
 ---
 
