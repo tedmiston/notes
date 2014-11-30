@@ -50,6 +50,7 @@ by Peter Thiel with Blake Masters
 - Thiel missed out on being awarded a Supreme Court clerkship -- the highest prize for a law student)
 - if he had got it, PayPal probably would have never been created
 - MBA students love war analogies, but it's really competition, not business, that's like war
+- the key to success is [market dominance](http://venturebeat.com/2014/11/30/why-eric-schmidt-doesnt-know-how-google-works/) (e.g., Google's search monopoly)
 
 ### Understanding conflict
 - 2 models for understanding conflict
