@@ -83,9 +83,85 @@ by Peter Thiel with Blake Masters
 
 ## 5. Last Mover Advantage
 
-**PURPOSE**: TODO
+**PURPOSE**: How does one actually build a monopoly business?
 
-- TODO
+### Future cash flows
+- Twitter employs a comparable amount of people to The New York Times, but has 12x its market cap, despite losing money now while NYT made money... because Twitter is expected to generate monopoly profits over the next decade, while a newspaper's time to do so has passed
+- "the value of a business today is the sum of all the money it will make in the future" (with future cash flows being discounted to present worth)
+- comparing discounted cash flows shows the stark contrast b/t low-growth businesses, like a newspaper or nightclub, and high-growth startups
+
+### Building valuable things takes time
+- tech companies lose money at the beginning because it takes time to build valuable things
+- LinkedIn has < $1B revenue and only $21MM net income for 2012, but its $24B market cap is justified by projected future cash flows
+- the importance of future profits can be counterintuitive
+- you must grow AND endure
+  - many entrepreneurs focus too much on short-term growth (e.g., weekly active users, monthly revenue targets)
+  - but longterm endurance is harder to measure
+  - part of the failure of Zynga and Groupon
+
+> "Will this business still be around a decade from now?"
+
+### Characteristics of a monopoly
+- some combination of: proprietary tech, network effects, economies of scale, branding
+
+#### 1. Proprietary technology
+- **proprietary tech** makes your productive difficult to replicate
+- should be "an order of magnitude better than its closest substitute in some important dimension to lead to a real monopolistic advantage"
+- easiest way to make something that much better is to invent something completely new
+- examples
+  - Google's search algorithms return the best results + proprietary tech for short page load times and highly accurate query autocompletion
+  - PayPal made buying / selling on eBay significantly better by making payments instant vs. waiting 7-10 days for a check to clear
+  - Amazon offered 10x the books of other bookstores
+  - iPad brought superior integrated design to the tablet computing space --> tablets went from unusable to useful
+
+#### 2. Network effects
+- **network effect**: a product becomes more useful as more people use it
+- even with that, you must start and prove valuable to a small market first (i.e., Facebook beginning with just Harvard students)
+- "the initial markets are so small that they often don't even appear to be business opportunities at all"
+
+#### 3. Economies of scale
+- **economies of scale**: a monopoly biz gets stronger as it gets bigger because fixed costs are spread over more sales
+- (this is especially dramatic for software startups)
+- service businesses are difficult to monopolize (e.g., a yoga studio only has capacity for so many customers; can't provide value to millions of clients the way software engineers can)
+
+#### 4. Branding
+- you can create a strong brand (e.g., Apple)
+- imitators copy surface features, but Apple has proprietary tech in hardware and software, and dominates the pricing for the materials it buys
+- additionally, it enjoys the network effect of having the best app ecosystem --> devs keep writing and users stay
+
+### Building a monopoly
+
+#### 1. Start small and monopolize
+- err on the side of starting with too small of a market so you can dominate
+- ex. Paypal first went after eBay's powersellers
+- "Any big market is a bad choice... This is why it's always a red flag when entrepreneurs talk about getting 1% of a $100 billion market."
+
+#### 2. Scaling up
+- once you dominate the niche market, expand into related, slightly broader markets
+- Amazon
+  - Bezo's vision was to dominate all of online retail, but he deliberately started with just books
+  - "Amazon became the dominant solution for anyone located far from a bookstore or seeking something unusual."
+  - then, they expanded into CDs, videos, software
+  - adding categories until eventually becoming the "world's general store"
+- eBay
+  - started with niche markets like beanie babies and small-time hobbyists
+  - learned that auction format doesn't work for commodities
+
+#### 3. Don't disrupt
+- disruption used to mean a low-end product at a low price that could overtake incumbents, then become better overtime (for example, what PCs did to mainframe computers)
+- **disruption**: "a self-congratulatory buzzword for anything posing as trendy and new"
+- when you plan expansion into adjacent markets, you don't want to disrupt; you want to avoid competition as much as possible
+
+### ["Don't be good, be great"](http://genius.com/1942097)
+- **first mover advantage**: the first player can capture significant market share before competitors even start
+- but this is only a tactic; what really matters is generating future cash flows
+- better to be the **last mover**, the one that makes the last great development leading to years / decades of monopoly profits
+- dominate a small niche and scale up toward your long-term vision over time
+- business success is like chess:
+
+> "You must study the endgame before everything else."
+>
+> &mdash; <cite>Grandmaster José Raúl Capablanca</cite>
 
 
 ## 6. You Are Not a Lottery Ticket
