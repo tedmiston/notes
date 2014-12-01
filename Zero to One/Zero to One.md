@@ -1,14 +1,12 @@
 # Zero to One 
-
-Notes on Startups, or How to Build the Future
+*Notes on Startups, or How to Build the Future*<br>
 by Peter Thiel with Blake Masters
 
-*As read: November 2014*
+As read: November 2014
 
 ---
 
-## Preface: Zero to One
-
+## Preface
 **PURPOSE**: Why does this book exist?
 
 - learn from what Gates, Zuckerberg, etc. have done; don't just copy them
@@ -26,28 +24,24 @@ by Peter Thiel with Blake Masters
 ---
 
 ## 1. The Challenge of the Future
-
 **PURPOSE**: TODO
 
 - TODO
 
 
 ## 2. Party Like It's 1999
-
 **PURPOSE**: TODO
 
 - TODO
 
 
 ## 3. All Happy Companies Are Different
-
 **PURPOSE**: TODO
 
 - TODO
 
 
 ## 4. The Ideology of Competition
-
 **PURPOSE**: Why do people think competition is something to love?
 
 ### "Competition == good" is a pervasive idea 
@@ -82,7 +76,6 @@ by Peter Thiel with Blake Masters
 
 
 ## 5. Last Mover Advantage
-
 **PURPOSE**: How does one actually build a monopoly business?
 
 ### Future cash flows
@@ -165,63 +158,54 @@ by Peter Thiel with Blake Masters
 
 
 ## 6. You Are Not a Lottery Ticket
-
 **PURPOSE**: TODO
 
 - TODO
 
 
 ## 7. Follow the Money
-
 **PURPOSE**: TODO
 
 - TODO
 
 
 ## 8. Secrets
-
 **PURPOSE**: TODO
 
 - TODO
 
 
 ## 9. Foundations
-
 **PURPOSE**: TODO
 
 - TODO
 
 
 ## 10. The Mechanics of Mafia
-
 **PURPOSE**: TODO
 
 - TODO
 
 
 ## 11. If You Build It, Will They Come?
-
 **PURPOSE**: TODO
 
 - TODO
 
 
 ## 12. Man and Machine
-
 **PURPOSE**: TODO
 
 - TODO
 
 
 ## 13. Seeing Green
-
 **PURPOSE**: TODO
 
 - TODO
 
 
 ## 14. The Founder's Paradox
-
 **PURPOSE**: TODO
 
 - TODO
@@ -229,7 +213,6 @@ by Peter Thiel with Blake Masters
 ---
 
 ## Conclusion: Stagnation or Singularity?
-
 **PURPOSE**: TODO
 
 - TODO
