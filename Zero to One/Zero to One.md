@@ -6,7 +6,28 @@ As read: November 2014
 
 ---
 
-## Preface
+**Table of Contents**
+
+- [Preface](#preface)
+- [Chapter 1](#ch1)
+- [Chapter 2](#ch2)
+- [Chapter 3](#ch3)
+- [Chapter 4](#ch4)
+- [Chapter 5](#ch5)
+- [Chapter 6](#ch6)
+- [Chapter 7](#ch7)
+- [Chapter 8](#ch8)
+- [Chapter 9](#ch9)
+- [Chapter 10](#ch10)
+- [Chapter 11](#ch11)
+- [Chapter 12](#ch12)
+- [Chapter 13](#ch13)
+- [Chapter 14](#ch14)
+- [Conclusion](#ch15)
+
+---
+
+## <a name="ch0"></a>Preface
 **PURPOSE**: Why does this book exist?
 
 - learn from what Gates, Zuckerberg, etc. have done; don't just copy them
@@ -23,25 +44,25 @@ As read: November 2014
 
 ---
 
-## 1. The Challenge of the Future
+## <a name="ch1"></a>1. The Challenge of the Future
 **PURPOSE**: TODO
 
 - TODO
 
 
-## 2. Party Like It's 1999
+## <a name="ch2"></a>2. Party Like It's 1999
 **PURPOSE**: TODO
 
 - TODO
 
 
-## 3. All Happy Companies Are Different
+## <a name="ch3"></a>3. All Happy Companies Are Different
 **PURPOSE**: TODO
 
 - TODO
 
 
-## 4. The Ideology of Competition
+## <a name="ch4"></a>4. The Ideology of Competition
 **PURPOSE**: Why do people think competition is something to love?
 
 ### "Competition == good" is a pervasive idea 
@@ -75,7 +96,7 @@ As read: November 2014
 - fighting is binary: "either don't throw any punches, or strike hard and end it quickly"
 
 
-## 5. Last Mover Advantage
+## <a name="ch5"></a>5. Last Mover Advantage
 **PURPOSE**: How does one actually build a monopoly business?
 
 ### Future cash flows
@@ -157,62 +178,62 @@ As read: November 2014
 > &mdash; <cite>Grandmaster José Raúl Capablanca</cite>
 
 
-## 6. You Are Not a Lottery Ticket
+## <a name="ch6"></a>6. You Are Not a Lottery Ticket
 **PURPOSE**: TODO
 
 - TODO
 
 
-## 7. Follow the Money
+## <a name="ch7"></a>7. Follow the Money
 **PURPOSE**: TODO
 
 - TODO
 
 
-## 8. Secrets
+## <a name="ch8"></a>8. Secrets
 **PURPOSE**: TODO
 
 - TODO
 
 
-## 9. Foundations
+## <a name="ch9"></a>9. Foundations
 **PURPOSE**: TODO
 
 - TODO
 
 
-## 10. The Mechanics of Mafia
+## <a name="ch10"></a>10. The Mechanics of Mafia
 **PURPOSE**: TODO
 
 - TODO
 
 
-## 11. If You Build It, Will They Come?
+## <a name="ch11"></a>11. If You Build It, Will They Come?
 **PURPOSE**: TODO
 
 - TODO
 
 
-## 12. Man and Machine
+## <a name="ch12"></a>12. Man and Machine
 **PURPOSE**: TODO
 
 - TODO
 
 
-## 13. Seeing Green
+## <a name="ch13"></a>13. Seeing Green
 **PURPOSE**: TODO
 
 - TODO
 
 
-## 14. The Founder's Paradox
+## <a name="ch14"></a>14. The Founder's Paradox
 **PURPOSE**: TODO
 
 - TODO
 
 ---
 
-## Conclusion: Stagnation or Singularity?
+## <a name="ch15"></a>Conclusion: Stagnation or Singularity?
 **PURPOSE**: TODO
 
 - TODO
