@@ -243,6 +243,8 @@ As read: November 2014
 3. **extinction**: devastating collapse / no survival
 4. **takeoff**: we make new tech to make a much better figure (that hockey stick curve --> winner)
 
+<!-- -->
+
 - **the singularity**: accelerating progress leads to new tech so powerful it's beyond our understanding
 - Ray Kurzweil predicts it will occur [~2045](http://en.wikipedia.org/wiki/Technological_singularity)
 
