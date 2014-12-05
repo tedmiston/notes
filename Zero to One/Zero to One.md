@@ -234,6 +234,16 @@ As read: November 2014
 ---
 
 ## <a name="ch15"></a>Conclusion: Stagnation or Singularity?
-**PURPOSE**: TODO
+**PURPOSE**: What will we make of the future?
 
-- TODO
+### 4 patterns for future of humanity
+
+1. **recurrent collapse**: neverending cycle of prosperity <-> ruin
+2. **plateau**: world will converge to the level of today's rich countries
+3. **extinction**: devastating collapse / no survival
+4. **takeoff**: we make new tech to make a much better figure (that hockey stick curve --> winner)
+
+- **the singularity**: accelerating progress leads to new tech so powerful it's beyond our understanding
+- Ray Kurzweil predicts it will occur [~2045](http://en.wikipedia.org/wiki/Technological_singularity)
+
+> "Our task today is to find singular ways to create the new things that will make the future not just different, but better––to go from 0 to 1.  The essential first step is to think for yourself.  Only by seeing our world anew, as fresh and strange as it was to the ancients who saw it first, can we both re-create it and preserve it for the future."
