@@ -191,7 +191,7 @@ As read: November 2014
 
 > "Shallow men believe in luck, believe in circumstances.... Strong men believe in cause and effect."
 > 
-> –Ralph Waldo Emerson
+> &mdash; <cite>Ralph Waldo Emerson</cite>
 
 - "If you believe your life is mainly a matter of chance, why read this book?"
 
@@ -203,22 +203,13 @@ As read: November 2014
 
 ### Optimism vs. pessimism
 
-#### Indefinite pessimism
-- sees the future, but doesn't know what to do, so just reacts to it as it happens (ex. modern Europe)
-
-#### Definite pessimism
-- recognizes the future can be known, but is bleak (ex. China)
+- **indefinite pessimism**: sees the future, but doesn't know what to do, so just reacts to it as it happens (ex. modern Europe)
+- **definite pessimism**: recognizes the future can be known, but is bleak (ex. China)
 - China grows fast by "relentlessly copy[ing] what has already worked in the West"
-
-#### Definite optimism
-- future will be better than the present if we plan and work to achieve it
-- ex. Western world from 1600s --> 1960s
+- **definite optimism**: future will be better than the present if we plan and work to achieve it (ex. Western world from 1600s --> 1960s)
 - "Big plans for the future have become archaic curiousities."
-
-#### Indefinite optimism
-- future will be better but doesn't know how exactly, so he doesn't plan
-- ex. U.S. 1982 --> present
-- indefinite optimists work on optimizing existing things instead of building new ones ("the established path")
+- **indefinite optimism**: future will be better but doesn't know how exactly, so he doesn't plan (ex. U.S. 1982 --> present)
+- indefinite optimists work on optimizing existing things instead of building new ones (*"the established path"*)
 - TODO: insert paraphrased last paragraph from p69
 
 ### Other areas
@@ -226,7 +217,7 @@ As read: November 2014
 #### Indefinite finance
 - "Finance epitomizes indefinite thinking because it's the only way to make money when you have no idea how to create wealth."
 - what to do with exit money? 
-  entrepreneurs --> banks --> portfolio of institutional investors --> diversified portfolio of stocks --> companies that try to increase their share price w/ cash flow
+- entrepreneurs &rarr; banks &rarr; portfolio of institutional investors &rarr; diversified portfolio of stocks &rarr; companies that try to increase their share price w/ cash flow
 
 #### Indefinite politics
 - politicians use modern polling to modify their message to match existing public opinion
