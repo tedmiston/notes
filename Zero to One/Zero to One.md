@@ -180,9 +180,76 @@ As read: November 2014
 
 
 ## <a name="ch6"></a>6. You Are Not a Lottery Ticket
-**PURPOSE**: TODO
+**PURPOSE**: How should we approach the future?
 
-- TODO
+### Success: luck or skill?
+- what is success?
+- Malcolm Gladwell: "a patchwork of lucky breaks and arbitrary advantages"
+- Jeff Bezos: luck + timing + brains
+- if success were mostly luck, serial entrepreneurs wouldn't exist
+- "Every company starts in unique circumstances, and every company starts only once."
+
+> "Shallow men believe in luck, believe in circumstances.... Strong men believe in cause and effect."
+> 
+> –Ralph Waldo Emerson
+
+- "If you believe your life is mainly a matter of chance, why read this book?"
+
+### Can you control your future?
+- definite vs. uncertain
+- indefinite attitudes on the future are a problem in the U.S.
+- **indefinite view**: assemble a portfolio of various options to be well rounded (or "many-sided mediocrity")
+- **definite view**: be great at one substantial thing; favors firm convictions
+
+### Optimism vs. pessimism
+
+#### Indefinite pessimism
+- sees the future, but doesn't know what to do, so just reacts to it as it happens (ex. modern Europe)
+
+#### Definite pessimism
+- recognizes the future can be known, but is bleak (ex. China)
+- China grows fast by "relentlessly copy[ing] what has already worked in the West"
+
+#### Definite optimism
+- future will be better than the present if we plan and work to achieve it
+- ex. Western world from 1600s --> 1960s
+- "Big plans for the future have become archaic curiousities."
+
+#### Indefinite optimism
+- future will be better but doesn't know how exactly, so he doesn't plan
+- ex. U.S. 1982 --> present
+- indefinite optimists work on optimizing existing things instead of building new ones ("the established path")
+- TODO: insert paraphrased last paragraph from p69
+
+### Other areas
+
+#### Indefinite finance
+- "Finance epitomizes indefinite thinking because it's the only way to make money when you have no idea how to create wealth."
+- what to do with exit money? 
+  entrepreneurs --> banks --> portfolio of institutional investors --> diversified portfolio of stocks --> companies that try to increase their share price w/ cash flow
+
+#### Indefinite politics
+- politicians use modern polling to modify their message to match existing public opinion
+
+#### Indefinite philosophy
+- ancient philosophers were pessimistic
+- modern philosophers are mostly definite optimistic
+- late 20th century are indefinite optimistic (John Rawls, Robert Nozick)
+- "Arguing over process has become a way to endlessly defer making concrete plans for a better future."
+
+#### Indefinite life
+- **Eroom's law**: "the number of new drugs approved per billion dollars spent on R&D has halved every nine years since 1950"
+- biotech startups are struggling compared to software startups... because their research involves lots of random guessing
+
+### Is indefinite optimism even possible?
+- "How can the future get better if no one plans for it?"
+- progress w/o planning is **evolution** (i.e., lean startups, MVPs, iteration, ...)
+- "Iteration without a bold plan won't take you from 0 to 1"
+
+### Intelligent design
+- "The greatest thing Jobs designed was his business."
+- the iPod began the post-PC generation, but most people didn't see it yet
+- "A startup is the largest endeavor over which you can have definite mastery... it begins by rejecting the unjust tyranny of Chance."
 
 
 ## <a name="ch7"></a>7. Follow the Money
