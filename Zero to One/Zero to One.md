@@ -43,6 +43,8 @@ As read: November 2014
 
 - based on Thiel's Stanford course [CS183](https://explorecourses.stanford.edu/search?page=0&q=CS+183&filter-coursestatus-Active=on&view=catalog&collapse=&academicYear=20112012), and [renowned notes compiled by Blake Masters](http://blakemasters.com/peter-thiels-cs183-startup)
 
+<small>[back to top](#)</small>
+
 ---
 
 ## <a name="ch1"></a>1. The Challenge of the Future
@@ -50,17 +52,23 @@ As read: November 2014
 
 - TODO
 
+<small>[back to top](#)</small>
+
 
 ## <a name="ch2"></a>2. Party Like It's 1999
 **PURPOSE**: TODO
 
 - TODO
 
+<small>[back to top](#)</small>
+
 
 ## <a name="ch3"></a>3. All Happy Companies Are Different
 **PURPOSE**: TODO
 
 - TODO
+
+<small>[back to top](#)</small>
 
 
 ## <a name="ch4"></a>4. The Ideology of Competition
@@ -95,6 +103,8 @@ As read: November 2014
 - "If you can't beat a rival, it may be better to merge"
 - Elon Musk started X.com at the same time and with a very similar feature set to Peter Thiel's PayPal, so they merged to prevent focusing on each other too much before the bubble popped
 - fighting is binary: "either don't throw any punches, or strike hard and end it quickly"
+
+<small>[back to top](#)</small>
 
 
 ## <a name="ch5"></a>5. Last Mover Advantage
@@ -178,6 +188,8 @@ As read: November 2014
 >
 > &mdash; <cite>Grandmaster José Raúl Capablanca</cite>
 
+<small>[back to top](#)</small>
+
 
 ## <a name="ch6"></a>6. You Are Not a Lottery Ticket
 **PURPOSE**: How should we approach the future?
@@ -242,17 +254,23 @@ As read: November 2014
 - the iPod began the post-PC generation, but most people didn't see it yet
 - "A startup is the largest endeavor over which you can have definite mastery... it begins by rejecting the unjust tyranny of Chance."
 
+<small>[back to top](#)</small>
+
 
 ## <a name="ch7"></a>7. Follow the Money
 **PURPOSE**: TODO
 
 - TODO
 
+<small>[back to top](#)</small>
+
 
 ## <a name="ch8"></a>8. Secrets
 **PURPOSE**: TODO
 
 - TODO
+
+<small>[back to top](#)</small>
 
 
 ## <a name="ch9"></a>9. Foundations
@@ -266,11 +284,15 @@ As read: November 2014
 
 - TODO
 
+<small>[back to top](#)</small>
+
 
 ## <a name="ch11"></a>11. If You Build It, Will They Come?
 **PURPOSE**: TODO
 
 - TODO
+
+<small>[back to top](#)</small>
 
 
 ## <a name="ch12"></a>12. Man and Machine
@@ -278,17 +300,23 @@ As read: November 2014
 
 - TODO
 
+<small>[back to top](#)</small>
+
 
 ## <a name="ch13"></a>13. Seeing Green
 **PURPOSE**: TODO
 
 - TODO
 
+<small>[back to top](#)</small>
+
 
 ## <a name="ch14"></a>14. The Founder's Paradox
 **PURPOSE**: TODO
 
 - TODO
+
+<small>[back to top](#)</small>
 
 ---
 
@@ -308,3 +336,5 @@ As read: November 2014
 - Ray Kurzweil predicts it will occur [~2045](http://en.wikipedia.org/wiki/Technological_singularity)
 
 > "Our task today is to find singular ways to create the new things that will make the future not just different, but better––to go from 0 to 1.  The essential first step is to think for yourself.  Only by seeing our world anew, as fresh and strange as it was to the ancients who saw it first, can we both re-create it and preserve it for the future."
+
+<small>[back to top](#)</small>
