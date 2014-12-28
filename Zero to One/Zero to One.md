@@ -272,9 +272,9 @@ As read: November 2014
 - Pythagoras' theorem was a secret for millenia
 - **secret**: "what valuable company is nobody building?"
 
-	| conventions | secrets | mysteries  |
-	| :---------: | :-----: | :--------: |
-	| easy        | hard    | impossible |
+| conventions | secrets | mysteries  |
+| :---------: | :-----: | :--------: |
+| easy        | hard    | impossible |
 
 ### Why aren't people looking for secrets?
 - The **Unabomber's Manifesto** argued that all secrets (*"hard problems"*) have been solved, and the remaining problems are either easy or impossible -- both unsatisfying 
