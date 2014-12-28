@@ -266,9 +266,32 @@ As read: November 2014
 
 
 ## <a name="ch8"></a>8. Secrets
-**PURPOSE**: TODO
+**PURPOSE**: How do we find the ideas that lead to world-changing companies?
 
-- TODO
+### Background
+- Pythagoras' theorem was a secret for millenia
+- **secret**: "what valuable company is nobody building?"
+
+	| conventions | secrets | mysteries  |
+	| :---------: | :-----: | :--------: |
+	| easy        | hard    | impossible |
+
+### Why aren't people looking for secrets?
+- The **Unabomber's Manifesto** argued that all secrets (*"hard problems"*) have been solved, and the remaining problems are either easy or impossible -- both unsatisfying 
+- He posited that if we destroyed everything & all the tech, people could work on hard problems again
+- **Hipsters** basically do this in their clothing style, filtering photos, etc. (*whoa*)
+- "All fundamentalists think this way, not just terrorists and hipsters."
+- We can't be explorers anymore, because **National Geographic** has showed us virtually every explorable place -- "the unknown seems less accessible than ever"
+- 4 social trends have conspired to make us not believe in secrets:
+
+1. Incrementalism (esp. schools, academia)
+2. Risk aversion
+3. Complacency
+4. Flatness: globalization making the world homogeneous
+
+<!-- -->
+
+- People don't "take unorthodox ideas seriously today and the mainstream sees that as a sign of progress"
 
 <sub><sup>[back to top](#)</sub></sup>
 
