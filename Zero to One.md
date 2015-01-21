@@ -294,16 +294,31 @@ As read: November 2014
 - People don't "take unorthodox ideas seriously today and the mainstream sees that as a sign of progress"
 
 ### The world according to convention
-- TODO
+- the existence of hidden injustices in society implies **there are still secrets left**
+- the view that slavery is evil was a secret in the early 19th century
+- HP rode a rollercoaster (in market cap) from late 90s to present with massive decline in the late 90's when it "stopped inventing things"
 
 ### The case for secrets
-- TODO
+- "You can't find secrets without looking for them"
+- "If you think something hard is impossible, you'll never even start trying to achieve it.  Belief in secrets is an effective truth."
+- "Great companies can be built on open but unsuspected secrets about how the world works."
+- **sharing economy** startups captured untapped supply: 
+  - Airbnb
+  - Lyft
+  - Uber
+- "Few people imaginged that it was possible to build a billion-dollar business by simply connecting people who want to go places with people whilling to drive them there."
 
 ### How to find secrets
-- TODO
+- 2 kinds of secrets
+  1. **natural secrets**: found by studying undiscovered aspects of the physical world
+  2. **human secrets**: things people don't know or hide about themselves
+- "The best place to look for secrets is where no one else is looking... schooling impart[s] conventional wisdom."
+- ex. the field of nutrition yields secrets, because it isn't yet institutionalized, and major studies from decades ago are flawed
 
 ### What to do with secrets
-- TODO
+- "Unless you have perfectly conventional beliefes, it's rarely a good idea to tell everybody everything you know."
+- the golden mean between telling no one and everyone is forming a company: **build a business around a secret hidden from the outside**
+- "A great company is a conspiracy to change the world; when you share your secret, the recipient becomes a fellow conspirator."
 
 <sub><sup>[back to top](#)</sub></sup>
 
