@@ -293,6 +293,18 @@ As read: November 2014
 
 - People don't "take unorthodox ideas seriously today and the mainstream sees that as a sign of progress"
 
+### The world according to convention
+- TODO
+
+### The case for secrets
+- TODO
+
+### How to find secrets
+- TODO
+
+### What to do with secrets
+- TODO
+
 <sub><sup>[back to top](#)</sub></sup>
 
 
