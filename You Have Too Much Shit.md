@@ -10,7 +10,7 @@ As read: February 2014
 ---
 
 ## Meta
-- The chapters are so short that it felt right to compile all of the notes into one section.
+- The chapters are so short that it felt right to compile all of the notes into one section
 
 ## Notes
 
@@ -24,7 +24,9 @@ As read: February 2014
 - We spend a lot of *time* & *energy* cleaning, maintaining, and worrying about the shit we own
 - Create more *space* by having less & enjoy the absence of things
 - It's about valuing experiences > things
+
 > "Without all this stuff to distract you, you are forced to search a little deeper to find out what the fuck it is you want to do with your life."
+
 - Advertising convinces that buying things will make us happy and solve our problems; we get caught up keeping up with the joneses
 - Reducing our own consumption saves energy & Earth's finite resources
 - Discover a deep appreciation for & invest in *the things you use every day*, where you spend most of your time
