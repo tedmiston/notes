@@ -39,6 +39,6 @@ As read: February 2014
 3. Digitize analog things
 4. Fix or repair things to last longer
 5. Throw away or recycle
-6. Don't buy it in the first place
+6. Don't buy it [in the first place](http://mnmlist.com/want/)
 
 <sub><sup>[back to top](#)</sub></sup>
