@@ -27,10 +27,10 @@ As read: February 2014
 
 > "Without all this stuff to distract you, you are forced to search a little deeper to find out what the fuck it is you want to do with your life."
 
-- Advertising convinces that buying things will make us happy and solve our problems; we get caught up keeping up with the joneses
+- Advertising convinces us that buying things will make us happy and solve our problems; we get caught up [keeping up with the Joneses](http://www.investopedia.com/articles/pf/07/conspicuous_consumption.asp) (i.e., conspicuous consumption)
 - Reducing our own consumption saves energy & Earth's finite resources
 - Discover a deep appreciation for & invest in *the things you use every day*, where you spend most of your time
-- **Quality** = frequency of usage + longevity + utility
+- **Quality** = frequency of usage + longevity + utility (i.e., being high quality and reliable is more important than cost, see [buy it for life](http://www.reddit.com/r/buyitforlife))
 - *Sentimental value* can create emotional crutches
 
 ### Actions
