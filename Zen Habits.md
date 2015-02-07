@@ -14,6 +14,30 @@ As read: February 2015
 
 ### Introduction: Become the Master of Change
 
+#### The One Problem
+- If you could take a magic wand to your life, what would you change?  What's stopping you from doing it?
+- **Mind Movie**: thoughts play through our mind like a movie pulling us between instant gratification and longterm goals
+- This mental projector creates idealized expectations from fantasy that don't align with reality
+- The mind seeks comfort and avoids discomfort, fear, and change
+- Fear causes us to avoid and procrastinate on what we really want
+- It's the root of any problem we have in life
+- This leads to: 
+    - anxiety
+    - procrastination
+    - avoiding fulfilling activities like chasing dreams, creative pursuits, and failing at habit change
+- Solving it is the key to removing obstacles from our lives
+- You can come to associate discomfort with learning and growth (**growth mindset**)
+- "Learning to turn from the Mind Movie to reality, and appreciate reality for what it is, changed my life.  I could now act without fear, make changes without procrastination."
+
+#### What this book will teach you
+- How to form mindful habits to master the skills of discomfort & change, the **Zen Habits Method**
+
+#### How to use this book
+- **Slow change**: one step per chapter
+
+#### The Challenge: Commit to making a small change
+- Commit to reading one chapter every day & make one small life change as you read the book
+
 ---
 
 ## Part 1 - Getting Started
