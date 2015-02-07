@@ -5,7 +5,7 @@ A very short self-help book and rally against excessive consumerism.
 
 [Digital edition](http://youhavetoomuchshit.com/) (free)
 
-As read: February 2014
+As read: February 2015
 
 ---
 
