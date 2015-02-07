@@ -4,7 +4,7 @@ by [Leo Babauta](http://leobabauta.com/)
 
 [Web edition](http://zenhabitsbook.com/web-toc/) (paid)
 
-This book, the culmination of Leo's decade of working on Zen Habits, is a concise volume about creating change and finding contentment, inspired by his study of Zen Buddhism.
+This book, the culmination of Leo's decade of working on [Zen Habits](http://zenhabits.net/), is a concise volume about creating change and finding contentment, inspired by his study of Zen Buddhism.  It was brought to reality by a highly successful [Kickstarter campaign](https://www.kickstarter.com/projects/532372598/zenhabits).
 
 As read: February 2015
 
