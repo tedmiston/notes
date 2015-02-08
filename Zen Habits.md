@@ -41,8 +41,24 @@ As read: February 2015
 ---
 
 ## Part 1 - Getting Started
+- Prepare yourself to overcome mental resistance in habit change
 
 ### 0. Why make a change?
+- Why put effort into change?
+- Leo was overweight, smoker, in debt, disorganized, and lacking time for important things in life
+- Changing habits helped him get unstuck
+- mindfulness, enjoying the process vs. outcomes & goals
+- you can change things that make you unhappy
+- became happy because he could trust himself, not because he was instantly more productive over night or anything like that
+- plenty of frustrations & obstacles, esp. in dealing with people
+- the habit of mindfulness
+- he attributes his results to learning about change
+
+#### Mission: Check your commitment
+- Everyone expresses the desire to change something, but many don't actually take the first action to start
+- "How committed am I to making a new change and actually starting it in the next week?"
+    - I am committed to doing it for the purpose of personal development.
+
 ### 1. Create a space
 ### 2. Overcome the childish mind
 ### 3. Make a vow
