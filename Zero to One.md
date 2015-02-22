@@ -332,9 +332,42 @@ As read: November 2014
 
 
 ## <a name="ch10"></a>10. The Mechanics of Mafia
-**PURPOSE**: TODO
+**PURPOSE**: What's the difference between a startup team and a cult?
 
-- TODO
+### What's the ideal company culture?
+- Employees love their work so much that formal business hours become obsolete, open workspace, comfort, relaxation, pets, etc.
+- But perks don't work without substance
+- "No company has a culture; every company is a culture."
+
+### Beyond professionalism
+- **PayPal Mafia**: the team at PayPal that went on to found seven $1B companies (SpaceX, Tesla, LinkedIn, YouTube, Yelp, Yammer, Palantir)
+- Its culture was strong enough to transcend PayPal itself
+- You don't get this by hiring the most talented free agents, because durable, tight-knit relationships are important too
+- People we hired "had to be talented, but even more than that they had to be excited about working specifically with us"
+
+### Recruiting conspirators
+- Recruiting skilled people who work cohesively together is a core competency, not something to outsource
+- Talented people have many options: they don't need you...why should they join you?
+- Every startup has valuable stock, smart people, and challenging problems
+- A good answer revolves around your mission and/or team
+  - Why will no one else achieve this?
+  - Are these the kind of people I want to work with?
+
+### What's under Silicon Valley hoodies?
+- The *startup t-shirt* is a uniform connecting "a tribe of like-minded people fiercely devoted to the company's mission"
+- It's easier for startups to work quickly & efficiently with a *shared understanding of the world*
+- Ex. PayPal obsessed over creating a digital currency controlled by individuals
+
+### Do one thing
+- The optimization problem of matching talents to tasks breaks down because of how fast roles changes & conflict in competing for responsibilities
+- Every person was assigned one unique thing to be responsible for & evaluated against
+- Startups fail of external causes but internal conflict can create the vulnerability in the first place
+
+### Of cults and consultants
+- **cult**: "Cultures of total dedication look crazy from the outside."
+- A consulting firm is the opposite of a cult: no defined mission & lacking longterm connection to the company they're creating things for
+- *Company culture is a spectrum*: consultants (nihilism) <--> cults (dogmatism)
+- *The best startups can be considered like cults, except they're "fanatically right about something those outside it have missed"*
 
 <sub><sup>[back to top](#)</sub></sup>
 
