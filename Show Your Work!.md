@@ -36,7 +36,22 @@ by Austin Kleon
 
 ## <a name="ch2"></a>2. Think Process, Not Product
 
-- TODO
+### Take people behind the scenes
+- process vs. product
+- David Bayles and Ted Orland in *Art and Fear*: keep the messy process personal because people care about finished work
+- you can bond with your audience by sharing your work-in-progress, day-to-day process, influence, inspirations, tools
+- with openness comes potential vulnerability
+- put things out there consistently so your audience can connect and be a part of your creative process
+- my public reading log is a start, but I need to make it more accessible
+
+### Become a documentarian of what you do
+- astronaut Chris Hadfield wanted people to connect with an astronaut's day-to-day life
+- he tweeted and YouTubed his normal daily activities, *but in space*
+- there's an art to every work and if you present it *"the right way"*, people will be interested
+- you can still share process, even if your work is not easily shared, intangible, etc.
+- turn the scrap & residue of your process into something for people to see
+- keep a work log notebook, scrapbook; take photos, videos, etc. during your process
+- documenting & recording your process makes you realize your progress (and gives you material when you're ready to show)
 
 <sub><sup>[back to top](#)</sub></sup>
 
