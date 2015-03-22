@@ -58,7 +58,46 @@ by Austin Kleon
 
 ## <a name="ch3"></a>3. Share Something Small Every Day
 
-- TODO
+### Send out a daily dispatch
+- building a substantial body of work takes a lifetime -- just start by focusing on days
+- "The day has a rhythm."
+- once a day, share a little piece of your process, for example:
+	- early stage - influences
+	- mid-process - methods
+	- at launch - scraps or lessons learned
+	- post-launch - how your real products are being used
+- a resume / portfolio is cool, but a daily dispatch shows what you're working on *right now*
+- form doesn't matter: tweet, blog post, photo, video, ... try the new platforms too
+- **"Don't show your lunch or your latte; show your work."**
+- don't worry about perfect -- see how others react
+- we're all busy -- find time
+- he works while the world is sleeping & shares while they work (that could work for my ideal lifestyle too)
+- if balancing sharing vs. doing work is hard, set a timer
+
+### The "So what?" test
+- not a diary -- you're curating every word
+- don't put it online if you're not ready for the whole world to see it
+- it's great to be open by sharing imperfect & unfinished work, but don't over-share
+- "So what?" You're sharing to be helpful to or entertain others
+- should I share it?: is it useful or interesting?
+	- yes - share
+	- no - toss
+	- not sure - save for later
+
+### Turn your flow into stock
+- "**Flow** is the feed.  It's the posts and the tweets.  It's the stream of daily and sub-daily updates that remind people you exist.  **Stock** is the durable stuff.  It's the content you produce that's as interesting in two months (or two years) as it is today.  It's what people discover via search.  It's what spreads slowly but surely, building fans over time."
+- social media sites are like public notebooks -- you have to revisit them to see the themes & trends
+- once you see the patterns, you can turn bits & pieces into more substance: flow into stock
+- ex. ideas in this book: tweets &rarr; blog posts &rarr; book chapters
+
+### Build a good (domain) name
+- social networks come & go, but no one can take your own space away from you
+- "a blog is the ideal machine for turning flow into stock"
+	- thought: possibly use Jekyll on GitHub Pages (though I wouldn't be able to post on mobile)
+- his blog has been his gallery, sketchbook, storefront, and led to "everything good that has happened in [his] career"
+- your website is for **self-invention**: become the person you want to be, fill it in with your ideas and what you care about
+- let it grow & evolve with you over time -- don't abandon it for a shiny, new social network
+- a well built domain becomes its own currency
 
 <sub><sup>[back to top](#)</sub></sup>
 
