@@ -142,7 +142,33 @@ by Austin Kleon
 
 ## <a name="ch4"></a>4. Open Up Your Cabinet of Curiosities
 
-- TODO
+### Don't be a hoarder
+- **wunderkammern**: "wonder chamber", a room full of remarkable objects showcasing your thirst for knowledge—by including books, jewels, art, skeletons, exotic artifacts, ... they juxtaposed history, nature, and the arts; common 16<sup>th</sup>- and 17<sup>th</sup>-century Europe
+
+[![An example wunderkammern](http://upload.wikimedia.org/wikipedia/commons/f/f5/Musei_Wormiani_Historia.jpg)](http://en.wikipedia.org/wiki/File:Musei_Wormiani_Historia.jpg)
+*The 17<sup>th</sup>-century wunderkammern of Danish physician and antiquarian Ole Worm*
+
+- the places we've been and experiences we've accumulated are our mental scrapbooks &rarr; form our tastes &rarr; influence our work
+- collection &harr; creation is a spectrum—you're drawing people's attention to the things that you like
+
+> "All of us who do creative work, we get into it because we have good taste."
+>
+> &mdash; <cite>Ira Glass</cite>
+
+- your early work will have potential, but won't be that good yet—you can still share your taste
+- Where do you get your inspiration?  What do you collect?  Who's done work that you admire?  Who do you steal ideas from?  Do you have any heroes?
+- share your influences to clue people in to your own work & who you are
+
+### No guilty pleasures
+- 20 years ago an NYC garbageman [started collecting](http://www.nytimes.com/2012/07/24/nyregion/in-new-york-sanitation-dept-garage-an-art-gallery.html) art, paintings, photographs, toys, etc. that others discarded
+- artists should *dumpster dive* through other's "trash" & our culture to find inspiration in the things people ignore & the places they don't / won't visit
+- the depth & breadth of our influence and ways in which we mix parts of subcultures makes us unique
+- share the things you enjoy open & honestly; don't edit too much
+
+### Credit is always due
+- credit your sources & influences so your people can dig deeper
+- attribution is context: Who made it, when, and why?  Why are you sharing it?  Why should the reader care?  Where can I find more?
+- leave breadcrumb trails to how you found the source: *via*, *h/t*
 
 <sub><sup>[back to top](#)</sub></sup>
 
