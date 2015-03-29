@@ -6,7 +6,7 @@ by Austin Kleon
 
 **Table of Contents**
 
-- [0. A New Way of Operating](#ch0)
+- [A New Way of Operating](#preface)
 - [1. You Don't Have to be a Genius](#ch1)
 - [2. Think Process, Not Product](#ch2)
 - [3. Share Something Small Every Day](#ch3)
@@ -20,9 +20,18 @@ by Austin Kleon
 
 ---
 
-## <a name="ch0"></a>0. A New Way of Operating
+## <a name="preface"></a>A New Way of Operating
 
-- TODO
+> "Creativity is not a talent. It is a way of operating."
+>
+> &mdash; <cite>John Cleese</cite>
+
+- artists hate self-promotion -- focus on getting really good & let your audience find you
+- *but* make your work discoverable *while* you're working on getting really good
+- consistently share tiny pieces of what you're working on, your ideas, and what you're learning -- gain an audience now to use later
+- this book is the alternative to self-promotion *for people who hate it*
+- [*Steal Like An Artist*](http://austinkleon.com/steal/) was about stealing influence from others; this is about influencing others by letting them steal from you
+- imagine spending the majority of your time, attention, and energy practicing your personal interests :thought_balloon:
 
 <sub><sup>[back to top](#)</sub></sup>
 
