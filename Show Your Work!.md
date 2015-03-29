@@ -38,7 +38,36 @@ by Austin Kleon
 
 ## <a name="ch1"></a>1. You Don't Have to be a Genius
 
-- TODO
+### Find a scenius
+- the lone creative genius is a myth—more common is a group of tastemakers in a scene supporting each other: looking, copying, stealing, contributing
+- you don't need smarts / talent, as much as just to be contributing to a scene: share ideas & make quality connections
+- **scenius**: "where people go to hang out and talk about the things they care about"
+- everyone can contribute *something*, even if you're not a master yet (side thought: is anyone ever *really* a master of anything?)
+
+### Be an amateur
+- **amateur**: enthusiast who pursues their work for love; they experiment & follow their whims
+
+> "In the beginner's mind there are many possibilities, but in the expert's there are few."
+>
+> &mdash; <cite>[Shunryu Suzuki](http://en.wikipedia.org/wiki/Shunry%C5%AB_Suzuki)</cite>
+
+- the gap between mediocre &harr; good is smaller than contributing nothing &harr; something
+- retain the amateur's spirit & embrace the uncertainty
+- amateurs "use whatever tools they can get their hands on to try to get their ideas into the world"
+- commit to learning what you want to learn in front of others
+- What voids can you fill?  What are people in your scenius *not* sharing?
+
+### You can't find your voice if you don't use it
+- find your voice by using it—talk about the things you love
+- Roger Ebert lost his ability to speak, and turned to blogging & social media to write at an aggressive pace
+- "If your work isn't online, it doesn't exist.... If you want people to know about what you do and the things you care about, you have to share."
+
+### Read obituaries
+> "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life. Because almost everything—all external expectations, all pride, all fear of embarrassment or failure—these things just fall away in the face of death, leaving only what is truly important. Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked."
+>
+> &mdash; <cite>Steve Jobs</cite>
+
+- the author reads obituaries every morning to vicariously live near-death experiences—reading what people did is motivation to do something in his own life
 
 <sub><sup>[back to top](#)</sub></sup>
 
