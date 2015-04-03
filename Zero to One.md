@@ -341,6 +341,22 @@ As read: November 2014
 
 ### Beyond professionalism
 - **PayPal Mafia**: the team at PayPal that went on to found seven $1B companies (SpaceX, Tesla, LinkedIn, YouTube, Yelp, Yammer, Palantir)
+
+  ![PayPal Mafia](https://fortunedotcom.files.wordpress.com/2014/09/pay26_b1.jpg?quality=100&w=640)
+
+- The exact list varies, but often includes:
+  - Chad Hurley (YouTube)
+  - Dave McClure (500 Startups)
+  - David O. Sacks (Yammer)
+  - Elon Musk (SpaceX, Tesla)
+  - Jawed Karim (YouTube)
+  - Jeremy Stoppleman (Yelp)
+  - Max Levchin (Slide)
+  - Peter Thiel (Clarium Capital)
+  - Reid Hoffman (LinkedIn)
+  - Roelof Botha (Sequoia Capital)
+  - Steve Chen (YouTube)
+  - Yishan Wong (reddit)
 - Its culture was strong enough to transcend PayPal itself
 - You don't get this by hiring the most talented free agents, because durable, tight-knit relationships are important too
 - People we hired "had to be talented, but even more than that they had to be excited about working specifically with us"
