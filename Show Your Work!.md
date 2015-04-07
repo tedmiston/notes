@@ -213,7 +213,16 @@ by Austin Kleon
 
 ## <a name="ch6"></a>6. Teach What You Know
 
-- TODO
+### Share your trade secrets
+- a legendary Austin BBQer shared his whole setup & process in a crowdfunded YouTube series
+- barbecue technique is simple, but developing the intuition takes years (and repetition)
+- teaching != competition
+- from *Rework*, *Out-teach your competition*:
+	- What are your recipes?
+	- ... your cookbook?
+	- ... your cooking show?
+- create & share tutorials
+- &rarr; learn &rarr; teach &rarr;
 
 <sub><sup>[back to top](#)</sub></sup>
 
