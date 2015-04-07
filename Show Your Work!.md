@@ -175,7 +175,38 @@ by Austin Kleon
 
 ## <a name="ch5"></a>5. Tell Good Stories
 
-- TODO
+### Work doesn't speak for itself
+- two seemingly identical canvases in an art gallery -- without tags which is by the master & which is forgery?
+- how much people like / value something is influenced by what you tell them about it
+- *Significant Objects* - authors bought insignificant objects and hired writers to "attribute significance" to each -- sold ~$100 of trinkets for 30x return (but does it scale lol?)
+- &rarr; work *does not* speak for itself -- stories affect how people perceive and what they believe, what they understand, and how they value it
+- personal stories make the complex tangible & give people an opportunity to connect &rarr; to effectively share yourself & your work, become a better storyteller
+
+### Structure is everything
+- Dan Harmon's Story Circle is a plot framework, kind like a trope (I guess I'd consider those plot libraries or mixins really)
+- life is messy & uncertain &rarr; crop & edit it into a well structured story
+- formula of creative work: (1) get a great idea, (2) execute, (3) release &rarr; win/lose/draw
+- but what if we're in the middle of our story? pitch.
+- a **pitch** is really just a story with the end chopped off; it has 3 acts:
+	1. **past** - what you want, where you've been
+	2. **present** - where you are now
+	3. **future** - where you're going, how the person you're pitching can help you get there
+- speak briefly & directly to your audience in plain language
+
+### Talk about yourself at parties
+
+> "You got to make your case"
+>
+> &mdash; <cite>Kanye West</cite>
+
+- "So what do you do?" is an opportunity to connect by honestly & humbly explaining your work
+- nonfiction, dignity, truth, self-respect
+
+> "Autobiography is only to be trusted when it reveals something disgraceful."
+>
+> &mdash; <cite>George Orwell</cite>
+
+- your bio should be short & sweet, not complex -- facts, not adjectives
 
 <sub><sup>[back to top](#)</sub></sup>
 
