@@ -276,19 +276,40 @@ by Austin Kleon
 ## <a name="ch9"></a>9. Sell Out
 
 ### Even the Renaissance had to be funded
-- TODO
+- somehow we have to find a way to get money to enable us to pursue our art
+- getting paid does not inherently corrupt creativity -- ex. *The Godfather*, *Sistine Chapel*
+- support your friends & family
 
 ### Pass around the hat
-- TODO
+- try a "donate" or "like this? buy me a coffee" button on your site
+- crowdfunding can help you create work requiring upfront capital *if* you've already got fans interested
+- Kleon uses simply "hire me" and "buy now"
+- don't be afraid to charge for your work, but make sure what you're putting out is valued by others as highly as by you
 
 ### Keep a mailing list
-- TODO
+- email might be boring & utilitarian, but it's a strong, universal channel for people who want to stay informed with your work
+- a model
+  1. give away great stuff on your site
+  2. collect emails
+  3. send when you have something remarkable to show/sell
+- try MailChimp
+- set people's expectations about content & frequency of emails
 
 ### Make more work for yourself
-- TODO
+> "We don't make movies to make money, we make money to make movies."
+>
+> &mdash; Walt Disney
+
+- some people use *sell out* to express an ideological fear of change
+- creativity is all about change -- taking chances and exploring new frontiers
+- "Be ambitious. Keep yourself busy. Think bigger. Expand your audience. .... Try new things."
+- say yes to opportunities that allow more of the kind of work you want, not those which pay more but offer less of that
 
 ### Pay it forward
-- TODO
+- when you have success, throw opportunities to your mentors, influences, and fans
+- the more success, the more you'll have to say *no* to people
+- to remedy not answering every email, Kleon hosts monthly office hours online
+- "Be as generous as you can, but selfish enough to get your work done."
 
 <sub><sup>[back to top](#)</sub></sup>
 
