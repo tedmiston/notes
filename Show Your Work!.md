@@ -317,16 +317,39 @@ by Austin Kleon
 ## <a name="ch10"></a>10. Stick Around
 
 ### Don't quit your show
-- TODO
+- "The people who get what they're after are very often the ones who just stick around long enough."
 
 ### Chain-smoke
-- TODO
+- what's next? -- a successful / failed project doesn't guarantee the outcome of your next
+- lifelong artists persevere, success or failure
+- Hemingway ended his day mid-sentence to have a clear starting place for the next morning
+- a singer / songwriter says the weak link in her last project inspires her next
+- after a project, ask yourself: what you missed / couldn't get to / could have done better; then, start your next project so you don't lose momentum
 
 ### Go away so you can come back
-- TODO
+> "As soon as you stop wanting something, you get it."
+>
+> &mdash; Andy Warhol
+
+- sometimes a sabbatical can help you find the spark again after burnout
+- ex. Stefan Sagmeister takes a year off every seven years which drives the design thinking of the next seven years
+- reminds me of Tim Ferriss' [mini retirements](http://fourhourworkweek.com/2008/06/04/how-to-take-a-mini-retirement-tips-and-tricks/)
+- you might not be able to take a year off, but you can take regular breaks to disconnect from work completely
+- 3 ideas from Gina Trapani (Founder, Lifehacker):
+  1. **commute** - tune out by writing, reading, doodling, or listening to audiobooks
+  2. **exercise** - using our body relaxes our mind so we have new thoughts
+  3. **nature** - parks / hikes / fresh air with no electronics
+- separate work from the rest of your life, so you get to *leave*
 
 ### ~~Start over~~ Begin again
-- TODO
+> "Whenever Picasso learned how to do something, he abandoned it."
+>
+> &mdash; Milton Glaser
+
+- when you feel like you've learned everything about something, change course so there's always something new to learn
+- after learning of his mentor's habit, Louis CK now throws out his material every year to start from scratch -- to make space for new work & deeper personal thoughts
+- still, it's not really *from scratch* because the lessons you've learned will seep into your new work
+- so, [begin again](https://www.youtube.com/watch?v=cMPEd8m79Hw) -- become an amateur & learn in the open, document your progress and share it [meta: that's sort of what I've been doing with my book reading in this repo]
 
 <sub><sup>[back to top](#)</sub></sup>
 
