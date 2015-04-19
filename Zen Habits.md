@@ -60,6 +60,24 @@ As read: February 2015
     - I am committed to doing it for the purpose of personal development.
 
 ### 1. Create a space
+- Leo struggled (and failed) with making changes for years and mostly attributed it to self-discipline
+- He started to understand change better after succeeding in changing one habit
+- "You have to try something, make mistakes, correct those mistakes, and increase your understanding through this process of trial and error."
+- Pick just one change you'd like to make to start (and not more)
+- Once our enthusiasm wanes, it's harder to allocate focus and mental energy to multiple changes, so they end up being more work than we anticipated
+- Let go of the idea of doing everything at once, and focus on doing one thing well
+- Which change?  Just pick any one to start.
+
+#### Mission: Pick one habit
+- Pick one small, specific, actionable habit to change throughout this book.
+- For example,
+    - "Do five pushups"
+    - "Go for a five-minute walk"
+    - "Declutter for two minutes"
+- Our purpose is to learn about the nature of change itself
+- My change:
+    - TODO
+
 ### 2. Overcome the childish mind
 ### 3. Make a vow
 ### 4. The rhythm of your heartbeat
