@@ -17,6 +17,7 @@ by Austin Kleon
 - [8. Learn to Take a Punch](#ch8)
 - [9. Sell Out](#ch9)
 - [10. Stick Around](#ch10)
+- [What now?](#afterword)
 
 ---
 
@@ -229,6 +230,19 @@ by Austin Kleon
 
 ## <a name="ch7"></a>7. Don't Turn into Human Spam
 
+### Shut up and listen
+- TODO
+
+### You want hearts, not eyeballs
+- TODO
+
+### The vampire test
+- TODO
+
+### Identify your fellow knuckleballers
+- TODO
+
+### Meet up in meatspace
 - TODO
 
 <sub><sup>[back to top](#)</sub></sup>
@@ -261,6 +275,19 @@ by Austin Kleon
 
 ## <a name="ch9"></a>9. Sell Out
 
+### Even the Renaissance had to be funded
+- TODO
+
+### Pass around the hat
+- TODO
+
+### Keep a mailing list
+- TODO
+
+### Make more work for yourself
+- TODO
+
+### Pay it forward
 - TODO
 
 <sub><sup>[back to top](#)</sub></sup>
@@ -268,6 +295,30 @@ by Austin Kleon
 
 ## <a name="ch10"></a>10. Stick Around
 
+### Don't quit your show
+- TODO
+
+### Chain-smoke
+- TODO
+
+### Go away so you can come back
+- TODO
+
+### ~~Start over~~ Begin again
+- TODO
+
+<sub><sup>[back to top](#)</sub></sup>
+
+
+## <a name="afterword"></a>Afterword
+
+### What now?
+- TODO
+
+### "Books are made out of books"
+- TODO
+
+### YMMV
 - TODO
 
 <sub><sup>[back to top](#)</sub></sup>
