@@ -236,7 +236,25 @@ by Austin Kleon
 
 ## <a name="ch8"></a>8. Learn to Take a Punch
 
-- TODO
+### Let 'em take their best shot
+- art school teaches one to handle vicious critiques
+- 5 strategies
+
+1. **relax and breathe** - fear is why we imagine the worst that can happen; a bad critique is not the end of the world
+2. **strengthen your neck** - put out a lot of work, let people critique, then put more out, realize criticism helps you get better
+3. **roll with the punches** - criticism unlocks the opportunity for new work; you control how you react to it; sometimes it's fun to have certain people hate on your work
+4. **protect your vulnerable areas** - work that's too sensitive should be kept hidden, but it becomes harder to conncet with people
+5. **keep your balance** - your work might be very personal, but you still have your identity -- keep close to those who love *you*
+
+> "The trick is not caring what *everybody* thinks of you and just caring about what *the right people* think of you."
+>
+> &mdash; Brian Michael Bendis
+
+### Don't feed the trolls
+- be wary of feedback from people who don't care about you and what you do
+- ignore the trolls and they'll go away eventually
+- no shame in deleting trolling comments & blocking people on social media
+- consider not having comments on your website, so people contact you directly
 
 <sub><sup>[back to top](#)</sub></sup>
 
