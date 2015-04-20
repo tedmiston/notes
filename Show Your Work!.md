@@ -231,19 +231,34 @@ by Austin Kleon
 ## <a name="ch7"></a>7. Don't Turn into Human Spam
 
 ### Shut up and listen
-- TODO
+- to be a writer, you first have to pay your dues as a reader ([sometimes](http://s8.postimg.org/6p56hr8id/kanye_west_quote4.jpg))
+- sharing: hoarder &larr; contributor &rarr; spammer
+- forward-thinking artists are looking for collaborators, not passive consumers -- good art is incomplete without feedback
+- hangout online, answer questions, chat with fans about the stuff they love
+- be an open node, a connector, a good citizen of the community
 
 ### You want hearts, not eyeballs
-- TODO
+- follow & be followed by those who care about the things you care about
+- worry about the quality, not quantity, of your followers
+- "If you want to be interesting, you have to be interested."
+- focus on getting good at what you do, then let the connections follow (not the reverse)
+- make stuff you love + talk about it = attract people who love that kind of stuff
 
 ### The vampire test
-- TODO
+> "Whatever excites you, go do it. Whatever drains you, stop doing it."
+>
+> &mdash; Derek Sivers
+
+- **vampires**: people who make you feel exhausted / depleted after hanging out with them -- just avoid those people
 
 ### Identify your fellow knuckleballers
-- TODO
+- while most pitchers hoard their secrets from opposing teams, **knuckleballers** are a rare breed who share their techniques with each other
+- your real peers are those who share your obsessions, a similar mission, and mutual respect
+- you'll only find a few so keep them close, show them work first, collaborate with them, etc.
 
 ### Meet up in meatspace
-- TODO
+- meet your binary friends IRL and talk about big ideas
+- coffee, lunch, art museums, bookstores, ...
 
 <sub><sup>[back to top](#)</sub></sup>
 
