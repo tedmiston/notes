@@ -17,7 +17,7 @@ by Austin Kleon
 - [8. Learn to Take a Punch](#ch8)
 - [9. Sell Out](#ch9)
 - [10. Stick Around](#ch10)
-- [What now?](#afterword)
+- [Afterword](#afterword)
 
 ---
 
@@ -372,12 +372,15 @@ by Austin Kleon
 ## <a name="afterword"></a>Afterword
 
 ### What now?
-- TODO
+- post your current work with #showyourwork ([twitter](https://twitter.com/search?q=%23showyourwork), [instagram](https://instagram.com/explore/tags/showyourwork/))
+- plan a show your work event, guided by this book, for colleagues / friends
+- give a copy to someone who needs it
 
 ### "Books are made out of books"
-- TODO
+- inspired by books from Brian Eno, Steven Johnson, David Byrne, Mike Monteiro, Kio Stark, Ian Svenonius, Sidney Lumet, and P.T. Barnum
 
 ### YMMV
-- TODO
+- take only the advice that's helpful to you / no rules
+- [www.austinkleon.com](http://www.austinkleon.com)
 
 <sub><sup>[back to top](#)</sub></sup>
