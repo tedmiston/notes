@@ -258,9 +258,27 @@ As read: November 2014
 
 
 ## <a name="ch7"></a>7. Follow the Money
-**PURPOSE**: TODO
+**PURPOSE**: How should we invest entrepreneur time and VC money in startups?
 
-- TODO
+### Background
+- Compound interest is the 8th wonder of the world
+
+### The power law of venture capital
+- Fund returns follow power law distribution -- most startups fail, but VCs hope to invest in those startups that will exponentially beat the others
+- "The biggest secret in venture capital is that the best investment in a successful fund equals or outperforms the entire rest of the fund combined."
+- &rarr; "Only invest in companies with the potential to return the value of the entire fund."
+- Ex. In Founders Fund 2005 Facebook, then Palantir 
+- Founders Fund focuses not on diversified hedging, but rather on companies which could be multibillion-dollar businesses "based on unique fundamentals"
+
+### Why people don't see the power law
+- People don't see power law because in early to mid-stage funds, the difference between linear & exponential growth isn't yet clear
+- Total VC investment is < 0.2% of GDP but generates revenue equivalent to 21% of GDP
+- The 12 largest tech companies are worth ≥ $2 trillion, *more than all other tech companies combined*
+
+### What to do with the power law
+- Entrepreneurs & individuals invest in their companies & careers -- diversification doesn't work because you can't run multiple companies simultaneously, so instead make as few investments as possible
+- Don't diversify your skill set: focus relentlessly on something you're good at that will be valuable in the future
+- Hesitate to start your own company because joining the very best company while it's growing fast is way more valuable (0.01% of Google >> 100% of nothing)
 
 <sub><sup>[back to top](#)</sub></sup>
 
