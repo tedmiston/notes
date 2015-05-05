@@ -2,6 +2,8 @@
 
 A place to gather thoughts from what I'm reading lately.
 
+I generate note files using [bog](https://github.com/tedmiston/bog).
+
 ## Books
 - [Show Your Work!](https://github.com/tedmiston/notes/blob/master/books/Show%20Your%20Work!.md)
 - [You Have Too Much Shit](https://github.com/tedmiston/notes/blob/master/books/You%20Have%20Too%20Much%20Shit.md)
