@@ -23,14 +23,16 @@ by [Jason Fried](https://signalvnoise.com/writers/jf), [David Heinemeier Hansson
 
 ## <a name="pre1"></a>Authors' Note
 
-- TODO
+- remote work has been on the rise since 2005, though it wasn't recently put in the spotlight when Marissa Meyer removed Yahoo's remote-work program
+- interestingly, every excuse in [*Dealing with Excuses*](#ch2) got airtime during this
 
 <sub><sup>[back to top](#)</sub></sup>
 
 
 ## <a name="pre2"></a>Introduction
-
-- TODO
+- remote work is seeing increased adoption & the tech to collaborate remotely is here now
+- this book aims to be the missing piece: upgrade the human mind so workers embrace freedom & productivity benefits and companies increased their access to talent (and everyone learns how to overcome the downsides)
+- freedom in location is the new luxury
 
 <sub><sup>[back to top](#)</sub></sup>
 
