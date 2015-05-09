@@ -109,7 +109,105 @@ by [Jason Fried](https://signalvnoise.com/writers/jf), [David Heinemeier Hansson
 
 ## <a name="ch2"></a>2. Dealing with Excuses
 
-- TODO
+### Magic only happens when we're all in a room
+- 37s meets three times a year in the Chicago office
+- it can feel that way when you're all together brainstorming The Next Big Thing... but most work is iterating on something that already exists
+- also, enthusiasm is often mistaken for priority
+- rationing in-person meetings makes them feel special and valuable
+
+### If I can't see them, how do I know they're working?
+- if people wanted to play games from their desk in the office, they could (more common in corporate)
+- if you keep low expectations, employees will live down to them
+- if you view employees as capable, self-motivated adults, they'll delight you 
+- you're a manager, not a babysitter
+- there's some creepy software called InterGuard that some companies use to monitor all remote employee screens (bad culture smell) --> trust the people you work with, or find new people to work with
+
+### People's homes are full of distractions
+- responsible adults get their job done
+- all humans are occasionally susceptible to temptations, but... "the number one counter to distractions is interesting, fulfilling work"
+- distractions can be a purposeful signal: is your work well defined?  are your tasks important?  is this whole project pointless?  --> if you feel this way, state your opinion!
+- sometimes we set ourselves up for failure, especially sitting in a space shared for other purposes -- a dedicated office helps you focus best
+- or try: coffee shop, library
+- we want stimulating, fulfilling work -- if your job doesn't provide that, going remote won't help --> find a new job
+
+### Only the office can be secure
+- using modern security is a solved problem
+- 37s' required checklist:
+
+1. encrypt hard drives (FileVault in OS X)
+2. auto sleep after 10 min & always require a password at login
+3. turn on HTTPS/SSL for every site that offers it
+4. all phones/tablets use pass codes and have remote wipe enabled
+5. use unique, generated, secure passwords
+6. use two-factor auth in Gmail
+
+### Who will answer the phone?
+- Jellyvision asks customers not to schedule meetings before 10 am to fit remote workers across time zones
+- an occasional call at odd hours isn't the end of the world
+- use multiple people to cover customer support hours (or if you're small, keep the customer support employees on standard business hours... but that doesn't mean it makes sense for other employees!)
+- "Working remotely isn't without complication or occasional sacrifice.  It's about making things better for more people more of the time."
+
+### Big business doesn't do it, so why should we?
+- most big businesses are plagued with inefficiency and bureaucracy... don't look to them for productivity advice or innovation 
+- you need confidence to adopt a smarter way of working even if the rest of your industry clings to convention... why wait until this remote is common practice to start?
+
+### Others would get jealous
+- does your business value keeping people sitting in chairs for fixed amounts of time, or people getting real work done?
+- evaluate work completed, not where it happens
+- not all jobs can be remote (e.g., inventory fulfillment)
+- defuse the "everyone must be bound by the same policy" argument by reminding your boss that you're all on the same team seeking productivity and happiness-inducing ways to work
+
+### What about culture?
+- "**Culture** is the spoken and unspoken values and actions of the organization."
+- "Culture isn't a foosball table."
+- for example: how do we talk to customers?  how much do we value quality vs. good enough?  what workload do we expect?  do we value slow growth or high-risk pivots?
+- culture is the combination of where your company falls on the spectrum of questions like that
+- stronger culture needs less supervision -- ideally managers-of-one can roam freely (yay!) with the understanding that they'll do a good job
+- "The best cultures derive from actions people actually take, not the ones they write about in a mission statement."
+
+### I need an answer now!
+- when you all sit in the same office, it's easy to bug anyone anytime
+- recognize that most questions don't need an immediate answer (thank you, [Slack](https://slack.com/))
+- if you need an answer...
+  - in hours --> email
+  - in minutes --> instant message
+  - immediately --> phone
+- temper your expectations to help break the addiction to asap
+- "It's almost zen-like to let go of the frenzy, to let answers flow back to you when the other party is ready to assist.  Use that calm to be even more productive."
+
+### But I'll lose control
+- this fear is the root of many arguments against remote
+- it's emotional, not rational, but can be hard to overcome
+- start small, ramp up slowly, and build trust over time
+- some companies won't be ready to embrace it --> consider another company
+
+### We paid a lot of money for this office
+- the office is a **sunk cost**: money already spent; you don't get it back whether you use the office or not
+- really you only care that the office is a productive place
+
+### That wouldn't work for our size our industry
+- this is a copout to avoid trying remote (culture smell)
+- many industries already take advantage of remote: accounting, consulting, design, finance, legal, recruiting, software, ...
+- giant companies
+  - Fortune 100 Aetna (~50% of 35k employees remote)
+  - Deloitte (86% remote at least 20% of the time)
+  - Intel (82% remote regularly)
+- government
+  - USPTO
+  - NASA
+  - EPA
+- large companies
+  - Mercedes-Benz
+  - Teach for America
+  - U.S. Department of Education
+  - Virgin Atlantic
+  - ...
+- small - medium companies
+  - GitHub
+  - Automattic
+  - Brightbox
+  - He:Labs
+  - ...
 
 <sub><sup>[back to top](#)</sub></sup>
 
