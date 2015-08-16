@@ -4,7 +4,7 @@ by Ben Horowitz
 
 ---
 
-## Introductionbe
+## Introduction
 > This the real world, homie, school finished<br>
 > They done stole your dreams, you dunno who did it.
 > 
@@ -33,3 +33,13 @@ by Ben Horowitz
 - "Most business relationships either become too tense to tolerate or not tense enough to be productive after a while. Either people challenge each other to the point where they don't like each other or they become complacent about each other's feedback and no longer benefit from the relationship. With Marc and me, even after eighteen years, he upsets me almost every day by finding something wrong in my thinking, and I do the same for him. It works."
 - Sold to AOL, a few months in realized AOL saw itself as a media company, not a tech company: "Media companies focused on things like creating great stories whereas technology companies focused on creating a better way of doing things." (wow)
 - Born out of the experience connecting AOL partners with their e-commerce platform, then watching partner sites crash from the traffic, they started with Loudcloud in '99 to invent the idea of cloud computing
+
+
+## 2. "I Will Survive"
+## 3. This Time with Feeling
+## 4. When Things Fall Apart
+## 5. Take Care of the People, the Products, and the Profits – In That Order
+## 6. Concerning the Going Concern
+## 7. How to Lead Even When You Don't Know Where You Are Going
+## 8. First Rule of Entrepreneurship: There Are No Rules
+## 9. The End of the Beginning
