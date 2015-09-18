@@ -4,6 +4,10 @@ A place to gather thoughts from what I'm reading, listening to, and learning lat
 
 I generate note files using [bog](https://github.com/tedmiston/bog).
 
+> "An investment in knowledge pays the best interest."
+>
+> &mdash; <cite>Ben Franklin</cite>
+
 ## Books
 - [Remote](https://github.com/tedmiston/notes/blob/master/books/Remote.md) *
 - [Show Your Work!](https://github.com/tedmiston/notes/blob/master/books/Show%20Your%20Work!.md)
