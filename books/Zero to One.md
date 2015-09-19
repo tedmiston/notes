@@ -388,7 +388,7 @@ As read: November 2014
   - Are these the kind of people I want to work with?
 
 ### What's under Silicon Valley hoodies?
-- The *startup t-shirt* is a uniform connecting "a tribe of like-minded people fiercely devoted to the company's mission"
+- The *startup t-shirt* is a uniform connecting ["a tribe of like-minded people fiercely devoted to the company's mission"](http://sf.racked.com/2014/9/10/7577401/peter-thiel-zero-to-one-silicon-valley-fashion)
 - It's easier for startups to work quickly & efficiently with a *shared understanding of the world*
 - Ex. PayPal obsessed over creating a digital currency controlled by individuals
 
