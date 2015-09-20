@@ -8,6 +8,14 @@ I generate note files using [bog](https://github.com/tedmiston/bog).
 >
 > &mdash; <cite>Ben Franklin</cite>
 
+## Articles
+
+I read articles with three tools: Feedly, Instapaper, and Genius.
+
+- **Feedly** - incoming bucket for blog posts from friends, startups, tech news, etc.
+- **Instapaper** - highlighting and plaintext annotations (currently can't be shared)
+- **Genius** - rich and extensive annotations
+
 ## Books
 - [Remote](https://github.com/tedmiston/notes/blob/master/books/Remote.md) *
 - [Show Your Work!](https://github.com/tedmiston/notes/blob/master/books/Show%20Your%20Work!.md)
