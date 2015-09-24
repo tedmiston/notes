@@ -18,6 +18,8 @@ I read articles with three tools: Feedly, Instapaper, and Genius.
 
 ## Books
 
+- [Building Microservices](https://github.com/tedmiston/notes/blob/master/books/Building%20Microservices.md)
+- [Flask Web Development](https://github.com/tedmiston/notes/blob/master/books/Flask%20Web%20Development.md)
 - [Founders at Work](https://github.com/tedmiston/notes/blob/master/books/Founders%20at%20Work.md)
 - [Lightweight Django](https://github.com/tedmiston/notes/blob/master/books/Lightweight%20Django.md)
 - [Remote](https://github.com/tedmiston/notes/blob/master/books/Remote.md)
