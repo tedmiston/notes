@@ -33,6 +33,10 @@ I read articles with three tools: Feedly, Instapaper, and Genius.
 - [Zen Habits](https://github.com/tedmiston/notes/blob/master/books/Zen%20Habits.md)
 - [Zero to One](https://github.com/tedmiston/notes/blob/master/books/Zero%20to%20One.md)
 
+## Essays
+
+- [Walking](https://github.com/tedmiston/notes/blob/master/essays/Walking%20(Thoreau).md) by Henry David Thoreau
+
 ## Podcasts
 
 - [Startup School Radio](https://github.com/tedmiston/notes/tree/master/podcasts/Startup%20School%20Radio)
