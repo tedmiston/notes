@@ -62,7 +62,35 @@ This chapter is about YC interviews, especially with young founders.
 
 ## 2. Older
 
-- TODO
+The ideal founder template, Viaweb, and interviews with older founders.
+
+- **Mid-twenties is the sweet spot for startup founders**
+	- much younger and they are less committed because they can easily fall back to college
+	- much older and they've become encumbered with families and mortgages
+- PG also wrote that while someone in their early 30s is a better programmer, they have a more expensive life, and **the 25-year-old has the most advantages**: "stamina, poverty, rootlessness (geographic mobility), colleagues, and (blissful) ignorance"
+	- "Rootlessness meant that all of one's possessions either could fit in the car or were not worth moving at all."
+	- Colleagues: former classmates = prospective cofounders
+- **Ramen profitable**: the moment when a startup makes just enough to pay its founders' (minimal) living expenses
+- PG's company Viaweb which he worked on for three years was acquired by Yahoo in 1998 "achieving sufficient wealth that he would never need to work again" 💰
+- "In 1995, on the eve of his adventures as a startup founder, Paul Graham possessed the attributes he would list years later when describing the ideal twenty-five-year-old candidate for a YC investment. **He was a hacker, single, had no mortgage or assets, and was earning only enough to cover his expenses. He had stamina, too.**"
+- When he started his startup, Graham was 30, had a PhD in Computer Science with no interest in academia, was living in New York longing to be a painter, and paid his bills with freelance software consulting. "Resolving to start a startup, he hoped to be able to permanently solve that irksome problem of having to work." (represent!)
+- **His first idea, which failed**, was a service for art galleries to sell their art online, "beginning with the fact that art gallery owners had no wish whatsoever to sell tart online"
+- Pivot into *Viaweb*: add a shopping cart and target small businesses
+- "Between the two, someone was at work almost around the clock. [Robert] Morris would begin work very early; Graham would get up at noon and work until four in the morning."
+- When the software wasn't complete in one month (lol), Morris recruited fellow Harvard grad student Trevor Blackwell
+- They took $2MM in capital and in three years were acquired by Yahoo for $50MM to become Yahoo Stores
+- "A year after the Viaweb deal, Yahoo acquired Broadcast.com for more than $5 billion, leaving Yahoo with little to show for the purchase but placing Broadcast.com's cofounder **Mark Cuban** in the ranks of the wealthiest people in the country."
+- Post acquisition, Graham worked for Yahoo, but as an employee, was no longer independent or happy, so he left shortly after.
+- Seven years after acquisition, YC was founded by 4 partners:
+	- PG
+	- Robert Morris
+	- Trevor Blackwell
+	- Jessica Livingston (who PG was dating)
+- "In April 2005, when Graham announced the establishment of Y Combinator... He expressed his hope that the founders that YC would fund would not waste time or money -- YC's money -- before learning a key lesson: **a company should make something customers actually want**."
+- **The Start Fund**, beginning during W11, offered every company a $150k convertible note ($100k from Yuri Milner, $50k from Ron Conway) -- highly risk for investors, but simple for founders. It bet that at least one company from the batch would do so well as to outweigh the loss incurred by others.
+- The **MongoHQ** founders (Jason McCay, Ben Wyrosdick) didn't fit the ideal founder template with their mortgages, young kids, being in their 30s with spouses that are stay-at-home moms, and living in Alabama... but they did have a growing software business offering MongoDB as a service, something developers wanted that didn't exist yet
+- In their application, they cited Chris Dixon's blog post *Selling Pickaxes During a Gold Rush* published a few months earlier, who mentioned that YC's "most successful" exit to date was Heroku being acquired by Salesforce for $200MM cash in 3 years
+- When they applied, they had: 5,100 accounts, $5.5k recurring monthly revenue, 16% monthly growth in users... without realizing how far ahead of the other applicants they were. They even offer the service to Heroku and have a revenue-sharing deal. They did not realize how significant that was at the time, but Heroku cofounder Adam Wiggins' personal recommendation moved them to the top tier of applicants: YC alum and personal recommendations from successful alum.
 
 ## 3. Grad School
 
