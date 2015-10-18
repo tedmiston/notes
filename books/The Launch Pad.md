@@ -35,7 +35,30 @@ The Launch Pad is an unprecedented look behind the scenes of startup accelerator
 
 ## 1. Younger
 
-- TODO
+This chapter is about YC interviews, especially with young founders.
+
+- "The Kalvins" (Kalvin Wang, Randy Pang, Jason Shen) are one of the finalists invited to interview at YC Headquarters in Mountain View: ten minutes with the six YC partners, led by PG
+- Their original idea is to send memories to your inbox, but they were invited in the "we liked you more than the idea" bucket. They describe a pivot into "Mint.com for photo books" substantiated by how every Stanford dorm goes through the time-consuming process of doing this by hand every year.
+- PG wonders what else they could expand into. A Kalvin considers a book based on your tweets, Foursquare check-ins, etc.
+- Sam Altman asks if people still print photo books, and they describe the market as $1B+ last year and growing 25% in Europe
+- Trevor Blackwell questions if they're serious about printing tweets, which they answer by pointing to Blurb.com which prints blogs and went from $1MM to $30MM in the past two years but their software is clunky and slow
+- "If there is a single perfect age for founders to start a startup, the Kalvins are at that age, a little more mature than undergraduate students but not yet encumbered with the mortgages and children that make leaving a conventional, well-paying job at an established, profitable company so difficult."
+- During the interview one configuration the partners focus on uncovering is **hackers in a cage**: a nontechnical founder that holds power and treats the hackers as subordinate
+- Funding decisions are made by the end of the day: winning teams get a call with the offer: `$11k + $3k * count(founders)` up to a $20k ceiling; unselected teams get an email with a reason
+- Of ~2k applications, 64 teams would be chosen this batch
+- Younger founders are interesting because failing in your 20s is easier than your 40s with a family; and even the outcome of failing is that you're broke and much smarter, analogous to the expected outcome of grad school
+- Justin Kan and Emmett Shear's application included impressive anecdotes like Emmett graduating from high school in a 1-year program
+- Applicants fall into three categories:
+	1. promising
+	2. unpromising
+	3. promising people with an unpromising idea
+- One team includes an 18-year-old Patrick O'Doherty, whose parents decided he needed to stay home in Ireland to study for final exams; though he attended the interview remotely, PG contends that he passes the test for young founders: Do they seem older than they are?
+- A group of college freshmen in the qualified rejection category is invited off their app showing Facebook friends on a Google map, which was very popular on campus, but no one used it after trying once.
+- Graham asks, "Do you have any ideas that people would pay money for? 'Cause you know the big mistake that very young founders make is they make some sort of social mash-up thing no one's going to pay for, right? It might be a good form of discipline to force yourself to work on something that someone would actually pay you for. Maybe it's a grubby business, the Internet equivalent of a body shop. But at least it's real."
+- Next CampusCred, which offers deals around a college campus, somewhat like Groupon: ~11k active users, $117k revenue, 10% weekly growth, and they've just expanded into 5 schools in southern California
+- They point out that they've connected to college students through shot glasses and partnerships with Greek houses -- something Groupon doesn't understand college students enough to do
+- A rep at each campus sets up the deals with local businesses 
+- They talk about doing 100 schools per year to which PG asks why they don't do 100 per month? They say it takes a couple thousand dollars per school, but yes, they are already profitable. PG is delighted and wants them to get money from investors immediately and go for a land grab.
 
 ## 2. Older
 
