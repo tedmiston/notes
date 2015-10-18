@@ -1,6 +1,6 @@
 # Walking
 
-Henry David Thoreau, June 1862
+by Henry David Thoreau, June 1862
 
 *Walking* is about sauntering through nature as a mental exercise.
 
