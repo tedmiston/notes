@@ -106,7 +106,34 @@ The ideal founder template, Viaweb, and interviews with older founders.
 
 ## 6. Unsexy
 
-- TODO
+On cool ideas vs. businesses that make money and finding a real need.
+
+- Sitting around before a Tuesday dinner, some founders start to doubt their idea, especially the Kalvins with their printed photo books
+- PG: compared to a small business, a startup must be designed for scale: to grow very quickly
+- Ex. creating a small business website generator isn't a startup if it requires door-to-door sales
+- PG: How to generate new ideas
+	1. Founders are target users
+	2. Not many people could build it, but founders could
+	3. Few people realize it's a big deal [this is a lot like Peter Thiel's advice]
+- "What do I wish someone would start a startup to do for me?"
+- Bill Gates started Microsoft because he wanted to make the computer programmable
+- Woz started Apple because he wanted his own computer but couldn't afford the components
+- Brandon Ballinger's cofounder bailed at the last second and he tried changing his idea to a hyperlocal event aggregator but the partners questioned demand "for a comprehensive listing of neighborhood bars' happy hours" 😒
+- Focus on ideas leveraging problems you've worked on in the past to help improve your ability to make product decisions
+- His next idea: "Netflix for groceries" - be able to enjoy cooking more without the fuss of finding recipes, buying the right quantities, etc.
+- Harj Taggar [HT] is doubtful because it's a nice-to-have vs. a burning need
+- Next idea: A social travel digital corkboard for planning trips that afterwards shows the memories
+- Technical difficulty is a good thing if the difficult things *are* related to the problem being solved
+- HT: "The *best* kind of thing to work on -- and I appreciate this is going to be somewhat abstract or higher-level advice -- the thing you want to work on is, there's this need that's really clear and you can just launch some shitty site and people just start using it."
+- "Initially the number of users is less important than the intensity of their attachment."
+- HT: Address what businesses need, not what consumers say they would use
+- Sequoia uses the idea of **proxy for demand**: What kind of solutions are your future customers hacking together to solve this problem today? If they're not doing anything that signals that it's not a desperate enough need.
+- Most promising idea so far is comment spam scoring as a service because they have a background in it and multiple businesses have said they'd pay for it
+- HT: "It's a boring, unsexy company that makes money."
+- Friends will use stuff because they're friends, but the true test is if they love it enough to recommend to others
+- Still, the Kalvins are persistent about doing a consumer business, something their moms could use. As he leaves the room, PG says:
+
+> Moments like these are why I'm glad we invested in sixty-four startups. If you want to drive off a cliff, go ahead.
 
 ## 7. Genius
 
