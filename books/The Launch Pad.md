@@ -8,6 +8,8 @@ The Launch Pad is an unprecedented look behind the scenes of startup accelerator
 
 ## Introduction
 
+Software startups, the future, Silicon Valley, and the YC model.
+
 ### Silicon Valley, software startups, and the future
 
 - Silicon Valley's past is accessible through museums and historic garages, but in themselves they aren't that interesting; the real action is in the startups of today
