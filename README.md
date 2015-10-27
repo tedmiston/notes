@@ -10,11 +10,12 @@ I mostly generate note outlines with [bog](https://github.com/tedmiston/bog).
 
 ## Articles
 
-I read articles with three tools: Feedly, Instapaper, and Genius.
+I read articles with a few tools:
 
 - **Feedly** - incoming bucket for blog posts from friends, startups, tech news, etc.
 - **Instapaper** - highlighting and plaintext annotations (currently can't be shared)
 - **Genius** - rich and extensive annotations
+- **Pinboard** - short, simple tagged summaries saved with my bookmarks
 
 ## Books
 
