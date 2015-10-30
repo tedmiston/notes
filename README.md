@@ -22,6 +22,7 @@ I read articles with a few tools:
 - [Building Microservices](https://github.com/tedmiston/notes/blob/master/books/Building%20Microservices.md)
 - [Flask Web Development](https://github.com/tedmiston/notes/blob/master/books/Flask%20Web%20Development.md)
 - [Founders at Work](https://github.com/tedmiston/notes/blob/master/books/Founders%20at%20Work.md)
+- [Hackers & Painters](https://github.com/tedmiston/notes/blob/master/books/Hackers%20&%20Painters.md)
 - [Lightweight Django](https://github.com/tedmiston/notes/blob/master/books/Lightweight%20Django.md)
 - [Remote](https://github.com/tedmiston/notes/blob/master/books/Remote.md)
 - [Show Your Work!](https://github.com/tedmiston/notes/blob/master/books/Show%20Your%20Work!.md)
