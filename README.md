@@ -2,8 +2,6 @@
 
 A place to gather thoughts from what I'm reading, listening to, and learning lately.
 
-I mostly generate note outlines with [bog](https://github.com/tedmiston/bog).
-
 > "An investment in knowledge pays the best interest."
 >
 > &mdash; <cite>Ben Franklin</cite>
