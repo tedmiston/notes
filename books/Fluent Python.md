@@ -2,6 +2,8 @@
 *Clear, Concise, and Effective Programming*<br>
 by Luciano Ramalho, July 2015 (O'Reilly Media)
 
+This book emphasizes core language and standard library features in Python (3.4+). It was written because while Python is quick to learn, many practicing programmers know only a small subset of its features.
+
 ---
 
 ## Part 1 - Prologue
