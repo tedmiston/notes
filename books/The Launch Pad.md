@@ -199,4 +199,16 @@ On cool ideas vs. businesses that make money and finding a real need.
 
 ## Epilogue
 
-- TODO
+- In the year following, there were some big raises: Parse ($7M), Vidyard ($7M), Codecademy ($12.5M), Rap Genius ($15M); and acquisitions/acquihires by Facebook, Twitter, Dropbox, Groupon, etc.
+- But most companies ran out of money per the *Series A Crunch* in which follow-on investing hasn't grown as fast as seed
+- Aziz Gilani, Partner at Mercury Fund, studied accelerators in North America to find that 45% failed to produce even one startup that raised VC money [whoa], and for exits, only YC and TechStars had meaningful ones
+- In W13, the $150k dropped to $80k which PG said "would still give a typically sized team about a year to test out a risky idea"
+- On pivoting post-Demo Day, Danielle Morrill wrote "My greatest fear as a startup founder isn't to fail, it is to become a *zombie startup*." recognized by characteristics like: "failing to launch after working on a single idea for more than twelve months", "failing to attain 10% week-over-week growth by any significant metric", "if the founder simply did not want to get out of bed in the morning" --> "Don't waste your 20s, 30s, or 40s being a zombie."
+- On shutting down Ridejoy, Jason Shen: "The ultimate fact is that most startups fail (just as most teams don't win championships and most authors don't become best-sellers) and this is an acceptable outcome."
+- PG: YC's returns come from just a few investments (Dropbox, Airbnb); he wrote an essay about this heavily concentrated distribution called [*Black Swan Farming*](http://www.paulgraham.com/swan.html)
+- PG argues that YC is run primarily not for financial reasons, but relationships, giving reddit for example -- Conde Nast scooped it up early but its effect on the world has been large
+- If a S11 startup cracks the top 60 U.S. sites like reddit, it won't be known until 2019...
+
+> "By then, the original founders may have left long before -- this was the case with Reddit -- and set off on new startup adventures. The attraction of starting afresh is powerful, even to those who are already working on startups. No narrative that centers on Silicon Valley startups can end with a proper ending. Where a conclusion is expected are always new beginnings."
+>
+> &mdash; <cite>Randall Stross</cite>, April 29, 2013
