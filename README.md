@@ -23,7 +23,7 @@ I read articles with a few tools:
 - [Founders at Work](https://github.com/tedmiston/notes/blob/master/books/Founders%20at%20Work.md)
 - [Hackers & Painters](https://github.com/tedmiston/notes/blob/master/books/Hackers%20&%20Painters.md)
 - [Lightweight Django](https://github.com/tedmiston/notes/blob/master/books/Lightweight%20Django.md)
-- [Remote](https://github.com/tedmiston/notes/blob/master/books/Remote.md)
+- [Remote](https://github.com/tedmiston/notes/blob/master/books/Remote.md) ⭐⭐⭐⭐
 - [Show Your Work!](https://github.com/tedmiston/notes/blob/master/books/Show%20Your%20Work!.md)
 - [The 4-Hour Work Week](https://github.com/tedmiston/notes/blob/master/books/The%204-Hour%20Work%20Week.md)
 - [The Hard Thing About Hard Things](https://github.com/tedmiston/notes/blob/master/books/The%20Hard%20Thing%20About%20Hard%20Things.md)
