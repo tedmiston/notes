@@ -27,7 +27,7 @@ I read articles with a few tools:
 - [Show Your Work!](https://github.com/tedmiston/notes/blob/master/books/Show%20Your%20Work!.md)
 - [The 4-Hour Work Week](https://github.com/tedmiston/notes/blob/master/books/The%204-Hour%20Work%20Week.md)
 - [The Hard Thing About Hard Things](https://github.com/tedmiston/notes/blob/master/books/The%20Hard%20Thing%20About%20Hard%20Things.md)
-- [The Launch Pad](https://github.com/tedmiston/notes/blob/master/books/The%20Launch%20Pad.md)
+- [The Launch Pad](https://github.com/tedmiston/notes/blob/master/books/The%20Launch%20Pad.md) ⭐⭐⭐⭐⭐
 - [The Pragmatic Programmer](https://github.com/tedmiston/notes/blob/master/books/The%20Pragmatic%20Programmer.md)
 - [Two Scoops of Django 1.8](https://github.com/tedmiston/notes/blob/master/books/Two%20Scoops%20of%20Django.md)
 - [You Have Too Much Shit](https://github.com/tedmiston/notes/blob/master/books/You%20Have%20Too%20Much%20Shit.md)
