@@ -36,7 +36,7 @@ I read articles with a few tools:
 
 ## Essays
 
-- [Walking](https://github.com/tedmiston/notes/blob/master/essays/Walking%20(Thoreau).md) by Henry David Thoreau
+- [Walking][1] by Henry David Thoreau
 
 ## Podcasts
 
@@ -44,3 +44,5 @@ I read articles with a few tools:
 - [Talk Python to Me](https://github.com/tedmiston/notes/tree/master/podcasts/Talk%20Python%20to%20Me)
 - [The Lively Show](https://github.com/tedmiston/notes/tree/master/podcasts/The%20Lively%20Show)
 - [a16z](https://github.com/tedmiston/notes/tree/master/podcasts/a16z)
+
+[1]: https://github.com/tedmiston/notes/blob/master/essays/Walking%20(Thoreau).md
