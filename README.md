@@ -1,10 +1,16 @@
 # Notes
 
-A place to gather thoughts from what I'm reading, listening to, and learning lately.
+A small place to gather thoughts from what I'm learning lately.
 
 > "An investment in knowledge pays the best interest."
 >
 > &mdash; <cite>Ben Franklin</cite>
+
+Right now this repo serves three purposes:
+
+1. a log of what I've read recently
+2. a queue of what I want to read in the future
+3. an archive for what I read before I was an annotated reader
 
 ## Articles
 
@@ -16,6 +22,10 @@ I read articles with a few tools:
 - **Pinboard** - short, simple tagged summaries saved with my bookmarks
 
 ## Books
+
+I rarely read cover-to-cover. If the notes for a section are blank, that's why. If they consist of a `TODO`, then I either haven't processed whether to read that part yet or intend to read it *eventually*.
+
+Ratings below are an experiment on a 1-5 scale.
 
 - [Building Microservices](https://github.com/tedmiston/notes/blob/master/books/Building%20Microservices.md)
 - [Flask Web Development](https://github.com/tedmiston/notes/blob/master/books/Flask%20Web%20Development.md)
