@@ -26,6 +26,7 @@ I read articles with a few tools:
 - [Remote](https://github.com/tedmiston/notes/blob/master/books/Remote.md) ⭐⭐⭐⭐
 - [Show Your Work!](https://github.com/tedmiston/notes/blob/master/books/Show%20Your%20Work!.md) ⭐⭐⭐⭐⭐
 - [The 4-Hour Work Week](https://github.com/tedmiston/notes/blob/master/books/The%204-Hour%20Work%20Week.md)
+- [The Elements of Investing](https://github.com/tedmiston/notes/blob/master/books/The%20Elements%20of%20Investing.md)
 - [The Hard Thing About Hard Things](https://github.com/tedmiston/notes/blob/master/books/The%20Hard%20Thing%20About%20Hard%20Things.md)
 - [The Launch Pad](https://github.com/tedmiston/notes/blob/master/books/The%20Launch%20Pad.md) ⭐⭐⭐⭐⭐
 - [The Pragmatic Programmer](https://github.com/tedmiston/notes/blob/master/books/The%20Pragmatic%20Programmer.md)
