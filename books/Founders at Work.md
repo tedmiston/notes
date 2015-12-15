@@ -6,8 +6,9 @@ by Jessica Livingston
 
 ## Introduction
 
-- This book is about founders' stories in their own words, and the patterns she observed with the goal to inspire future founders
-- Many founders were uncertain about starting a company or sure they were doing something big, just sure that _they wanted to fix something broken_ or making something good
+- This book is about founders' stories in their own words, and the patterns she observed
+- The goal is to inspire future founders
+- Many founders were uncertain about starting a company or sure they were doing something big, just sure that they wanted to *fix something broken* or make something good
 - **Determination** is the most important personality trait because you must be able to persevere when nothing goes according to plan, uncertainty, isolation, rejection, etc.
 - **Innovation** is something people like abstractly but resist concretely because it differs from what they know
 - Web-based email was once dismissed as unpromising
@@ -16,10 +17,10 @@ by Jessica Livingston
 >
 > -Howard Aiken
 
-- **Adaptability** is important because most startups don't grow from a brilliant seedling -- they change their ideas
-  - PayPal was encryption software
-  - Flickr was a game
-- Successful founders get rich but care more about changing the world and pride in craftsmanship
+- **Adaptability** is important because most startups change their ideas rather than grow from a brilliant seedling
+  - PayPal started as encryption software
+  - Flickr started as a game
+- Successful founders get rich but care more about changing the world and craftsmanship
 - In the business world, startups are *the essence of productivity*
 
 
