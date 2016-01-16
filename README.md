@@ -33,6 +33,7 @@ Ratings below are an experiment on a 1-5 scale.
 - [Founders at Work](https://github.com/tedmiston/notes/blob/master/books/Founders%20at%20Work.md)
 - [Hackers & Painters](https://github.com/tedmiston/notes/blob/master/books/Hackers%20&%20Painters.md)
 - [How Google Works](https://github.com/tedmiston/notes/blob/master/books/How%20Google%20Works.md)
+- [Idiot's Guides: Zen Living](https://github.com/tedmiston/notes/blob/master/books/Idiot's%20Guides:%20Zen%20Living.md)
 - [Lightweight Django](https://github.com/tedmiston/notes/blob/master/books/Lightweight%20Django.md)
 - [Remote](https://github.com/tedmiston/notes/blob/master/books/Remote.md) ⭐⭐⭐⭐
 - [Show Your Work!](https://github.com/tedmiston/notes/blob/master/books/Show%20Your%20Work!.md) ⭐⭐⭐⭐⭐
