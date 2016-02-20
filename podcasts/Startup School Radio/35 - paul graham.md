@@ -53,15 +53,16 @@
 - steve & alexis from reddit came up to see it from virginia after seeing it on his website
 - startups weren't a hot topic in '04 after the bust in '99
 - "if you wanna raise money, raise money from people that made the money doing startups and then they can give you advice too... it's funny that's what yc turned into"
+
 - yc was a project just because we wanted to do some angel investing and learn how to be investors
-- we didn't have software, we printed out all the emails, printed them out, graded them, and passed them around to each other
-- what i advise most startups to do is zero in on the most urgent problem and figure out how to fix it
+- we didn't have software, we printed out the emails, graded them, and passed them around to each other
+- i advise most startups to zero in on the most urgent problem and figure out how to fix it
 - the original reddit idea was to order fast food on your phone "my mobile menu"
-- yc is not like a school with lectures, it's more like grad school with very customized advice based on their dissertation
-- we learned that doing startups in batches had all these advantages... we'd learn inadvertently applying manufacturing technique to venture capital
-- because in startups there's a bimodal distribution of outcomes: die or get rich
+- yc is not like a school with lectures, it's more like grad school with very customized, situational advice
+- we learned that doing startups in batches had all these advantages that we found by inadvertently applying manufacturing techniques to venture capital
+- in startups there's a bimodal distribution of outcomes: die or get rich
 - "we didn't have a guarantee any of these startups would succeed but it was a sufficiently good bet, which is all you ever get in the startup world"
-- sequoia invested in sam altman in the first batch
-- early-stage startups are just so much fast-moving chaos "the founder will have to throw a ball without looking and assume the other guy be out ready to catch it without looking"
-- in retrospect viaweb and yc did so many thing right by accident, "the story of my life"
-- "yc was started in order to learn about how to be investors, not to make money... that's why it makes so much money because it wasn't trying to make money"
+- sequoia invested in sam altman in the first batch "12.5% of our first batch is funded by sequoia"
+- early-stage startups are just so much fast-moving chaos "the founder will have to throw a ball without looking and assume the other guy will be out ready to catch it"
+- in retrospect viaweb and yc did so many things right by accident, "the story of my life"
+- "yc was started to learn about how to be investors, not make money... that's why it makes so much money because it wasn't trying to make money"
