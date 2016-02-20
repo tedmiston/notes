@@ -27,35 +27,33 @@ I rarely read cover-to-cover. If the notes for a section are blank, that's why. 
 
 Ratings below are an experiment on a 1-5 scale.
 
-- [Building Microservices](https://github.com/tedmiston/notes/blob/master/books/Building%20Microservices.md)
-- [Flask Web Development](https://github.com/tedmiston/notes/blob/master/books/Flask%20Web%20Development.md)
-- [Fluent Python](https://github.com/tedmiston/notes/blob/master/books/Fluent%20Python.md)
-- [Founders at Work](https://github.com/tedmiston/notes/blob/master/books/Founders%20at%20Work.md)
-- [Hackers & Painters](https://github.com/tedmiston/notes/blob/master/books/Hackers%20&%20Painters.md)
-- [How Google Works](https://github.com/tedmiston/notes/blob/master/books/How%20Google%20Works.md)
-- [Idiot's Guides: Zen Living](https://github.com/tedmiston/notes/blob/master/books/Idiot's%20Guides:%20Zen%20Living.md)
-- [Lightweight Django](https://github.com/tedmiston/notes/blob/master/books/Lightweight%20Django.md)
-- [Remote](https://github.com/tedmiston/notes/blob/master/books/Remote.md) ⭐⭐⭐⭐
-- [Show Your Work!](https://github.com/tedmiston/notes/blob/master/books/Show%20Your%20Work!.md) ⭐⭐⭐⭐⭐
-- [The 4-Hour Work Week](https://github.com/tedmiston/notes/blob/master/books/The%204-Hour%20Work%20Week.md)
-- [The Elements of Investing](https://github.com/tedmiston/notes/blob/master/books/The%20Elements%20of%20Investing.md)
-- [The Hard Thing About Hard Things](https://github.com/tedmiston/notes/blob/master/books/The%20Hard%20Thing%20About%20Hard%20Things.md)
-- [The Launch Pad](https://github.com/tedmiston/notes/blob/master/books/The%20Launch%20Pad.md) ⭐⭐⭐⭐⭐
-- [The Pragmatic Programmer](https://github.com/tedmiston/notes/blob/master/books/The%20Pragmatic%20Programmer.md)
-- [Two Scoops of Django 1.8](https://github.com/tedmiston/notes/blob/master/books/Two%20Scoops%20of%20Django.md)
-- [You Have Too Much Shit](https://github.com/tedmiston/notes/blob/master/books/You%20Have%20Too%20Much%20Shit.md) ⭐⭐⭐
-- [Zen Habits](https://github.com/tedmiston/notes/blob/master/books/Zen%20Habits.md)
-- [Zero to One](https://github.com/tedmiston/notes/blob/master/books/Zero%20to%20One.md)
+- [Building Microservices](books/Building Microservices.md)
+- [Flask Web Development](books/Flask Web Development.md)
+- [Fluent Python](books/Fluent Python.md)
+- [Founders at Work](books/Founders at Work.md)
+- [Hackers & Painters](books/Hackers & Painters.md)
+- [How Google Works](books/How Google Works.md)
+- [Idiot's Guides: Zen Living](books/Idiot's Guides: Zen Living.md)
+- [Lightweight Django](books/Lightweight Django.md)
+- [Remote](books/Remote.md) ⭐⭐⭐⭐
+- [Show Your Work!](books/Show Your Work!.md) ⭐⭐⭐⭐⭐
+- [The 4-Hour Work Week](books/The 4-Hour Work Week.md)
+- [The Elements of Investing](books/The Elements of Investing.md)
+- [The Hard Thing About Hard Things](books/The Hard Thing About Hard Things.md)
+- [The Launch Pad](books/The Launch Pad.md) ⭐⭐⭐⭐⭐
+- [The Pragmatic Programmer](books/The Pragmatic Programmer.md)
+- [Two Scoops of Django 1.8](books/Two Scoops of Django.md)
+- [You Have Too Much Shit](books/You Have Too Much Shit.md) ⭐⭐⭐
+- [Zen Habits](books/Zen Habits.md)
+- [Zero to One](books/Zero to One.md)
 
 ## Essays
 
-- [Walking][1] by Henry David Thoreau
+- [Walking](essays/Walking (Thoreau).md) by Henry David Thoreau
 
 ## Podcasts
 
-- [Startup School Radio](https://github.com/tedmiston/notes/tree/master/podcasts/Startup%20School%20Radio)
-- [Talk Python to Me](https://github.com/tedmiston/notes/tree/master/podcasts/Talk%20Python%20to%20Me)
-- [The Lively Show](https://github.com/tedmiston/notes/tree/master/podcasts/The%20Lively%20Show)
-- [a16z](https://github.com/tedmiston/notes/tree/master/podcasts/a16z)
-
-[1]: https://github.com/tedmiston/notes/blob/master/essays/Walking%20(Thoreau).md
+- [Startup School Radio](podcasts/Startup School Radio)
+- [Talk Python to Me](podcasts/Talk Python to Me)
+- [The Lively Show](podcasts/The Lively Show)
+- [a16z](podcasts/a16z)
