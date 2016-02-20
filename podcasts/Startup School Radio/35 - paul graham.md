@@ -1,5 +1,8 @@
 # startup school radio 35 - paul graham
 
+[episode](https://soundcloud.com/akharris/startup-school-episode-35-y-combinator-co-founder-paul-graham) |
+[transcript](http://www.themacro.com/articles/2016/02/paul-graham-startup-school-radio-interview/)
+
 ## meta
 
 - hosted by aaron harris, kat manalac "man-yawl-ik"
