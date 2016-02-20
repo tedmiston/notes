@@ -1,13 +1,11 @@
 # startup school radio 35 - paul graham
 
+hosted by aaron harris, kat manalac "man-yawl-ik"
+
 [episode](https://soundcloud.com/akharris/startup-school-episode-35-y-combinator-co-founder-paul-graham) |
 [transcript](http://www.themacro.com/articles/2016/02/paul-graham-startup-school-radio-interview/)
 
-## meta
-
-- hosted by aaron harris, kat manalac "man-yawl-ik"
-
-## notes
+---
 
 - trick for interviews: "if someone asks you a boring question, just answer the interesting one they might have asked and nobody complains"
 - donald rumsfeld is a beast at answering interview questions w/o saying anything he doesn't want to say
