@@ -49,7 +49,7 @@ Ratings below are an experiment on a 1-5 scale.
 
 ## Essays
 
-- [Walking][1] by Henry David Thoreau
+- [Walking](essays/Walking (Thoreau).md) by Henry David Thoreau
 
 ## Podcasts
 
@@ -57,5 +57,3 @@ Ratings below are an experiment on a 1-5 scale.
 - [Talk Python to Me](podcasts/Talk Python to Me)
 - [The Lively Show](podcasts/The Lively Show)
 - [a16z](podcasts/a16z)
-
-[1]: essays/Walking (Thoreau).md
