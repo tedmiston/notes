@@ -6,26 +6,21 @@ A small place to gather thoughts from what I'm learning lately.
 >
 > &mdash; <cite>Ben Franklin</cite>
 
-Right now this repo serves three purposes:
+This repo serves three purposes:
 
 1. a log of what I've read recently
 2. a queue of what I want to read in the future
-3. an archive for what I read before I was an annotated reader
+3. an archive of what I've read in the distant past
+
+## Meta
+
+Articles are mostly read, highlighted, and annotated in Instapaper.  Alternatively, I use Safari Books Online or Genius.  On occasion, I'll write summaries in Pinboard, mostly for its support for tagging.  My setup uses Feedly as a content inbox with some automation via IFTTT for the feeds I care about most.  And of course I read Hacker News every day.
+
+I rarely read books cover-to-cover.  A blank spot in my notes indicates a skipped section, while those I plan to read eventually are marked with todos.  Star ratings are recommendations on a 1-5 scale.
 
 ## Articles
 
-I read articles with a few tools:
-
-- **Feedly** - incoming bucket for blog posts from friends, startups, tech news, etc.
-- **Instapaper** - highlighting and plaintext annotations (currently can't be shared)
-- **Genius** - rich and extensive annotations
-- **Pinboard** - short, simple tagged summaries saved with my bookmarks
-
 ## Books
-
-I rarely read cover-to-cover. If the notes for a section are blank, that's why. If they consist of a `TODO`, then I either haven't processed whether to read that part yet or intend to read it *eventually*.
-
-Ratings below are an experiment on a 1-5 scale.
 
 - [Building Microservices](books/Building Microservices.md)
 - [Flask Web Development](books/Flask Web Development.md)
