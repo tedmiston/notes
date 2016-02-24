@@ -53,7 +53,7 @@ Ratings below are an experiment on a 1-5 scale.
 
 ## Podcasts
 
+- [a16z](podcasts/a16z)
 - [Startup School Radio](podcasts/Startup School Radio)
 - [Talk Python to Me](podcasts/Talk Python to Me)
 - [The Lively Show](podcasts/The Lively Show)
-- [a16z](podcasts/a16z)
