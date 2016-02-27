@@ -6,6 +6,18 @@ PG explores the intellectual wild west of computers being ingrained into every a
 
 ## Preface
 
+- "This book is an attempt to explain to the world at large what goes on in the world of computers."
+- "You may have noticed that a lot of the people getting rich in the last thirty years have been programmers."
+- "The money in software is one instance of a more general trend, and that trend is the theme of this book. This is the Computer Age."
+- "Everything around us is turning into computers."
+- "And since the purpose of this book is to explain how things really are in our world, I decided it was worth the risk to use the words we use."
+- "Computer programs are all just text. And the language you choose determines what you can say. Programming languages are what programmers think in."
+- "Programmers tend to be divided into tribes by the languages they use."
+- "Why do hackers care so much about free speech? Partly, I think, because innovation is so important in software, and innovation and heresy are practically the same thing. Good hackers develop a habit of questioning everything."
+- "The computer world is like an intellectual Wild West, where you can think anything you want, if you're willing to risk the consequences."
+- "Though hackers generally look dull on the outside, the insides of their heads are surprisingly interesting places."
+- Chapters are independent
+
 ## 1. Why Nerds Are Unpopular
 
 ## 2. Hackers and Painters
