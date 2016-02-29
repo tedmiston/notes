@@ -26,7 +26,7 @@ I rarely read books cover-to-cover.  A blank spot in my notes indicates a skippe
 - [Flask Web Development](books/Flask Web Development.md)
 - [Fluent Python](books/Fluent Python.md)
 - [Founders at Work](books/Founders at Work.md)
-- [Hackers & Painters](books/Hackers & Painters.md)
+- [Hackers & Painters](books/Hackers & Painters/Hackers & Painters.md)
 - [How Google Works](books/How Google Works.md)
 - [Idiot's Guides: Zen Living](books/Idiot's Guides: Zen Living.md)
 - [Lightweight Django](books/Lightweight Django.md)

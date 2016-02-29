@@ -1,3 +1,5 @@
+![](cover.jpg)
+
 # Hackers & Painters
 *Big Ideas from the Computer Age*<br>
 by Paul Graham, 2004
