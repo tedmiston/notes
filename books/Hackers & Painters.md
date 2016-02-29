@@ -39,7 +39,12 @@ PG explores the intellectual wild west of computers being ingrained into every a
 
 - startups compress your working life into less years by working more intensely than in a corporate job
 - he accumulates factors to arrive at a ~36x productivity multiplier in a startup (e.g., work more hours, focus more, remove unnecessary management, how much smarter you are than what your current job requires, etc.)
+- re: interruptions in startups
+	- "One valuable thing you tend to get only in startups is uninterruptability."
+	- "The mere possibility of being interrupted deters hackers from starting hard projects. This is why they tend to work late at night, and why it's next to impossible to write great software in a cubicle (except late at night)."
 - "Combine all these multipliers, and I'm claiming you could be 36 times more productive than you're expected to be in a random corporate job. If a fairly good hacker is worth $80,000 a year at a big company, then a smart hacker working very hard without any corporate bullshit to slow him down should be able to do work worth about $3 million a year."
+- re: making pay less average
+	- "Hypothesis: A company will be maximally profitable when each employee is paid in proportion to the wealth they generate."
 - "Startups are not magic. They don't change the laws of wealth creation. They just represent a point at the far end of the curve. There is a conservation law at work here: if you want to make a million dollars, you have to endure a million dollars' worth of pain."
 
 ### Millions, not Billions
@@ -58,6 +63,9 @@ PG explores the intellectual wild west of computers being ingrained into every a
 - "The solution societies find, as they get more specialized, is to make the trade into a two-step process."
 - "The intermediate stuff—the medium of exchange—can be anything that's rare and portable. Historically metals have been the most common, but recently we've been using a medium of exchange, called the dollar, that doesn't physically exist. It works as a medium of exchange, however, because its rarity is guaranteed by the U.S. Government."
 - "People think that what a business does is make money. But money is just the intermediate stage—just a shorthand—for whatever people want. What most businesses really do is make wealth. They do something people want."
+- re: giving people what they want, not what you like
+	- "When you're starting a business, it's easy to slide into thinking that customers want what you do. During the Internet Bubble I talked to a woman who, because she liked the outdoors, was starting an "outdoor portal." You know what kind of business you should start if you like the outdoors? One to recover data from crashed hard disks."
+	- "What's the connection? None at all. Which is precisely my point. If you want to create wealth (in the narrow technical sense of not starving) then you should be especially skeptical about any plan that centers on things you like doing."
 
 ### The Pie Fallacy
 
@@ -84,6 +92,8 @@ PG explores the intellectual wild west of computers being ingrained into every a
 - "If wealth means what people want, companies that move things also create wealth."
 - "But here there is another layer that tends to obscure the underlying reality. In a company, the work you do is averaged together with a lot of other people's."
 - "Someone graduating from college thinks, and is told, that he needs to get a job, as if the important thing were becoming a member of an institution. A more direct way to put it would be: you need to start doing something people want. You don't need to join a company to do that. All a company is is a group of people working together to do something people want. It's doing something people want that matters, not joining the group."
+- re: going from school to a job
+	- "Many people feel confused and depressed in their early twenties. Life seemed so much more fun in college."
 
 ### Working Harder
 
@@ -136,7 +146,12 @@ PG explores the intellectual wild west of computers being ingrained into every a
 - "Otherwise as soon as some big company becomes aware of it, they'll make their own, and with their brand name, capital, and distribution clout, they'll take away your market overnight."
 - "patents"
 - "And if they can't, they may simply violate it and invite you to sue them. A big company is not afraid to be sued; it's an everyday thing for them. They'll make sure that suing them is expensive and takes a long time."
+- re: companies that invent things vs. make money from things
+	- "Few technologies have one clear inventor. So as a rule, if you know the "inventor" of something ... it is because their company made money from it, and the company's PR people worked hard to spread the story."
 - "Start by picking a hard problem, and then at every decision point, take the harder choice."
+- re: taking the harder path
+	- "This is a good plan for life in general. If you have two choices, choose the harder."
+	- "You know in the back of your mind what's the right thing to do, and this trick merely forces you to acknowledge it."
 
 ### The Catch(es)
 
