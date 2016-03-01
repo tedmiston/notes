@@ -6,17 +6,17 @@ A small place to gather thoughts from what I'm learning lately.
 >
 > &mdash; <cite>Ben Franklin</cite>
 
-This repo serves three purposes:
+This project serves three purposes:
 
-1. a log of what I've read recently
-2. a queue of what I want to read in the future
-3. an archive of what I've read in the distant past
+1. a log - what I'm reading now
+2. a queue - what I want to read in the future
+3. an archive - what I've finished reading
 
 ## Meta
 
-Articles are mostly read, highlighted, and annotated in Instapaper.  Alternatively, I use Safari Books Online or Genius.  On occasion, I'll write summaries in Pinboard, mostly for its support for tagging.  My setup uses Feedly as a content inbox with some automation via IFTTT for the feeds I care about most.  And of course I read Hacker News every day.
+Articles are read, highlighted, and annotated mostly in Instapaper.  Alternatively, I use Safari Books Online, Medium, or Genius.  On occasion, I'll write summaries in Pinboard for hashtags.  Feedly is my content inbox with automation via IFTTT for "must read" feeds.  I also skim Hacker News daily.
 
-I rarely read books cover-to-cover.  A blank spot in my notes indicates a skipped section, while those I plan to read eventually are marked with todos.  Star ratings are recommendations on a 1-5 scale.
+I rarely read books cover-to-cover.  A blank spot indicates a skipped section, while those I plan to read are marked todo.  Star ratings are recommendations on a 1-5 scale.
 
 ## Articles
 
