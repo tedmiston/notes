@@ -20,6 +20,10 @@ I rarely read books cover-to-cover.  A blank spot in my notes indicates a skippe
 
 ## Articles
 
+### February 2016
+
+1. [Fixing the Inequity of Startup Equity](articles/Fixing the Inequity of Startup Equity (Taggar 2016).md)
+
 ## Books
 
 - [Building Microservices](books/Building Microservices.md)
