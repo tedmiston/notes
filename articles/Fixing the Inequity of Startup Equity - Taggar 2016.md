@@ -3,7 +3,7 @@ by Harjeet Taggar
 
 [Article text](https://data.triplebyte.com/fixing-the-inequity-of-startup-equity-469793baad1e) | [HN discussion](https://news.ycombinator.com/item?id=11197510)
 
-This article describes Triplebyte's attempt to improve exercising startup options by extending the window to 10 years.
+Triplebyte attempts to improve exercising startup options by extending the window to 10 years.
 
 ---
 

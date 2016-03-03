@@ -22,7 +22,7 @@ I rarely read books cover-to-cover.  A blank spot indicates a skipped section, w
 
 ### February 2016
 
-1. [Fixing the Inequity of Startup Equity](articles/Fixing the Inequity of Startup Equity (Taggar 2016).md)
+1. [Fixing the Inequity of Startup Equity](articles/Fixing the Inequity of Startup Equity - Taggar 2016.md)
 
 ## Books
 
@@ -48,7 +48,7 @@ I rarely read books cover-to-cover.  A blank spot indicates a skipped section, w
 
 ## Essays
 
-- [Walking](essays/Walking (Thoreau).md) by Henry David Thoreau
+- [Walking](essays/Walking - Thoreau.md) by Henry David Thoreau
 
 ## Podcasts
 
