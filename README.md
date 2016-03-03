@@ -1,6 +1,6 @@
 # Notes
 
-A small place to gather thoughts from what I'm learning lately.
+An unassuming place to think about what I'm learning.
 
 > "An investment in knowledge pays the best interest."
 >
@@ -14,9 +14,22 @@ This project serves three purposes:
 
 ## Meta
 
-Articles are read, highlighted, and annotated mostly in Instapaper.  Alternatively, I use Safari Books Online, Medium, or Genius.  On occasion, I'll write summaries in Pinboard for hashtags.  Feedly is my content inbox with automation via IFTTT for "must read" feeds.  I also skim Hacker News daily.
+### Workflow
 
-I rarely read books cover-to-cover.  A blank spot indicates a skipped section, while those I plan to read are marked todo.  Star ratings are recommendations on a 1-5 scale.
+I read, highlight, and annotate articles mostly on Instapaper.  Alternatively, I use Safari Books Online, Medium, or Genius.  On occasion, I'll write summaries in Pinboard for hashtags.  Feedly is my content inbox with automation via IFTTT for "must read" feeds.  I also skim Hacker News daily.
+
+### Apps
+
+I use and recommend two Mac apps to work with Markdown:
+
+- [FoldingText](http://www.foldingtext.com/) for editing
+- [Marked 2](http://marked2app.com/) for previewing and reading
+
+### Misc.
+
+I rarely read books cover-to-cover.  Blank spots indicate skipped sections.
+
+Star ratings are recommendations on a 1-5 scale.
 
 ## Articles
 
