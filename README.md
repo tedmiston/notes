@@ -48,7 +48,7 @@ I rarely read books cover-to-cover.  A blank spot indicates a skipped section, w
 
 ## Essays
 
-- [Walking](essays/Walking - Thoreau.md) by Henry David Thoreau
+- [Walking](essays/Walking - Thoreau.md)
 
 ## Podcasts
 
