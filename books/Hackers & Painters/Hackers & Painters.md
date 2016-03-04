@@ -4,7 +4,11 @@
 *Big Ideas from the Computer Age*<br>
 by Paul Graham, 2004
 
+[Safari](https://www.safaribooksonline.com/library/view/hackers-painters/0596006624/) | [Official site](http://paulgraham.com/hackpaint.html)
+
 PG explores the intellectual wild west of computers being ingrained into every aspect of our lives.
+
+---
 
 ## Preface
 
