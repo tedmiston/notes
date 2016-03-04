@@ -64,7 +64,7 @@ hosted by aaron harris, kat manalac "man-yawl-ik"
 ### back to writing & how to start a startup
 
 - he didn't want to start another company, so he just started writing code (programming languages) and essays... "i basically went back to my old life"
-- harvard computer club asked him to give a talk so he wrote an essay and talked about how to start a startup... which led to yc
+- harvard computer club asked him to give a talk so he wrote an essay and talked about [how to start a startup](http://www.paulgraham.com/hp.html)... which led to yc
 - steve & alexis from reddit came up to see it from virginia after seeing it on his website
 - startups weren't a hot topic in '04 after the bust in '99
 - "if you wanna raise money, raise money from people that made the money doing startups and then they can give you advice too... it's funny that's what yc turned into"
