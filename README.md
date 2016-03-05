@@ -33,6 +33,10 @@ Star ratings are recommendations on a 1-5 scale.
 
 ## Articles
 
+### March 2016
+
+1. [minimalism isn't traveling the world with nothing](articles/minimalism isn't traveling the world with nothing - babauta.md)
+
 ### February 2016
 
 1. [Fixing the Inequity of Startup Equity](articles/Fixing the Inequity of Startup Equity - Taggar 2016.md)
