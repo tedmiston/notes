@@ -18,18 +18,12 @@ This project serves three purposes:
 
 I read, highlight, and annotate articles mostly on Instapaper.  Alternatively, I use Safari Books Online, Medium, or Genius.  On occasion, I'll write summaries in Pinboard for hashtags.  Feedly is my content inbox with automation via IFTTT for "must read" feeds.  I also skim Hacker News daily.
 
-### Apps
-
-I use and recommend two Mac apps to work with Markdown:
-
-- [FoldingText](http://www.foldingtext.com/) for editing
-- [Marked 2](http://marked2app.com/) for previewing and reading
+I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingtext.com/) for writing, and [Marked](http://marked2app.com/) for previewing and reading.
 
 ### Misc.
 
-I rarely read books cover-to-cover.  Blank spots indicate skipped sections.
-
-Star ratings are recommendations on a 1-5 scale.
+- I rarely read books cover-to-cover.  Blank spots indicate skipped sections.
+- Star ratings are recommendations on a 1-5 scale.
 
 ## Articles
 
