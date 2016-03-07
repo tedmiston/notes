@@ -62,6 +62,10 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 
 - [Walking](essays/Walking - Thoreau.md)
 
+## Magazines
+
+- [Offscreen](magazines/Offscreen)
+
 ## Podcasts
 
 - [a16z](podcasts/a16z)
