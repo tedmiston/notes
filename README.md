@@ -72,3 +72,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 - [Startup School Radio](podcasts/Startup School Radio)
 - [Talk Python to Me](podcasts/Talk Python to Me)
 - [The Lively Show](podcasts/The Lively Show)
+
+## Videos
+
+- [TIME 100 - Kanye West by Elon Musk](videos/TIME 100/Kanye West.md)
