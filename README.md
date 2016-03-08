@@ -62,7 +62,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 
 ## Essays
 
-- [Walking](essays/Walking - Thoreau.md)
+- [Walking](essays/Walking - Thoreau.md) by Henry David Thoreau
 
 ## Magazines
 
