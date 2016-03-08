@@ -31,6 +31,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 
 1. [minimalism isn't traveling the world with nothing](articles/minimalism isn't traveling the world with nothing - babauta.md)
 2. [the zen of limits](articles/The Zen of Limits - Babauta.md)
+3. [Working from Home and Phatic Communication](articles/Working from Home and Phatic Communication.md)
 
 ### February 2016
 
