@@ -29,13 +29,13 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 
 ### March 2016
 
-1. [Minimalism Isn't Traveling the World with Nothing](articles/minimalism isn't traveling the world with nothing - babauta.md)
-2. [The Zen of Limits](articles/The Zen of Limits - Babauta.md)
+1. [Minimalism Isn't Traveling the World with Nothing](articles/Minimalism Isn't Traveling the World with Nothing.md)
+2. [The Zen of Limits](articles/The Zen of Limits.md)
 3. [Working from Home and Phatic Communication](articles/Working from Home and Phatic Communication.md)
 
 ### February 2016
 
-1. [Fixing the Inequity of Startup Equity](articles/Fixing the Inequity of Startup Equity - Taggar 2016.md)
+1. [Fixing the Inequity of Startup Equity](articles/Fixing the Inequity of Startup Equity.md)
 
 ## Books
 
@@ -62,7 +62,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 
 ## Essays
 
-- [Walking](essays/Walking - Thoreau.md) by Henry David Thoreau
+- [Walking](essays/Walking.md) by Henry David Thoreau
 
 ## Magazines
 
