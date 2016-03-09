@@ -62,6 +62,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 
 ## Essays
 
+- [Cities and Ambition](essays/Cities and Ambition.md) by Paul Graham
 - [Walking](essays/Walking.md) by Henry David Thoreau
 
 ## Magazines
