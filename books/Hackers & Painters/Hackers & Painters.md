@@ -179,6 +179,70 @@ PG explores the intellectual wild west of computers being ingrained into every a
 
 ## 9. Taste for Makers
 
+### Intro
+
+- 
+
+### Good Design is Simple
+
+- 
+
+### Good Design is Timeless
+
+- 
+
+### Good Design Solves the Right Problem
+
+- 
+
+### Good Design is Suggestive
+
+- 
+
+### Good Design is Often Slightly Funny
+
+- 
+
+### Good Design is Hard
+
+- 
+
+### Good Design Looks Easy
+
+- 
+
+### Good Design Uses Symmetry
+
+- 
+
+### Good Design Resembles Nature
+
+- 
+
+### Good Design is Redesign
+
+- 
+
+### Good Design Can Copy
+
+- 
+
+### Good Design is Often Strange
+
+- 
+
+### Good Design Happens in Chunks
+
+- 
+
+### Good Design is Often Daring
+
+- 
+
+### Summary
+
+- 
+
 ## 10. Programming Languages Explained
 
 ## 11. The Hundred-Year Language
