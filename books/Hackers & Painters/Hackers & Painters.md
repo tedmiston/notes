@@ -189,19 +189,24 @@ PG explores the intellectual wild west of computers being ingrained into every a
 
 ### Good Design is Timeless
 
-- 
+- "Aiming at timelessness is a way to make yourself find the best answer: if you can imagine someone surpassing you, you should do it yourself."
 
 ### Good Design Solves the Right Problem
 
-- 
+- stove - 4 knobs in a row is simple, but 4 knobs in a grid is better because it matches the burners so people don't have to think
+- fonts - sans-serif is purer but less legible
+- problems can improved too -- ex. replacing an intractable one with an easier one
 
 ### Good Design is Suggestive
 
-- 
+- Jane Austen novels don't describe, they let you envision the scene yourself
+- suggesting is more engaging than telling -- a well designed object will let you use it as you want
+- in software, give people basic elements they can combine like legos
 
 ### Good Design is Often Slightly Funny
 
-- 
+- a sense of humor is strength; to keep it is to shrug off misfortunes
+- the confident will seem to be making fun of the whole process slightly -- don't take yourself too seriously
 
 ### Good Design is Hard
 
