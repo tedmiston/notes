@@ -1,6 +1,6 @@
 # Notes
 
-An unassuming place to think about what I'm learning.
+An unassuming place to accumulate knowledge.
 
 > "An investment in knowledge pays the best interest."
 >
