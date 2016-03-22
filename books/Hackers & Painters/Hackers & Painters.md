@@ -286,7 +286,7 @@ http://www.paulgraham.com/taste.html
 
 - why did so many great painters came from florence in the 15th century but none from milan, which was just as big?
 - "Nothing is more powerful than a community of talented people working on related problems.  Genes count for little by comparison: being a genetic Leonardo was not enough to compensate for having been born near Milan instead of Florence."
-	- same idea as ["find a scenius"](books/Show%20Your%20Work!.md#find-a-scenius) in austin kleon's show your work
+	- same idea as ["find a scenius"](/books/Show%20Your%20Work!.md#find-a-scenius) in austin kleon's show your work
 
 ### Good Design is Often Daring
 
