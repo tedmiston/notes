@@ -179,13 +179,24 @@ PG explores the intellectual wild west of computers being ingrained into every a
 
 ## 9. Taste for Makers
 
+How do you make great things?
+
+http://www.paulgraham.com/taste.html
+
 ### Intro
 
-- 
+- more than just being a maker, you also need good taste
+- **taste** is the ability to design beautiful things
+- how does one make good things?
+- taste isn't just subjective: some is better than others; it improves the more you design things
+- the principles of good design (i.e., beauty) persist across fields
 
 ### Good Design is Simple
 
-- 
+- in math, shorter proofs are better
+- in architecture, a few key structural elements >> ornament
+- **simple should be the default**, but when people try to be creative they take on a style that's unnatural and embellished
+- **this is really just evasion -- force yourself to be simple** & deliver substance
 
 ### Good Design is Timeless
 
@@ -199,7 +210,7 @@ PG explores the intellectual wild west of computers being ingrained into every a
 
 ### Good Design is Suggestive
 
-- Jane Austen novels don't describe, they let you envision the scene yourself
+- jane austen novels don't describe, they let you envision the scene
 - suggesting is more engaging than telling -- a well designed object will let you use it as you want
 - in software, give people basic elements they can combine like legos
 
@@ -210,43 +221,66 @@ PG explores the intellectual wild west of computers being ingrained into every a
 
 ### Good Design is Hard
 
-- 
+- "If you're not working hard, you're probably wasting your time."
+- hard problems require ingenuity and lead to interesting solutions
+- you want hard problem _hard_, not fickle client or unreliable materials _hard_
+- "When Bauhaus designers adopted Sullivan's 'form follows function,' what they meant was, form _should_ follow function.  And if function is hard enough, form is forced to follow it."
 
 ### Good Design Looks Easy
 
-- 
+- good writing only flows conversationally after many rewrites
+- "In most fields the appearance of ease seems to come with practice.  Perhaps what practice does is train your unconscious mind to handle tasks that used to require conscious thought."
 
 ### Good Design Uses Symmetry
 
-- 
+- 2 kinds of symmetry
+	1. **repetition**
+	2. **recursion**: repetition in subelements
+- **compositional symmetry**: when two halves react to each other (ex. american gothic)
+- the [eiffel tower](http://www.ce.jhu.edu/perspectives/studies/Eiffel%20Tower%20Files/ET_Geometry_files/image002.jpg) is recursive: a tower on a tower
 
 ### Good Design Resembles Nature
 
-- 
+- "It's not so much that resembling nature is intrinsically good as that nature has had a long time to work on the problem."
+- boats have ribs and spines like animal ribcages
+- early aircraft were designed to fly like birds, but didn't have light enough materials and sophisticated enough controls
+- "Now that we have enough computer power., we can imitate nature's method as well as its results.  **Genetic algorithms** may let us create things too complex to design in the ordinary sense."
 
 ### Good Design is Redesign
 
-- 
+- experts expect to throw away early work because things change and it's rare to get everything right the first time anyway
+- "It takes confidence to throw work away.  You have to be able to think, _there's more where that came from_."
+
+> "Mistakes are natural.  Instead of treating them as disasters, make them easy to acknowledge and easy to fix.  Leonardo more or less invented the sketch, as a way to make drawing bear a greater weight of exploration.  Open source software has fewer bugs because it admits the possibility of bugs."
 
 ### Good Design Can Copy
 
-- 
+- a novice (1) imitates unknowingly, then (2) tries to be original, then (3) accepts just being right over originality
+
+> "I think the greatest masters go on to achieve a kind of selflessness.  They just want to get the right answer, and if part of the right answer has already been discovered by someone else, that's no reason not to use it.  They're confident enough to take from anyone without feeling that their own vision will be lost in the process."
 
 ### Good Design is Often Strange
 
-- 
+- some of the best designs are strange - euler's formula, the sr-71, lisp
+- the other qualities can be cultivated, but not strangeness
+- "At an art school where I once studied, the students wanted most of all to develop a personal style.  But if you just try to make good things, you'll inevitably do it in a distinctive way..."
+- "The only style worth having is the one you can't help."
 
 ### Good Design Happens in Chunks
 
-- 
+- why did so many great painters came from florence in the 15th century but none from milan, which was just as big?
+- "Nothing is more powerful than a community of talented people working on related problems.  Genes count for little by comparison: being a genetic Leonardo was not enough to compensate for having been born near Milan instead of Florence."
+	- same idea as ["find a scenius"](books/Show%20Your%20Work!.md#find-a-scenius) in austin kleon's show your work
 
 ### Good Design is Often Daring
 
-- 
+- physicists at first found Einstein's theory of relativity ridiculous
+- pay attention to the gaps b/t conventional wisdom & truth
 
-### Summary
+> "In practice I think it's easier to see ugliness than to imagine beauty.  **Most of the people who've made beautiful things seem to have done it by fixing something they thought ugly.**  Great work usually seems to happen because someone sees something and thinks *I could do better than that*."
 
-- 
+- intolerance for ugliness is necessary but not sufficient -- you also need to understand the field to see the problems that need fixing; when something feels hacky, cultivate those voices
+- **"The recipe for great work is: very exacting taste, plus the ability to gratify it."**
 
 ## 10. Programming Languages Explained
 
