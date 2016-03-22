@@ -26,15 +26,27 @@ PG explores the intellectual wild west of computers being ingrained into every a
 
 ## 1. Why Nerds Are Unpopular
 
+Their minds are not on the game.
+
 ## 2. Hackers and Painters
+
+Hackers are makers, like painters or architects or writers.
 
 ## 3. What You Can't Say
 
+How to think heretical thoughts and what to do with them.
+
 ## 4. Good Bad Attitude
+
+Like Americans, hackers win by breaking rules.
 
 ## 5. The Other Road Ahead
 
+Web-based software offers the biggest opportunity since the arrival of the microcomputer.
+
 ## 6. How to Make Wealth
+
+The best way to get rich is to create wealth.  And startups are the best way to do that.
 
 - **startup**: a small company solving a hard technical problem
 - starting / joining one is the best way to get rich because successful startups make money by creating wealth
@@ -175,9 +187,13 @@ PG explores the intellectual wild west of computers being ingrained into every a
 
 ## 7. Mind the Gap
 
+Could "unequal income distribution" be less of a problem than we think?
+
 ## 8. A Plan for Spam
 
-## 9. Taste for Makers
+Till recently most experts thought spam filtering wouldn't work.  This proposal changed their minds.
+
+## 9. Taste for Makers 
 
 How do you make great things?
 
@@ -284,13 +300,24 @@ http://www.paulgraham.com/taste.html
 
 ## 10. Programming Languages Explained
 
+What a programming language is and why they are a hot topic now.
+
 ## 11. The Hundred-Year Language
+
+How will we program in a hundred years?  Why not start now?
 
 ## 12. Beating the Averages
 
+For web-based applications you can use whatever language you want.  So can your competitors.
+
 ## 13. Revenge of the Nerds
+
+In technology, "industry best practice" is a recipe for losing.
 
 ## 14. The Dream Language
 
+A good programming language is one that lets hackers have their way with it.
+
 ## 15. Design and Research
 
+Research has to be original.  Design has to be good.
