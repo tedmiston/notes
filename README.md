@@ -6,13 +6,17 @@ An unassuming place to accumulate knowledge.
 >
 > &mdash; <cite>Ben Franklin</cite>
 
-This project serves three purposes:
-
-1. a log of what I'm reading now
-2. a queue of what I want to read
-3. an archive of what I've read
-
 ## Meta
+
+### Motivation
+
+I wanted to remember more of what I read, so I summarize and take notes to share [compressed wisdom](https://sivers.org/2do).
+
+### Purpose
+
+This project logs what I'm reading and how it connects to other sources and ideas.
+
+It also occasionally keeps placeholders for what I want to read.
 
 ### Workflow
 
@@ -24,6 +28,8 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 
 - I rarely read books from cover to cover (blank spots == skipped sections)
 - Star ratings are recommendations on a 1-5 scale
+
+---
 
 ## Articles
 
