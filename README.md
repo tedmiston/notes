@@ -8,9 +8,9 @@ An unassuming place to accumulate knowledge.
 
 This project serves three purposes:
 
-1. a log - what I'm reading now
-2. a queue - what I want to read in the future
-3. an archive - what I've finished reading
+1. a log of what I'm reading now
+2. a queue of what I want to read
+3. an archive of what I've read
 
 ## Meta
 
@@ -22,8 +22,8 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 
 ### Misc.
 
-- I rarely read books cover-to-cover.  Blank spots indicate skipped sections.
-- Star ratings are recommendations on a 1-5 scale.
+- I rarely read books from cover to cover (blank spots == skipped sections)
+- Star ratings are recommendations on a 1-5 scale
 
 ## Articles
 
