@@ -67,6 +67,10 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 - [Zen Habits](/books/Zen Habits.md)
 - [Zero to One](/books/Zero to One.md)
 
+## Courses
+
+- [How to Start a Startup](/courses/How to Start a Startup)
+
 ## Essays
 
 - [Cities and Ambition](/essays/Cities and Ambition.md) by Paul Graham
