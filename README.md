@@ -77,6 +77,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 ## Conferences
 
 - [Fluent 2016](/conferences/Fluent 2016)
+- [PyCon 2016](/conferences/PyCon 2016)
 
 ## Courses
 
