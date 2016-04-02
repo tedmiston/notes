@@ -56,6 +56,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 - [Lightweight Django](/books/Lightweight Django.md)
 - [MAKE](/books/MAKE/MAKE.md)
 - [Remote](/books/Remote.md) ⭐⭐⭐⭐
+- [Remote Pairing](/books/Remote Pairing.md)
 - [Show Your Work!](/books/Show Your Work!.md) ⭐⭐⭐⭐⭐
 - [The 4-Hour Work Week](/books/The 4-Hour Work Week.md)
 - [The Elements of Investing](/books/The Elements of Investing.md)
