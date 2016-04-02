@@ -36,6 +36,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 ### April 2016
 
 1. [I'm Not Living The Dream](/articles/I'm Not Living The Dream.md)
+2. [Location Wars - Part I: History and the Problem](/articles/Location Wars - Part I - History and the Problem.md)
 
 ### March 2016
 
