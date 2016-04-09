@@ -6,6 +6,22 @@ An unassuming place to accumulate knowledge.
 >
 > &mdash; <cite>Ben Franklin</cite>
 
+---
+
+## Table of Contents
+
+- [Meta](#meta)
+- [Articles](#articles)
+- [Books](#books)
+- [Conferences](#conferences)
+- [Courses](#courses)
+- [Essays](#essays)
+- [Magazines](#magazines)
+- [Podcasts](#podcasts)
+- [Videos](#videos)
+
+---
+
 ## Meta
 
 ### Motivation
