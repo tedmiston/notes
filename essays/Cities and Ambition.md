@@ -1,6 +1,5 @@
-Cities and Ambition
-
-by Paul Graham, 2008
+# Cities and Ambition (2008)
+by Paul Graham
 
 http://www.paulgraham.com/cities.html
 
@@ -23,8 +22,8 @@ Every city expresses its own identity and values.  NYC tells you to be richer, B
 ---
 
 <pre>
-published: may 2008
-read: june 2015
-source: pinboard
-tags: cities, pg, san-francisco, values
+published : may 2008
+read      : june 2015
+source    : pinboard
+tags      : cities, pg, san-francisco, values
 </pre>
