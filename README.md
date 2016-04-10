@@ -118,4 +118,5 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 
 ## Videos
 
+- Computerphile
 - [TIME 100 - Kanye West by Elon Musk](/videos/TIME 100/Kanye West.md)
