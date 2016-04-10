@@ -10,19 +10,19 @@ An unassuming place to accumulate knowledge.
 
 ## Table of Contents
 
-- [Meta](#meta)
-- [Articles](#articles)
-- [Books](#books)
-- [Conferences](#conferences)
-- [Courses](#courses)
-- [Essays](#essays)
-- [Magazines](#magazines)
-- [Podcasts](#podcasts)
-- [Videos](#videos)
+1. [Meta](#1-meta)
+2. [Articles](#2-articles)
+3. [Books](#3-books)
+4. [Conferences](#4-conferences)
+5. [Courses](#5-courses)
+6. [Essays](#6-essays)
+7. [Magazines](#7-magazines)
+8. [Podcasts](#8-podcasts)
+9. [Videos](#9-videos)
 
 ---
 
-## Meta
+## 1. Meta
 
 ### Motivation
 
@@ -47,7 +47,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 
 ---
 
-## Articles
+## 2. Articles
 
 ### April 2016
 
@@ -65,7 +65,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 
 1. [Fixing the Inequity of Startup Equity](/articles/Fixing the Inequity of Startup Equity.md)
 
-## Books
+## 3. Books
 
 - [Building Microservices](/books/Building Microservices.md)
 - [Flask Web Development](/books/Flask Web Development.md)
@@ -90,33 +90,33 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 - [Zen Habits](/books/Zen Habits.md)
 - [Zero to One](/books/Zero to One.md)
 
-## Conferences
+## 4. Conferences
 
 - [Fluent 2016](/conferences/Fluent 2016)
 - [PyCon 2015](/conferences/PyCon 2015)
 - [PyCon 2016](/conferences/PyCon 2016)
 
-## Courses
+## 5. Courses
 
 - [How to Start a Startup](/courses/How to Start a Startup)
 
-## Essays
+## 6. Essays
 
 - [Cities and Ambition](/essays/Cities and Ambition.md) by Paul Graham
 - [Walking](/essays/Walking.md) by Henry David Thoreau
 
-## Magazines
+## 7. Magazines
 
 - [Offscreen](/magazines/Offscreen)
 
-## Podcasts
+## 8. Podcasts
 
 - [a16z](/podcasts/a16z)
 - [Startup School Radio](/podcasts/Startup School Radio)
 - [Talk Python to Me](/podcasts/Talk Python to Me)
 - [The Lively Show](/podcasts/The Lively Show)
 
-## Videos
+## 9. Videos
 
 - Computerphile
 - [TIME 100 - Kanye West by Elon Musk](/videos/TIME 100/Kanye West.md)
