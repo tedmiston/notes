@@ -26,7 +26,7 @@ An unassuming place to accumulate knowledge.
 
 ### Motivation
 
-I wanted to remember more of what I read, so I summarize and take notes to share [compressed wisdom](https://sivers.org/2do).
+I want to remember more [of what I read](http://austinkleon.com/2016/03/03/how-to-read-more-2/), so I take notes to share [compressed wisdom](https://sivers.org/2do).
 
 ### Purpose
 
@@ -42,7 +42,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 
 ### Misc.
 
-- I rarely read books from cover to cover (blank spots == skipped sections)
+- I rarely read books [from cover to cover](http://austinkleon.com/2014/10/17/33-thoughts-on-reading/) (blank spots == skipped sections)
 - Star ratings are recommendations on a 1-5 scale
 
 ---
