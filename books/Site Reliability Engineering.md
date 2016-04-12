@@ -5,6 +5,7 @@ Edited by Betsy Beyer, Chris Jones, Jennifer Petoff & Niall Richard Murphy
 - [Official site](https://g.co/SREBook)
 - [Safari Books Online](https://www.safaribooksonline.com/library/view/site-reliability-engineering/9781491929117/)
 - [O'Reilly](http://shop.oreilly.com/product/0636920041528.do)
+- [Dan Luu's notes](http://danluu.com/google-sre-book/) [[HN]](https://news.ycombinator.com/item?id=11474002)
 
 Software is run far longer than the amount of time it takes to implement.  Google's SRE team attempts to build *everything else* to support Google's apps and services post-development.  This book is a collection of principles, practices, and management to bring some of their ideas into your own organization.
 
