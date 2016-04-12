@@ -12,6 +12,14 @@ Software is run far longer than the amount of time it takes to implement.  Googl
 ---
 
 ### Foreword
+
+- Google was scaling up at the time the sys admin role was being redefined (into DevOps)
+- Google's way forward was the Site Reliability Engineer (SRE)
+- Stories about building Google's infrastructure, but also how it studied & decided which tech to use
+- In our "just show me the code" culture, "Google ... dared to think about the problems from first principles"
+- "Stories like these are far more valuable than the code or designs they resulted in. Implementations are ephemeral, but the documented reasoning is priceless. Rarely do we have access to this kind of insight."
+- not just scaling computer architecture, but also business process
+
 ### Preface
 
 ---
