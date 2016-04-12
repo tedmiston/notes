@@ -18,9 +18,19 @@ Software is run far longer than the amount of time it takes to implement.  Googl
 - Stories about building Google's infrastructure, but also how it studied & decided which tech to use
 - In our "just show me the code" culture, "Google ... dared to think about the problems from first principles"
 - "Stories like these are far more valuable than the code or designs they resulted in. Implementations are ephemeral, but the documented reasoning is priceless. Rarely do we have access to this kind of insight."
-- not just scaling computer architecture, but also business process
+- Not just scaling computer architecture, but also business process
 
 ### Preface
+
+- "Software engineering tends to focus on designing and building software systems"
+- **Site Reliability Engineering (SRE)** focuses on the *whole* lifecycle of software including deployment and operation
+- SREs are: *engineers* who write software, focus on system *reliability*, and operating on distributed *services*
+- "Ben Treynor Sloss, Google’s VP for 24/7 Operations, originator of the term SRE, claims that reliability is the most fundamental feature of any product"
+- "Managing change itself is so tightly coupled with failures of all kinds"
+- Broader applications to other communities and organizations
+- Margaret Hamilton of NASA was the first "SRE"
+- "A thorough understanding of how to operate the systems was not enough to prevent human errors"
+- **SRE way**: "thoroughness and dedication, belief in the value of preparation and documentation, and an awareness of what could go wrong, coupled with a strong desire to prevent it"
 
 ---
 
