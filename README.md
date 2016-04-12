@@ -8,7 +8,7 @@ An unassuming place to accumulate knowledge.
 
 ---
 
-## Table of Contents
+**Table of Contents**
 
 1. [Meta](#1-meta)
 2. [Articles](#2-articles)
