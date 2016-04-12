@@ -32,6 +32,29 @@ Software is run far longer than the amount of time it takes to implement.  Googl
 ### 8. Release Engineering
 ### 9. Simplicity 
 
+- "Software systems are inherently dynamic and unstable."
+- You could only make it perfectly stable if you could prevent change (in the codebase, libraries, userbase, ...)
+- SREs balance agility vs. stability
+
+#### System Stability Versus Agility
+#### The Virtue of Boring
+#### I Won't Give Up My Code!
+#### The "Negative Lines of Code" Metric
+
+- Software gets bloated over time from adding new features, which also introduces the opportunity for more bugs
+- "A smaller project is easier to understand, easier to test, and frequently has fewer defects."
+- "Some of the most satisfying coding I’ve ever done was deleting thousands of lines of code at a time when it was no longer useful."
+
+#### Minimal APIs
+#### Modularity
+#### Release Simplicity
+
+#### A Simple Conclusion
+
+- Software must be simple to be reliable
+- Simplifying the steps of a task is not being lazy: it's clarifying what needs to be accomplished and the easiest path
+- Saying "no" to features keeps the environment uncluttered from distractions to focus on real engineering
+
 ---
 
 ## III. Practices
