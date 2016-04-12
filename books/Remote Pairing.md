@@ -10,33 +10,10 @@ Joe Kutner describes his setup and practical approach to pair programming remote
 ---
 
 ## Preface
-
-- TODO
-
 ## 1. Introduction to Pair Programming
-
-- TODO
-
 ## 2. Collaborating with Text Only
-
-- TODO
-
 ## 3. Using the Cloud to Connect
-
-- TODO
-
 ## 4. Collaborating with Shared Screens
-
-- TODO
-
 ## 5. Building a Pairing Server
-
-- TODO
-
 ## 6. Collaborating with an IDE
-
-- TODO
-
 ## 7. Remote Pairing in the Wild
-
-- TODO
