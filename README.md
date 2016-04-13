@@ -10,15 +10,15 @@ An unassuming place to accumulate knowledge.
 
 **Table of Contents**
 
-1. [Meta](#1-meta)
-2. [Articles](#2-articles)
-3. [Books](#3-books)
-4. [Conferences](#4-conferences)
-5. [Courses](#5-courses)
-6. [Essays](#6-essays)
-7. [Magazines](#7-magazines)
-8. [Podcasts](#8-podcasts)
-9. [Videos](#9-videos)
+1. [Meta](#user-content-1-meta)
+2. [Articles](#user-content-2-articles)
+3. [Books](#user-content-3-books)
+4. [Conferences](#user-content-4-conferences)
+5. [Courses](#user-content-5-courses)
+6. [Essays](#user-content-6-essays)
+7. [Magazines](#user-content-7-magazines)
+8. [Podcasts](#user-content-8-podcasts)
+9. [Videos](#user-content-9-videos)
 
 ---
 
