@@ -1,6 +1,6 @@
 # PyCon 2015
 
-Montreal, Quebec
+Montreal
 
 April 8th - April 16th
 

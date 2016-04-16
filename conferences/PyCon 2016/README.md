@@ -1,6 +1,6 @@
 # PyCon 2016
 
-Portland, Oregon
+Portland
 
 May 28th - June 5th
 
