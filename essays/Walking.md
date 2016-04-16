@@ -9,5 +9,3 @@ by Henry David Thoreau, June 1862
 [CliffsNotes](http://www.cliffsnotes.com/literature/t/thoreau-emerson-and-transcendentalism/thoreaus-walking/summary-and-analysis)
 
 ---
-
-TODO

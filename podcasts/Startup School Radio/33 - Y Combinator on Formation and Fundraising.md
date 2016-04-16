@@ -4,5 +4,3 @@ Hosted by Aaron Harris
 https://soundcloud.com/akharris/episode-33-y-combinator-on-formation-and-fundraising
 
 ---
-
-- TODO

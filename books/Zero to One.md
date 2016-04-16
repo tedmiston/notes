@@ -48,25 +48,16 @@ As read: November 2014
 ---
 
 ## <a name="ch1"></a>1. The Challenge of the Future
-**PURPOSE**: TODO
-
-- TODO
 
 <sub><sup>[back to top](#)</sub></sup>
 
 
 ## <a name="ch2"></a>2. Party Like It's 1999
-**PURPOSE**: TODO
-
-- TODO
 
 <sub><sup>[back to top](#)</sub></sup>
 
 
 ## <a name="ch3"></a>3. All Happy Companies Are Different
-**PURPOSE**: TODO
-
-- TODO
 
 <sub><sup>[back to top](#)</sub></sup>
 
@@ -342,9 +333,6 @@ As read: November 2014
 
 
 ## <a name="ch9"></a>9. Foundations
-**PURPOSE**: TODO
-
-- TODO
 
 <sub><sup>[back to top](#)</sub></sup>
 
@@ -407,33 +395,21 @@ As read: November 2014
 
 
 ## <a name="ch11"></a>11. If You Build It, Will They Come?
-**PURPOSE**: TODO
-
-- TODO
 
 <sub><sup>[back to top](#)</sub></sup>
 
 
 ## <a name="ch12"></a>12. Man and Machine
-**PURPOSE**: TODO
-
-- TODO
 
 <sub><sup>[back to top](#)</sub></sup>
 
 
 ## <a name="ch13"></a>13. Seeing Green
-**PURPOSE**: TODO
-
-- TODO
 
 <sub><sup>[back to top](#)</sub></sup>
 
 
 ## <a name="ch14"></a>14. The Founder's Paradox
-**PURPOSE**: TODO
-
-- TODO
 
 <sub><sup>[back to top](#)</sub></sup>
 

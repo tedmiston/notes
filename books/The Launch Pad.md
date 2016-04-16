@@ -95,16 +95,8 @@ The ideal founder template, Viaweb, and interviews with older founders.
 - When they applied, they had: 5,100 accounts, $5.5k recurring monthly revenue, 16% monthly growth in users... without realizing how far ahead of the other applicants they were. They even offer the service to Heroku and have a revenue-sharing deal. They did not realize how significant that was at the time, but Heroku cofounder Adam Wiggins' personal recommendation moved them to the top tier of applicants: YC alum and personal recommendations from successful alum.
 
 ## 3. Grad School
-
-- TODO
-
 ## 4. Male
-
-- TODO
-
 ## 5. Crazy But Normal
-
-- TODO
 
 ## 6. Unsexy
 
@@ -138,64 +130,20 @@ On cool ideas vs. businesses that make money and finding a real need.
 > Moments like these are why I'm glad we invested in sixty-four startups. If you want to drive off a cliff, go ahead.
 
 ## 7. Genius
-
-- TODO
-
 ## 8. Angels
-
-- TODO
-
 ## 9. Always Be Closing
-
-- TODO
-
 ## 10. Clone Myself
-
-- TODO
-
 ## 11. What's Up?
-
-- TODO
-
 ## 12. Hackathon
-
-- TODO
-
 ## 13. New Ideas
-
-- TODO
-
 ## 14. Risk
-
-- TODO
-
 ## 15. Married
-
-- TODO
-
 ## 16. Fearsome
-
-- TODO
-
 ## 17. Pay Attention
-
-- TODO
-
 ## 18. Growth
-
-- TODO
-
 ## 19. Find a Dropbox
-
-- TODO
-
 ## 20. Don't Quit
-
-- TODO
-
 ## 21. Software Is Eating the World
-
-- TODO
 
 ## Epilogue
 

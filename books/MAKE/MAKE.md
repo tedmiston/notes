@@ -18,12 +18,7 @@ Pieter experimentally launched "12 startups in 12 months" and this is his story 
 - Anticipated ???
 
 ## 1. Ideas
-
-- TODO
-
 ## 2. Build
-
-- TODO
 
 ## 3. Iterate*
 
