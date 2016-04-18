@@ -19,6 +19,7 @@ An unassuming place to accumulate knowledge.
 7. [Magazines](#user-content-7-magazines)
 8. [Podcasts](#user-content-8-podcasts)
 9. [Videos](#user-content-9-videos)
+10. [Related Projects](#user-content-10-related-projects)
 
 ---
 
@@ -124,3 +125,9 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 - Computerphile
 	- [Indie App Developer - Marco Arment Interview](/videos/Computerphile/Indie App Developer - Marco Arment Interview.md)
 - [TIME 100 - Kanye West by Elon Musk](/videos/TIME 100/Kanye West.md)
+
+## 10. Related Projects
+
+External links to note taking examples I find interesting.
+
+- [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd/) by Erlend Hamberg - An illustrated & annotated summary of David Allen's *Getting Things Done*.  I'd like to explore doing more rich notes and formatting in this style.
