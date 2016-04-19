@@ -12,6 +12,10 @@ by [Brett Slatkin](http://www.onebigfluke.com/), Senior Staff Software Engineer 
 ---
 
 ## Preface
+
+- Audience: Advanced programmers who want to be more effective in Python (i.e., being more Pythonic)
+- Examples use Python 3 by default
+
 ## Acknowledgements
 ## About the Author
 ## 1. Pythonic Thinking
