@@ -2,6 +2,8 @@
 *10 Ways to Share Your Creativity and Get Discovered*<br>
 by Austin Kleon
 
+Rating: ⭐⭐⭐⭐⭐
+
 ---
 
 **Table of Contents**

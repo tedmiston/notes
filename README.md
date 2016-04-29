@@ -44,7 +44,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 ### Misc.
 
 - I rarely read books [from cover to cover](http://austinkleon.com/2014/10/17/33-thoughts-on-reading/) (blank spots == skipped sections)
-- Star ratings are recommendations on a 1-5 scale
+- Some books have star ratings at the top, which are recommendations on a 1-5 scale
 
 ---
 
@@ -79,18 +79,18 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 - [Lightweight Django](/books/Lightweight Django.md)
 - [MAKE](/books/MAKE/MAKE.md)
 - [Pragmatic Thinking & Learning](/books/Pragmatic Thinking & Learning.md)
-- [Remote](/books/Remote.md) ⭐⭐⭐⭐
+- [Remote](/books/Remote.md)
 - [Remote Pairing](/books/Remote Pairing.md)
 - [Site Reliability Engineering](/books/Site Reliability Engineering.md)
-- [Show Your Work!](/books/Show Your Work!.md) ⭐⭐⭐⭐⭐
+- [Show Your Work!](/books/Show Your Work!.md)
 - [The 4-Hour Work Week](/books/The 4-Hour Work Week.md)
 - [The Elements of Investing](/books/The Elements of Investing.md)
 - [The Hard Thing About Hard Things](/books/The Hard Thing About Hard Things.md)
-- [The Launch Pad](/books/The Launch Pad.md) ⭐⭐⭐⭐⭐
+- [The Launch Pad](/books/The Launch Pad.md)
 - [The Power of Less](/books/The Power of Less.md)
 - [The Pragmatic Programmer](/books/The Pragmatic Programmer.md)
 - [Two Scoops of Django 1.8](/books/Two Scoops of Django.md)
-- [You Have Too Much Shit](/books/You Have Too Much Shit.md) ⭐⭐⭐
+- [You Have Too Much Shit](/books/You Have Too Much Shit.md)
 - [Your Money: The Missing Manual](/books/Your Money - The Missing Manual.md)
 - [Zen Habits](/books/Zen Habits.md)
 - [Zero to One](/books/Zero to One.md)

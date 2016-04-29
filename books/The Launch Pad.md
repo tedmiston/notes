@@ -4,6 +4,8 @@ by Randall Stross, 2013
 
 The Launch Pad is an unprecedented look behind the scenes of startup accelerator Y Combinator with its S11 batch.
 
+Rating: ⭐⭐⭐⭐⭐
+
 ---
 
 ## Introduction

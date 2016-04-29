@@ -7,6 +7,8 @@ A very short self-help book and rally against excessive consumerism.
 
 As read: February 2015
 
+Rating: ⭐⭐⭐
+
 ---
 
 ## Meta
