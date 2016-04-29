@@ -134,3 +134,4 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 External links to note taking examples I find interesting.
 
 - [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd/) by Erlend Hamberg - An illustrated & annotated summary of David Allen's *Getting Things Done*.  I'd like to explore doing more rich notes and formatting in this style.
+- [tldr.io](http://tldr.io) - Interesting content summarized by people (see mine at [tldr.io/tedmiston](http://tldr.io/tedmiston)).
