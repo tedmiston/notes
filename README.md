@@ -87,6 +87,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 - [The Elements of Investing](/books/The Elements of Investing.md)
 - [The Hard Thing About Hard Things](/books/The Hard Thing About Hard Things.md)
 - [The Launch Pad](/books/The Launch Pad.md) ⭐⭐⭐⭐⭐
+- [The Power of Less](/books/The Power of Less.md)
 - [The Pragmatic Programmer](/books/The Pragmatic Programmer.md)
 - [Two Scoops of Django 1.8](/books/Two Scoops of Django.md)
 - [You Have Too Much Shit](/books/You Have Too Much Shit.md) ⭐⭐⭐
