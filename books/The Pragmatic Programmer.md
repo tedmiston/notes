@@ -4,6 +4,7 @@ by Andrew Hunt, David Thomas
 
 - [Official site](https://pragprog.com/book/tpp/the-pragmatic-programmer)
 - [Safari Books Online](https://www.safaribooksonline.com/library/view/the-pragmatic-programmer/020161622X/)
+- [A Pragmatic Quick Reference](http://blog.codinghorror.com/a-pragmatic-quick-reference/) - A summary of the tips and checklists by Jeff Atwood
 
 ---
 
