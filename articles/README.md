@@ -2,6 +2,7 @@
 
 Most recently read first
 
+- [Ruby has been fast enough for 13 years](/articles/Ruby has been fast enough for 13 years.md)
 - [Location Wars - Part I: History and the Problem](/articles/Location Wars - Part I - History and the Problem.md)
 - [I'm Not Living The Dream](/articles/I'm Not Living The Dream.md)
 - [Shannon’s Method: Overcome Habit Procrastination](/articles/Shannon’s Method - Overcome Habit Procrastination.md)
