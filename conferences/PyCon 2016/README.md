@@ -16,6 +16,7 @@ Talks, tutorials, and workshops from PyCon.
 - [Exception and Error Handling in Python 2 and Python 3](Exception and Error Handling in Python 2 and Python 3.md)
 - [Get Instrumented: How Prometheus Can Unify Your Metrics](Get Instrumented - How Prometheus Can Unify Your Metrics.md)
 - [IPython Notebook in Data Intensive Communities: Accelerating the Process of Discovery](IPython Notebook in Data Intensive Communities - Accelerating the Process of Discovery.md)
+- [Machete-Mode Debugging: Hacking Your Way Out of a Tight Spot](Machete-Mode Debugging - Hacking Your Way Out of a Tight Spot.md)
 - [Python Topology](Python Topology.md)
 - [Pythons in a Container: Lessons Learned Dockerizing Python Micro-Services](Pythons in a Container - Lessons Learned Dockerizing Python Micro-Services.md)
 - [Rackspace: Deploy an interactive data science environment with JupyterHub on Docker Swarm](Rackspace - Deploy an interactive data science environment with JupyterHub on Docker Swarm.md)
