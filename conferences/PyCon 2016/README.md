@@ -20,6 +20,7 @@ Talks, tutorials, and workshops from PyCon.
 - [Python Topology](Python Topology.md)
 - [Pythons in a Container: Lessons Learned Dockerizing Python Micro-Services](Pythons in a Container - Lessons Learned Dockerizing Python Micro-Services.md)
 - [Rackspace: Deploy an interactive data science environment with JupyterHub on Docker Swarm](Rackspace - Deploy an interactive data science environment with JupyterHub on Docker Swarm.md)
+- [Refactoring Python: Why and How to Restructure Your Code](Refactoring Python - Why and How to Restructure Your Code.md)
 - [The cobbler's children have no shoes, or building better tools for ourselves](The cobbler's children have no shoes, or building better tools for ourselves.md)
 - [Thinking in Coroutines](Thinking in Coroutines.md)
 - [Write an Excellent Programming Blog](Write an Excellent Programming Blog/Write an Excellent Programming Blog.md)
