@@ -25,4 +25,5 @@ Talks, tutorials, and workshops from PyCon.
 - [Reinventing Django for the Real-time Web](Reinventing Django for the Real-time Web.md)
 - [The cobbler's children have no shoes, or building better tools for ourselves](The cobbler's children have no shoes, or building better tools for ourselves.md)
 - [Thinking in Coroutines](Thinking in Coroutines.md)
+- [Unit Tests, Cluster Tests: A Comparative Introduction](Unit Tests, Cluster Tests - A Comparative Introduction.md)
 - [Write an Excellent Programming Blog](Write an Excellent Programming Blog/Write an Excellent Programming Blog.md)
