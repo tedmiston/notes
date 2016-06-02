@@ -11,6 +11,7 @@ Talks, tutorials, and workshops from PyCon.
 
 ---
 
+- [Building a Quantitative Trading Strategy to Beat the S&P 500](Building a Quantitative Trading Strategy to Beat the S&P 500.md)
 - [Caktus Group: Leveraging Text Messaging in 2016 with RapidPro](Caktus Group - Leveraging Text Messaging in 2016 with RapidPro.md)
 - [Documentation-Driven Development: Lessons from the Django Project](Documentation-Driven Development - Lessons from the Django Project.md)
 - [Exception and Error Handling in Python 2 and Python 3](Exception and Error Handling in Python 2 and Python 3.md)
