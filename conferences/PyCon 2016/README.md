@@ -20,4 +20,5 @@ Talks, tutorials, and workshops from PyCon.
 - [Pythons in a Container: Lessons Learned Dockerizing Python Micro-Services](Pythons in a Container - Lessons Learned Dockerizing Python Micro-Services.md)
 - [Rackspace: Deploy an interactive data science environment with JupyterHub on Docker Swarm](Rackspace - Deploy an interactive data science environment with JupyterHub on Docker Swarm.md)
 - [The cobbler's children have no shoes, or building better tools for ourselves](The cobbler's children have no shoes, or building better tools for ourselves.md)
+- [Thinking in Coroutines](Thinking in Coroutines.md)
 - [Write an Excellent Programming Blog](Write an Excellent Programming Blog/Write an Excellent Programming Blog.md)
