@@ -12,6 +12,7 @@ Talks, tutorials, and workshops from PyCon.
 ---
 
 - [Better Testing with Less Code: Property Based Testing with Python](Better Testing with Less Code - Property Based Testing with Python.md)
+- [Build Serverless Realtime Data Pipelines with Python and AWS Lambda](Build Serverless Realtime Data Pipelines with Python and AWS Lambda.md)
 - [Building a Quantitative Trading Strategy to Beat the S&P 500](Building a Quantitative Trading Strategy to Beat the S&P 500.md)
 - [Caktus Group: Leveraging Text Messaging in 2016 with RapidPro](Caktus Group - Leveraging Text Messaging in 2016 with RapidPro.md)
 - [Documentation-Driven Development: Lessons from the Django Project](Documentation-Driven Development - Lessons from the Django Project.md)
