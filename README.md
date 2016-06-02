@@ -89,7 +89,6 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 - [Git Merge 2016](/conferences/Git Merge 2016)
 - [PyCon 2015](/conferences/PyCon 2015)
 - [PyCon 2016](/conferences/PyCon 2016)
-	- [Rackspace: Deploy an interactive data science environment with JupyterHub on Docker Swarm](/conferences/PyCon 2016/Rackspace - Deploy an interactive data science environment with JupyterHub on Docker Swarm.md)
 
 ## 5. Courses
 
