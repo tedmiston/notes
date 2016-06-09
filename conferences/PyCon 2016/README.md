@@ -7,6 +7,7 @@ May 28th - June 5th
 - [PyCon 2016](https://us.pycon.org/2016/)
 - [Slides](https://speakerdeck.com/pycon2016)
 - [Videos](https://www.youtube.com/channel/UCwTD5zJbsQGJN75MwbykYNw/feed)
+- [PyCon 2016 Recap: 1000 Words and Runnin'](http://blog.tedmiston.com/pycon-2016/) (my blog post)
 
 Talks, tutorials, and workshops from PyCon.
 
