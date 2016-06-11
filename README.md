@@ -69,7 +69,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 - [Remote Pairing](/books/Remote Pairing.md)
 - [Site Reliability Engineering](/books/Site Reliability Engineering.md)
 - [Show Your Work!](/books/Show Your Work!.md)
-- [Startup Playbook](/books/Startup Playbook.md) by Sam Altman
+- [Startup Playbook](/books/Startup Playbook.md)
 - [The 4-Hour Work Week](/books/The 4-Hour Work Week.md)
 - [The 50th Law](/books/The 50th Law.md)
 - [The Elements of Investing](/books/The Elements of Investing.md)
@@ -98,8 +98,8 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 
 ## 6. Essays
 
-- [Cities and Ambition](/essays/Cities and Ambition.md) by Paul Graham
-- [Walking](/essays/Walking.md) by Henry David Thoreau
+- [Cities and Ambition](/essays/Cities and Ambition.md)
+- [Walking](/essays/Walking.md)
 
 ## 7. Magazines
 
@@ -122,5 +122,5 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 
 External links to note taking examples I find interesting.
 
-- [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd/) by Erlend Hamberg - An illustrated & annotated summary of David Allen's *Getting Things Done*.  I'd like to explore doing more rich notes and formatting in this style.
+- [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd/) - An illustrated & annotated summary of David Allen's *Getting Things Done*.  I'd like to explore doing more rich notes and formatting in this style.
 - [tldr.io](http://tldr.io) - Interesting content summarized by people (see mine at [tldr.io/tedmiston](http://tldr.io/tedmiston)).
