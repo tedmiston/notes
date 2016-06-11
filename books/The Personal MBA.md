@@ -7,18 +7,56 @@ The principles to understand, start, and improve a business presented in small c
 ---
 
 ## 1. Introduction: Why Read This Book?
+
+- A few things might be holding you back from starting a business:
+  - *business angst* ("How do I bizness?")
+  - *certification intimidation*
+  - *impostor syndrome*
+- Learning a few simple concepts conquers these fears
+
 ### You Don't Need to Know It All
+
+- Build a scaffolding on understanding the core principles, not methods
+- Author has distilled experience from solo to Fortune 50 multinationals into principles
+- You'll learn:
+	1. How businesses work
+	2. How to start / improve a business
+	3. How to accomplish personal goals w/ business skills
+
 ### No Experience Necessary
+
+- This book presents 226 simple concepts in a more practical form vs. MBA curriculum
+
 ### Questions, Not Answers
+
+- Not techniques, but figuring out how to ask *the right* questions
+
 ### Mental Models, Not Methods
+
 ### My "Personal" MBA
+
+- Participated in the Carl H. Lindner [Honors-PLUS program](http://lindnerhonorsplus.com) at UC: "essentially an MBA at the undergraduate level"
+- After college, management @ P&G
+- Put the time & energy of an MBA into self-improvement instead
+
 ### A Self-Directed Crash Course in Business
 ### The Wheat and the Chaff
 ### The Personal MBA Goes Global
 ### Munger's Mental Models
 ### Connecting the Dots
+
 ### For the Skeptics
+
+- Next sections cover pros/cons of b-school
+
 ### Should You Go to Business School?
+
+- Thought: "I want to become a successful business person.  Where should I get my MBA?"
+
+	> Skip business school.  Educate yourself.
+
+- Well that was underwhelming...
+
 ### Three Big Problems with Business Schools
 ### Delusions of Grandeur
 ### Your Money AND Your Life
