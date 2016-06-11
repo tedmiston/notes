@@ -40,7 +40,38 @@ The principles to understand, start, and improve a business presented in small c
 ## 5. Value Delivery
 ## 6. Finance
 ## 7. The Human Mind
+
 ## 8. Working with Yourself
+### Monoidealism
+### Cognitive Switching Penalty
+### Four Methods of Completion
+### Most Important Tasks (MITs)
+### Goals
+### States of Being
+### Habits
+### Priming
+### Decision
+### Five-Fold Why
+### Five-Fold How
+### Next Action
+### Externalization
+### Self-Elicitation
+### Counterfactual Simulation
+### Parkinson's Law
+### Doomsday Scenario
+### Excessive Self-Regard Tendency
+### Confirmation Bias
+### Hindsight Bias
+### Performance Load
+### Energy Cycles
+### Stress and Recovery
+### Testing
+### Mystique
+### Locus of Control
+### Attachment
+### Personal Research and Development (R&D)
+### The Growth Mind-set
+
 ## 9. Working with Others
 ## 10. Understanding Systems
 ## 11. Analyzing Systems
