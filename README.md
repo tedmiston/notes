@@ -69,6 +69,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 - [Remote Pairing](/books/Remote Pairing.md)
 - [Site Reliability Engineering](/books/Site Reliability Engineering.md)
 - [Show Your Work!](/books/Show Your Work!.md)
+- [Startup Playbook](/books/Startup Playbook.md) by Sam Altman
 - [The 4-Hour Work Week](/books/The 4-Hour Work Week.md)
 - [The 50th Law](/books/The 50th Law.md)
 - [The Elements of Investing](/books/The Elements of Investing.md)
