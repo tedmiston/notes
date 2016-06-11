@@ -21,6 +21,18 @@ The principles to understand, start, and improve a business presented in small c
 ### Should You Go to Business School?
 ### Three Big Problems with Business Schools
 ### Delusions of Grandeur
+### Your Money AND Your Life
+### Breaking Out the Benjamins
+### What an MBA Will Actually Get You
+### Where Business Schools Came From
+### In Search of Distribution
+### Playing with Fire
+### No Reason to Change
+### The Single Benefit of Business Schools
+### I Owe, I Owe — It's Off to Work I Go
+### A Better Way
+### What You'll Learn in This Book
+### How to Use This Book
 
 ## 2. Value Creation
 ## 3. Marketing
