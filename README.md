@@ -56,6 +56,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 
 - [Building Microservices](/books/Building Microservices.md)
 - [Effective Python](/books/Effective Python.md)
+- [Expert Python Programming](/books/Expert Python Programming.md)
 - [Flask Web Development](/books/Flask Web Development.md)
 - [Fluent Python](/books/Fluent Python.md)
 - [Founders at Work](/books/Founders at Work.md)
