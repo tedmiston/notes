@@ -10,4 +10,22 @@ The definitive reference to the Python language, standard library, and the most 
 
 ---
 
-TODO
+## Preface
+
+## 1. Introduction to Python
+
+## 2. The Python Interpreter
+
+## 3. The Python Language
+
+## 4. Object-Oriented Python
+
+## 5. Exceptions
+
+## 6. Modules
+
+## 7. Core Built-ins and Standard Library Modules
+
+## 8. Strings and Things
+
+## 9. Regular Expressions
