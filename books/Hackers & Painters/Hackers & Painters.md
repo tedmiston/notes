@@ -193,7 +193,7 @@ Could "unequal income distribution" be less of a problem than we think?
 
 Till recently most experts thought spam filtering wouldn't work.  This proposal changed their minds.
 
-## 9. Taste for Makers 
+## 9. Taste for Makers
 
 How do you make great things?
 
@@ -201,18 +201,17 @@ http://www.paulgraham.com/taste.html
 
 ### Intro
 
-- more than just being a maker, you also need good taste
-- **taste** is the ability to design beautiful things
-- how does one make good things?
-- taste isn't just subjective: some is better than others; it improves the more you design things
+- more than being a maker, you need good taste
+- **taste**: the ability to design beautiful things
+- taste can be objectively better than others; improves the more you design
 - the principles of good design (i.e., beauty) persist across fields
 
 ### Good Design is Simple
 
 - in math, shorter proofs are better
 - in architecture, a few key structural elements >> ornament
-- **simple should be the default**, but when people try to be creative they take on a style that's unnatural and embellished
-- **this is really just evasion -- force yourself to be simple** & deliver substance
+- **simple should be the default**; when people try to be creative they embellish
+- **this is evasion -- force yourself to be simple** & deliver substance
 
 ### Good Design is Timeless
 
@@ -220,19 +219,23 @@ http://www.paulgraham.com/taste.html
 
 ### Good Design Solves the Right Problem
 
-- stove - 4 knobs in a row is simple, but 4 knobs in a grid is better because it matches the burners so people don't have to think
-- fonts - sans-serif is purer but less legible
-- problems can improved too -- ex. replacing an intractable one with an easier one
+- stove
+	- 4 knobs in a row is simple, but 4 knobs in a grid is better
+	- it matches the burners &rarr; people don't have to think
+- fonts
+	- sans-serif is purer but less legible
+- abstract
+	- problems can improved too -- ex. replacing an intractable one with an easier one
 
 ### Good Design is Suggestive
 
 - jane austen novels don't describe, they let you envision the scene
 - suggesting is more engaging than telling -- a well designed object will let you use it as you want
-- in software, give people basic elements they can combine like legos
+- in software, give people basic elements to combine like legos
 
 ### Good Design is Often Slightly Funny
 
-- a sense of humor is strength; to keep it is to shrug off misfortunes
+- humor is strength (shrug off misfortunes)
 - the confident will seem to be making fun of the whole process slightly -- don't take yourself too seriously
 
 ### Good Design is Hard
@@ -244,7 +247,7 @@ http://www.paulgraham.com/taste.html
 
 ### Good Design Looks Easy
 
-- good writing only flows conversationally after many rewrites
+- good writing flows conversationally only after many rewrites
 - "In most fields the appearance of ease seems to come with practice.  Perhaps what practice does is train your unconscious mind to handle tasks that used to require conscious thought."
 
 ### Good Design Uses Symmetry
@@ -257,33 +260,37 @@ http://www.paulgraham.com/taste.html
 
 ### Good Design Resembles Nature
 
-- "It's not so much that resembling nature is intrinsically good as that nature has had a long time to work on the problem."
-- boats have ribs and spines like animal ribcages
-- early aircraft were designed to fly like birds, but didn't have light enough materials and sophisticated enough controls
-- "Now that we have enough computer power., we can imitate nature's method as well as its results.  **Genetic algorithms** may let us create things too complex to design in the ordinary sense."
+- nothing intrinsic; nature has just worked on the problem for a long time
+- boats are like animal ribcages with ribs and spines
+- early aircraft were designed to fly like birds, but lacked light materials and sophisticated controls
+- "Now that we have enough computer power, we can imitate nature's method as well as its results.  **Genetic algorithms** may let us create things too complex to design in the ordinary sense."
 
 ### Good Design is Redesign
 
-- experts expect to throw away early work because things change and it's rare to get everything right the first time anyway
+- experts expect to throw away early work because things change, and everything's probably *not* right the first time
 - "It takes confidence to throw work away.  You have to be able to think, _there's more where that came from_."
 
 > "Mistakes are natural.  Instead of treating them as disasters, make them easy to acknowledge and easy to fix.  Leonardo more or less invented the sketch, as a way to make drawing bear a greater weight of exploration.  Open source software has fewer bugs because it admits the possibility of bugs."
 
 ### Good Design Can Copy
 
-- a novice (1) imitates unknowingly, then (2) tries to be original, then (3) accepts just being right over originality
+- a novice (progression):
+	1. imitates unknowingly
+	2. tries to be original
+	3. accepts just being right over originality
 
 > "I think the greatest masters go on to achieve a kind of selflessness.  They just want to get the right answer, and if part of the right answer has already been discovered by someone else, that's no reason not to use it.  They're confident enough to take from anyone without feeling that their own vision will be lost in the process."
 
 ### Good Design is Often Strange
 
-- some of the best designs are strange - euler's formula, the sr-71, lisp
+- some great designs are strange - euler's formula, lisp
 - the other qualities can be cultivated, but not strangeness
 - "At an art school where I once studied, the students wanted most of all to develop a personal style.  But if you just try to make good things, you'll inevitably do it in a distinctive way..."
 - "The only style worth having is the one you can't help."
 
 ### Good Design Happens in Chunks
 
+- i'm taking "chunks" here to mean "clusters"
 - why did so many great painters came from florence in the 15th century but none from milan, which was just as big?
 - "Nothing is more powerful than a community of talented people working on related problems.  Genes count for little by comparison: being a genetic Leonardo was not enough to compensate for having been born near Milan instead of Florence."
 	- same idea as ["find a scenius"](/books/Show%20Your%20Work!.md#find-a-scenius) in austin kleon's show your work
