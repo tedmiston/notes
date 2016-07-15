@@ -12,12 +12,12 @@ The principles to understand, start, and improve a business presented in small c
   - *business angst* ("How do I bizness?")
   - *certification intimidation*
   - *impostor syndrome*
-- Learning a few simple concepts conquers these fears
+- Conquer these fears by learning a few simple concepts
 
 ### You Don't Need to Know It All
 
-- Build a scaffolding on understanding the core principles, not methods
-- Author has distilled experience from solo to Fortune 50 multinationals into principles
+- Build a scaffolding on core principles
+- Experience distilled from solo to Fortune 50 multinationals
 - You'll learn:
 	1. How businesses work
 	2. How to start / improve a business
@@ -25,19 +25,18 @@ The principles to understand, start, and improve a business presented in small c
 
 ### No Experience Necessary
 
-- This book presents 226 simple concepts in a more practical form vs. MBA curriculum
+- 226 simple concepts in more practical form vs. MBA curriculum
 
 ### Questions, Not Answers
 
-- Not techniques, but figuring out how to ask *the right* questions
+- Not techniques, figuring out how to ask *the right* questions
 
 ### Mental Models, Not Methods
 
 ### My "Personal" MBA
 
-- Participated in the Carl H. Lindner [Honors-PLUS program](http://lindnerhonorsplus.com) at UC: "essentially an MBA at the undergraduate level"
-- After college, management @ P&G
-- Put the time & energy of an MBA into self-improvement instead
+- Carl H. Lindner [Honors-PLUS program](http://lindnerhonorsplus.com) at UC: "essentially an MBA at the undergraduate level"; after college, management @ P&G
+- Instead of an MBA, put the time & energy into self-improvement
 
 ### A Self-Directed Crash Course in Business
 ### The Wheat and the Chaff
@@ -55,7 +54,7 @@ The principles to understand, start, and improve a business presented in small c
 
 	> Skip business school.  Educate yourself.
 
-- Well that was underwhelming...
+- (Underwhelming...)
 
 ### Three Big Problems with Business Schools
 ### Delusions of Grandeur
