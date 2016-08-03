@@ -92,6 +92,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 
 ## 4. Conferences
 
+- [DEF CON 23](/conferences/DEF CON 23)
 - [DEF CON 24](/conferences/DEF CON 24)
 - [DjangoCon US 2016](/conferences/DjangoCon US 2016)
 - [Female Founders Conference 2016](/conferences/Female Founders Conference 2016)
