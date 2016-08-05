@@ -123,7 +123,14 @@ The bible of value investing as written by the "father of securities analysis". 
 ### Commentary on Chapter 19
 
 ## 20. "Margin of Safety" as the Central Concept of Investment
+### Theory of Diversification
+### A Criterion of Investment versus Speculation
+### Extension of the Concept of Investment
+### To Sum Up
 ### Commentary on Chapter 20
+#### First, Don't Lose
+#### The Risk Is Not in Our Stocks, but in Ourselves
+#### Pascal's Wager
 
 ## Postscript
 ### Commentary on Postscript
