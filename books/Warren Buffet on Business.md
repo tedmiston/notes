@@ -9,7 +9,16 @@ Business principles distilled from decades of Warren Buffet's letters to shareho
 ---
 
 ## Acknowledgements
+
 ## Introduction
+
+- If you want to invest like Warren Buffet, "Buy either Berkshire Class A or Class B stock."
+  - [BRK-A](https://finance.yahoo.com/quote/brk-a) (~$217,370); [BRK-B](https://finance.yahoo.com/quote/brk-b) (~$145)
+- "Buffett also says that most individual investors should purchase stock index funds because they are very low cost and they outperform most professional investment managers."
+- This book was born from a course presented by the author at WUSTL
+- It's not about Buffet's investing, but rather his business management style, practices, and principles
+- Mostly a compilation of Buffet's own words from Berkshire Hathaway shareholder letters from 1977–2008
+
 ## 1. Shareholders as Partners
 ## 2. Corporate Culture
 ## 3. Corporate Governance
