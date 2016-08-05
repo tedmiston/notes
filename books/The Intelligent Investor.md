@@ -127,7 +127,6 @@ The bible of value investing as written by the "father of securities analysis". 
 
 ## Postscript
 ### Commentary on Postscript
-## Postscript
 
 ## Appendixes
 ### 1. The Superinvestors of Graham-and-Doddsville
