@@ -7,6 +7,16 @@ The bible of value investing as written by the "father of securities analysis". 
 ---
 
 ## Preface to the Fourth Edition, by Warren E. Buffett
+
+- Buffet: "I read the first edition of this book in 1950, when I was nineteen.  I thought then that it was by far the best book about investing ever written.  I still think it is."
+- This book is an intellectual framework for making good investment decisions (emotional discipline not included)
+- How successful you are depends on the effort and intellect you apply and how much stock market foolishness occurs during your investing career
+- Follow Graham to profit from the market's foolishness
+- Benjamin Graham 1894–1976
+  - Every day Graham sought to do "something foolish, something creative and something generous"
+  - Graham was a fierce discipline-agnostic intellectual
+  - "Walter Lippmann spoke of men who plant trees that other men will sit under.  Ben Graham was such a man."
+
 ## A Note About Benjamin Graham, by Jason Zweig
 ## Introduction: What This Book Expects to Accomplish
 ### Commentary on the Introduction
