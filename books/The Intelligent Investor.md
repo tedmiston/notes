@@ -71,7 +71,7 @@ The bible of value investing as written by the "father of securities analysis". 
 #### Half a Hedge
 #### Two Acronyms to the Rescue
 
-## 3. A Century of Stock-Market History
+## 3. A Century of Stock-Market History: The Level of Stock Prices in Early 1972
 ### Commentary on Chapter 3
 
 ## 4. General Portfolio Policy: The Defensive Investor
