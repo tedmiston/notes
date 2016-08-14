@@ -18,7 +18,7 @@ What happens when we apply algorithms to our problems in life?
 ## 7. Overfitting: When to Think Less
 ## 8. Relaxation: Let It Slide
 ## 9. Randomness: When to Leave It to Chance
-## 10. Netowrking: How We Connect
+## 10. Networking: How We Connect
 ## 11. Game Theory: The Minds of Others
 ## Conclusion: Computational Kindness
 ## Notes
