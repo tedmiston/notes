@@ -66,6 +66,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 - [Idiot's Guides: Zen Living](/books/Idiot's Guides: Zen Living.md)
 - [Lightweight Django](/books/Lightweight Django.md)
 - [MAKE](/books/MAKE/MAKE.md)
+- [Practical Django Projects](/books/Practical Django Projects.md)
 - [Pragmatic Thinking & Learning](/books/Pragmatic Thinking & Learning.md)
 - [Pro Django](/books/Pro Django.md)
 - [Pro Python](/books/Pro Python.md)
