@@ -60,3 +60,13 @@ How to prepare and adapt to real travel for extended periods of time.
 ## Vagabonding Profiles
 
 - These short sections are sprinkled throughout the book before every chapter, but including them inline felt disruptive to a table of contents
+
+### Walt Whitman
+### Henry David Thoreau
+### Bayard Taylor
+### John Muir
+### John Ledyard
+### The Pioneering Women of Vagabonding
+### Ed Buryn
+### The Vagabonders of Pax Islamica
+### Annie Dillard
