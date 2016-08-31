@@ -3,6 +3,7 @@
 by [Rolf Potts](http://rolfpotts.com)
 
 - [Official site](http://www.vagabonding.net)
+- [Resources](http://www.vagabonding.net/resources/)
 
 How to prepare and adapt to real travel for extended periods of time.
 
