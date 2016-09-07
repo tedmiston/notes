@@ -51,7 +51,25 @@ How to prepare and adapt to real travel for extended periods of time.
 ## IV. The Long Run
 ### 8. Keep It Real
 ### 9. Be Creative
+
 ### 10. Let Your Spirit Grow
+
+- travelers confuse exoticism for spiritual revelation
+- "guru-of-the-month seekers" perpetuate these self-indulgent stereotypes of travel mysticism
+- **pilgrimage**: "the nonpolitical, nonmaterial quest for private discovery and growth"
+- "But on an even simpler level, heightened spiritual awareness is the natural result of your choice to put the material world in its place and hit the road for an extended time."
+- travel is a form of *aestheticism*, "is a way of surrendering to reduce circumstances in a manner that enhances the whole person.  It is a radical way of knowing exactly who, what, and where you are, in defiance of those powerful forces in society that aim to make us forget." —Kathleen Norris
+- without rituals, routines, possessions, and comforts to give your life meaning, you're forced to look within yourself ("find yourself")
+- "The Buddha expressed enlightenment not as a mystical firestorm but as the disassembling of the conditioned personality."
+- sometimes it's not possible to express the spiritual lessons you experience while traveling
+- "Religious traditions have given us certain words and metaphors to describe the numinous realm — but words are symbols, and symbols never resonate the same for everyone."
+- ex. Jack Kerouac's *On the Road* was a secular celebration of speed and freedom to many, but to him it was a spiritual diary
+- people seek instant gratification / immediate spiritual results in the same way they join a gym
+- "There is no God but reality." —A mythical Sufi sect
+- "Ultimately, then, discovering the sacred as you travel is not an abstract quest so much as a manner of perceiving — an honest awareness that neither requires blind faith nor embraces blind doubt."
+- the simple essence of the journey, from *The Snow Leopard* (Peter Matthiessen):
+
+  > "The common miracles — the murmur of my friends at evening, the clayfires of smudgy juniper, the coarse, dull food, the hardship and simplicity, the contentment of doing one thing at a time: when I take my blue tin cup into my hand, that is all I do."
 
 ## V. Coming Home
 ### 11. Live the Story
