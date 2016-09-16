@@ -10,9 +10,9 @@ How do we find motivation in the world?
 - Sometimes people don't feel motivated if they focus too much on the rewards involved rather than the task itself
 - Instead of focusing on the reward, how can we motivate ourselves to care about the task at hand?
 - 3 ways:
-	1. **Autonomy**: being able to self-direct our own life
-	2. **Mastery**: getting better at something meaningful
-	3. **Purpose**: doing something in service of a greater cause
+	- 1. **Autonomy**: being able to self-direct our own life
+	- 2. **Mastery**: getting better at something meaningful
+	- 3. **Purpose**: doing something in service of a greater cause
 - **The progress principle**: the most powerful motivator is making progress in meaningful work (even just the perception of doing so)
 - From [_The Progress Principle_](https://www.amazon.com/gp/product/142219857X):
 
