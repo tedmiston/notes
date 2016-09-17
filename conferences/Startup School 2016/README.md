@@ -1,6 +1,7 @@
 # Startup School 2016
 
 - [Official site](http://www.startupschool.org)
+- [@charlesfeng's notes](https://github.com/charlesfeng/startup-school-notes/tree/master/2016)
 
 A one-day conference with practical advice from founders and investors organized by Y Combinator.
 
