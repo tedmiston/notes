@@ -2,6 +2,7 @@
 by Sam Altman, Gregory Koberger
 
 - [Startup Playbook](http://playbook.samaltman.com)
+- [iBooks version](https://itunes.apple.com/us/book/startup-playbook/id1059063938)
 - [HN comments](https://news.ycombinator.com/item?id=10514729)
 
 In a short online book, Sam Altman gathers the most common advice that YC partners give about starting a startup.
