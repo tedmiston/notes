@@ -81,6 +81,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 - [Startup Playbook](/books/Startup Playbook.md)
 - [The 4-Hour Work Week](/books/The 4-Hour Work Week.md)
 - [The 50th Law](/books/The 50th Law.md)
+- [The Diagrams Book](/books/The Diagrams Book.md)
 - [The Elements of Investing](/books/The Elements of Investing.md)
 - [The Hard Thing About Hard Things](/books/The Hard Thing About Hard Things.md)
 - [The Hitchhiker's Guide to Python](/books/The Hitchhiker's Guide to Python.md)
