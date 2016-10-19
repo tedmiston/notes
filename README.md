@@ -75,6 +75,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 - [Python in a Nutshell](/books/Python in a Nutshell.md)
 - [Remote](/books/Remote.md)
 - [Remote Pairing](/books/Remote Pairing.md)
+- [Risk/Reward](/books/Risk Reward.md)
 - [Shoe Dog](/books/Shoe Dog.md)
 - [Show Your Work!](/books/Show Your Work!.md)
 - [Site Reliability Engineering](/books/Site Reliability Engineering.md)
