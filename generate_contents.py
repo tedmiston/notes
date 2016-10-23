@@ -10,6 +10,8 @@ Usage:
 
 Input:
 
+    # My Book Title
+
     Introduction
     Chapter 1
         Section 1.1
