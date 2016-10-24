@@ -98,7 +98,8 @@ def main():
 
     try:
         with open(INPUT_FILE) as fp:
-            text = fp.read().strip()
+            # no lstrip() because leading indentation is significant
+            text = fp.read().rstrip()
     except FileNotFoundError as e:
         exit('Error: Input file "{}" does not exist.'.format(INPUT_FILE))
 
