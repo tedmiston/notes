@@ -50,9 +50,10 @@ def generate_heading(title, depth):
 
 def parse_title(chapters_input):
     """Parse book title (optional)."""
+    TITLE_PREFIX = '# '
     book_title = None
-    if chapters_input[0].startswith('# '):
-        book_title = chapters_input.pop(0)[2:].strip()
+    if chapters_input[0].startswith(TITLE_PREFIX):
+        book_title = chapters_input.pop(0)[len(TITLE_PREFIX):].strip()
     return book_title
 
 
