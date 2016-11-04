@@ -6,7 +6,26 @@ The principles to understand, start, and improve a business presented in small c
 
 ---
 
-## 1. Introduction: Why Read This Book?
+**Table of Contents**
+
+- [1. Introduction: Why Read This Book?](#ch1)
+- [2. Value Creation](#ch2)
+- [3. Marketing](#ch3)
+- [4. Sales](#ch4)
+- [5. Value Delivery](#ch5)
+- [6. Finance](#ch6)
+- [7. The Human Mind](#ch7)
+- [8. Working with Yourself](#ch8)
+- [9. Working with Others](#ch9)
+- [10. Understanding Systems](#ch10)
+- [11. Analyzing Systems](#ch11)
+- [12. Improving Systems](#ch12)
+- [Appendix A: How to Continue Your Business Studies](#appxA)
+- [Appendix B: 49 Questions to Improve Your Results](#appxB)
+
+---
+
+## 1. Introduction: Why Read This Book? <a name="ch1"></a>
 
 - A few things might be holding you back from starting a business:
   - *business angst* ("How do I bizness?")
@@ -71,7 +90,9 @@ The principles to understand, start, and improve a business presented in small c
 ### What You'll Learn in This Book
 ### How to Use This Book
 
-## 2. Value Creation
+<sub><sup>[back to top](#)</sub></sup>
+
+## 2. Value Creation <a name="ch2"></a>
 ### The Five Parts of Every Business
 ### Economically Viable Skills
 ### The Iron Law of the Market
@@ -110,7 +131,9 @@ The principles to understand, start, and improve a business presented in small c
 ### Incremental Augmentation
 ### Field Testing
 
-## 3. Marketing
+<sub><sup>[back to top](#)</sub></sup>
+
+## 3. Marketing <a name="ch3"></a>
 ### Attention
 ### Receptivity
 ### Remarkability 
@@ -130,7 +153,9 @@ The principles to understand, start, and improve a business presented in small c
 ### Controversy
 ### Reputation
 
-## 4. Sales
+<sub><sup>[back to top](#)</sub></sup>
+
+## 4. Sales <a name="ch4"></a>
 ### Transaction
 ### Trust
 ### Common Ground
@@ -148,7 +173,9 @@ The principles to understand, start, and improve a business presented in small c
 ### Risk Reversal
 ### Reactivation
 
-## 5. Value Delivery
+<sub><sup>[back to top](#)</sub></sup>
+
+## 5. Value Delivery <a name="ch5"></a>
 ### Value Stream
 ### Distribution Channel
 ### The Expectation Effect
@@ -163,7 +190,9 @@ The principles to understand, start, and improve a business presented in small c
 ### Force Multiplier
 ### Systemization
 
-## 6. Finance
+<sub><sup>[back to top](#)</sub></sup>
+
+## 6. Finance <a name="ch6"></a>
 ### Profit Margin
 ### Value Capture
 ### Sufficiency
@@ -187,7 +216,9 @@ The principles to understand, start, and improve a business presented in small c
 ### Return on Investment (ROI)
 ### Sunk Cost
 
-## 7. The Human Mind
+<sub><sup>[back to top](#)</sub></sup>
+
+## 7. The Human Mind <a name="ch7"></a>
 ### Caveman Syndrome
 ### The Gas Tank
 ### The Onion Brain
@@ -212,7 +243,9 @@ The principles to understand, start, and improve a business presented in small c
 ### Scarcity
 ### Novelty
 
-## 8. Working with Yourself
+<sub><sup>[back to top](#)</sub></sup>
+
+## 8. Working with Yourself <a name="ch8"></a>
 ### Monoidealism
 ### Cognitive Switching Penalty
 ### Four Methods of Completion
@@ -243,7 +276,9 @@ The principles to understand, start, and improve a business presented in small c
 ### Personal Research and Development (R&D)
 ### The Growth Mind-set
 
-## 9. Working with Others
+<sub><sup>[back to top](#)</sub></sup>
+
+## 9. Working with Others <a name="ch9"></a>
 ### Power
 ### Comparative Advantage
 ### Communication Overhead
@@ -268,7 +303,9 @@ The principles to understand, start, and improve a business presented in small c
 ### Option Orientation
 ### Management
 
-## 10. Understanding Systems
+<sub><sup>[back to top](#)</sub></sup>
+
+## 10. Understanding Systems <a name="ch10"></a>
 ### Gall's Law
 ### Flow
 ### Stock
@@ -285,7 +322,9 @@ The principles to understand, start, and improve a business presented in small c
 ### Second-Order Effects
 ### Normal Accidents
 
-## 11. Analyzing Systems
+<sub><sup>[back to top](#)</sub></sup>
+
+## 11. Analyzing Systems <a name="ch11"></a>
 ### Deconstruction
 ### Measurement
 ### Key Performance Indicator
@@ -302,7 +341,9 @@ The principles to understand, start, and improve a business presented in small c
 ### Segmentation
 ### Humanization
 
-## 12. Improving Systems
+<sub><sup>[back to top](#)</sub></sup>
+
+## 12. Improving Systems <a name="ch12"></a>
 ### Optimization
 ### Refactoring
 ### The Critical Few
@@ -322,5 +363,12 @@ The principles to understand, start, and improve a business presented in small c
 ### The Experimental Mind-set
 ### Not "The End"
 
-## Appendix A: How to Continue Your Business Studies
-## Appendix B: 49 Questions to Improve Your Results
+<sub><sup>[back to top](#)</sub></sup>
+
+## Appendix A: How to Continue Your Business Studies <a name="appxA"></a>
+
+<sub><sup>[back to top](#)</sub></sup>
+
+## Appendix B: 49 Questions to Improve Your Results <a name="appxB"></a>
+
+<sub><sup>[back to top](#)</sub></sup>
