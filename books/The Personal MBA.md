@@ -1,6 +1,6 @@
 # The Personal MBA
 *Master the Art of Business*<br>
-by Josh Kaufman, Hardcover, December 2010
+by Josh Kaufman
 
 The principles to understand, start, and improve a business presented in small concepts.
 
