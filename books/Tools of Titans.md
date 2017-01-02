@@ -29,6 +29,42 @@ by [Tim Ferriss][tf]
 ---
 
 ## Part 2: Wealthy
+### Chris Sacca
+### Marc Andreessen
+### Arnold Schwarzenegger
+### Derek Sivers
+### Alexis Ohanian
+### Matt Mullenweg
+### Nicholas McCarthy
+### Tony Robbins
+### Casey Neistat
+### Morgan Spurlock
+### Reid Hoffman
+### Peter Thiel
+### Seth Godin
+### James Altucher
+### Scott Adams
+### Shaun White
+### Chase Jarvis
+### Dan Carlin
+### Ramit Sethi
+### Alex Blumberg
+### Ed Catmull
+### Tracy DiNunzio
+### Phil Libin
+### Chris Young
+### Daymond John
+### Noah Kagan
+### Kaskade
+### Luis von Ahn
+### Kevin Rose
+### Neil Strauss
+### Mike Shinoda
+### Justin Boreta
+### Scott Belsky
+### Peter Diamandis
+### Sophia Amoruso
+### B.J. Novak
 ### Non-Profile Chapters
 #### "Productivity" Tricks for the Neurotic, Manic-Depressive, and Crazy (Like Me)
 #### What My Morning Journal Looks Like
