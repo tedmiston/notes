@@ -55,6 +55,52 @@ He's avoided investing in VR because current gear is bulky, clunky, or otherwise
 ---
 
 ## Part 3: Wise
+### BJ Miller
+### Maria Popova
+### Jocko Willink
+### Sebastian Junger
+### Marc Goodman
+### Samy Kamkar
+### General Stanley McChrystal & Chris Fussell
+### Shay Carl
+### Will MacAskill
+### Kevin Costner
+### Sam Harris
+### Caroline Paul
+### Kevin Kelly
+### Whitney Cummings
+### Bryan Callen
+### Alain de Botton
+### Cal Fussman
+### Joshua Skenes
+### Rick Rubin
+### Jack Dorsey
+### Paulo Coelho
+### Ed Cooke
+### Amanda Palmer
+### Eric Weinstein
+### Seth Rogen & Evan Goldberg
+### Margaret Cho
+### Andrew Zimmern
+### Rainn Wilson
+### Naval Ravikant
+### Glenn Beck
+### Tara Brach
+### Sam Kass
+### Edward Norton
+### Richard Betts
+### Mike Birbiglia
+### Malcolm Gladwell
+### Stephen J. Dubner
+### Josh Waitzkin
+### Brené Brown
+### Jason Silva
+### Jon Favreau
+### Jamie Foxx
+### Bryan Johnson
+### Brian Koppelman
+### Robert Rodriguez
+### Sekou Andrews
 ### Non-Profile Chapters
 #### Tools of a Hacker
 #### The Dickens Process — What Are Your Beliefs Costing You?
