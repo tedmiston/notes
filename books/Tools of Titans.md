@@ -13,6 +13,25 @@ by [Tim Ferriss][tf]
 ---
 
 ## Part 1: Healthy
+### Amelia Boone
+### Rhonda Perciavalle Patrick
+### Christopher Sommer
+### Dominic D'Agostino
+### Patrick Arnold
+### Joe De Sena
+### Wim "The Iceman" Hof
+### Jason Nemer
+### Peter Attia
+### Justin Mager
+### Charles Poliquin
+### Pavel Tsatsouline
+### Laird Hamilton, Gabby Reece & Brian MacKenzie
+### James Fadiman
+### Martin Polanco & Dan Engle
+### Kelly Starrett
+### Paul Levesque (Triple H)
+### Jane McGonigal
+### Adam Gazzaley
 ### Non-Profile Chapters
 #### Gymnast Strong
 #### Rick Rubin's Barrel Sauna
