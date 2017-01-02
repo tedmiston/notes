@@ -9,12 +9,37 @@ by [Tim Ferriss][tf]
 ### Foreword
 ### On the Shoulders of Giants
 ### Read this First — How to Use This Book
+
+---
+
 ## Part 1: Healthy
 ### Non-Profile Chapters
+#### Gymnast Strong
+#### Rick Rubin's Barrel Sauna
+#### AcroYoga — Thai and Fly
+#### Deconstructing Sports and Skills with Questions
+#### The Slow-Carb Diet® Cheat Sheet
+#### My 6-Piece Gym in a Bag
+#### 5 Tools for Faster and Better Sleep
+#### 5 Morning Rituals that Help Me Win the Day
+#### Mind Training 101
+#### Three Tips from a Google Pioneer
+#### Coach Sommer — The Single Decision
+
+---
+
 ## Part 2: Wealthy
 ### Non-Profile Chapters
+#### "Productivity" Tricks for the Neurotic, Manic-Depressive, and Crazy (Like Me)
+#### What My Morning Journal Looks Like
+#### How to Create a Real-World MBA
+#### The Law of Category
+#### 1,000 True Fans — Revisited
+#### Hacking Kickstarter
+#### The Podcast Gear I Use
+#### The Canvas Strategy
 
-#### Gut Investing (343–346)
+#### Gut Investing
 
 Kevin Rose's early-stage startup investment strategy is largely emotional vs a specific investment thesis like "Software is eating the world."  Instead he asks questions like, "Do you think this technology will be more or less a part of our lives in 3 years?" as a prerequisite before due diligence.
 
@@ -24,8 +49,29 @@ For example, his investment in Twitter in 2008 was motivated by: (1) quick publi
 
 He's avoided investing in VR because current gear is bulky, clunky, or otherwise doesn't pass the emotional test for mainstream adoption: the experience isn't a 10x of traditional gaming.
 
+#### How to Earn Your Freedom
+#### How to Say "No" When It Matters Most
+
+---
+
 ## Part 3: Wise
 ### Non-Profile Chapters
+#### Tools of a Hacker
+#### The Dickens Process — What Are Your Beliefs Costing You?
+#### My Favorite Thought Exercise: Fear-Setting
+#### Is This What I So Feared?
+#### Lazy: A Manifesto
+#### The Soundtrack of Excellence
+#### Writing Prompts from Cheryl Strayed
+#### 8 Tactics for Dealing with Haters
+#### The Jar of Awesome
+#### Why You Need a "Deloading" Phase in Life
+#### Testing the "Impossible": 17 Questions that Changed My Life
+#### Some Practical Thoughts on Suicide
+#### "Good"
+
+---
+
 ### Conclusion
 ### The Top 25 Episodes of The Tim Ferriss Show
 ### My Rapid-Fire Questions
