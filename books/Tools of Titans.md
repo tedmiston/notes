@@ -1,5 +1,7 @@
 # Tools of Titans
-*The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers*<br>
+
+*The Tactics, Routines, and Habits of Billionaires, Icons, and World-Class Performers*
+
 by [Tim Ferriss][tf]
 
 - [Official site][tot]
