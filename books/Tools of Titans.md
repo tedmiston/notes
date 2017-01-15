@@ -13,6 +13,9 @@ by [Tim Ferriss][tf]
 Arnold Schwarzenegger did not achieve success in isolation; he received a lot of outside help, motivation, and insight from other people "stood on the shoulders of giants" to achieve the success he did.  Without the advice of his parents, teachers, coaches, and others, he wouldn't be where he is today.
 
 ### On the Shoulders of Giants
+
+(An alphabetical listing of the people included in the book.)
+
 ### Read this First — How to Use This Book
 
 ---
