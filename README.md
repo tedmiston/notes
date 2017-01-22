@@ -4,7 +4,7 @@ An unassuming place to accumulate knowledge.
 
 > "An investment in knowledge pays the best interest."
 >
-> &mdash; <cite>Ben Franklin</cite>
+> *&mdash; <cite>Ben Franklin</cite>*
 
 ---
 
