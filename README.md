@@ -139,6 +139,7 @@ I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingt
 - [StartupCTO.io](/podcasts/StartupCTO.io)
 - [Talk Python to Me](/podcasts/Talk Python to Me)
 - [The Lively Show](/podcasts/The Lively Show)
+- [The Pitch](/podcasts/The Pitch)
 
 ## 9. Videos
 
