@@ -33,18 +33,13 @@ I want to remember more [of what I read](http://austinkleon.com/2016/03/03/how-t
 
 This project logs what I'm reading and how it connects to other sources and ideas.
 
-It also occasionally keeps placeholders for what I want to read.
+It also keeps placeholders for what I want to read.
 
 ### Workflow
 
-I read articles on Instapaper, and books on a Kindle or Safari Books Online.  I skim Hacker News daily.
+I read articles on Instapaper, and books on a Kindle or Safari Books Online.  I read nonsequentially and typically not [cover to cover](http://austinkleon.com/2014/10/17/33-thoughts-on-reading/) (blank spots == not yet read).  I skim Hacker News daily.
 
 I recommend two Mac apps for working with Markdown: [FoldingText](http://www.foldingtext.com/) and [Marked](http://marked2app.com/).
-
-### Misc.
-
-- I rarely read books [from cover to cover](http://austinkleon.com/2014/10/17/33-thoughts-on-reading/) (blank spots == skipped sections)
-- Some books have star ratings at the top, which are recommendations on a 1-5 scale
 
 ---
 
