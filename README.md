@@ -37,9 +37,9 @@ It also occasionally keeps placeholders for what I want to read.
 
 ### Workflow
 
-I read, highlight, and annotate articles mostly on Instapaper.  Alternatively, I use Safari Books Online, Medium, or Genius.  On occasion, I'll write summaries in Pinboard for hashtags.  Feedly is my content inbox with automation via IFTTT for "must read" feeds.  I also skim Hacker News daily.
+I read articles on Instapaper, and books on a Kindle or Safari Books Online.  I skim Hacker News daily.
 
-I recommend two Mac apps for editing Markdown: [FoldingText](http://www.foldingtext.com/) for writing, and [Marked](http://marked2app.com/) for previewing and reading.
+I recommend two Mac apps for working with Markdown: [FoldingText](http://www.foldingtext.com/) and [Marked](http://marked2app.com/).
 
 ### Misc.
 
