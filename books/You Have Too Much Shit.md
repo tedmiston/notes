@@ -18,7 +18,7 @@ Rating: ⭐⭐⭐
 
 ### What is shit? Why change?
 > Have nothing in your house that you do not know to be useful or believe to be beautiful.
-> 
+>
 > -- William Morris
 
 - Thought: I mean, why stop at your house?  Why not set this expectation for everything in your life?

@@ -57,7 +57,7 @@ hosted by aaron harris, kat manalac "man-yawl-ik"
 - they had made the software to sell it... to get money... "e-commerce wasn't my life's work"
 - "i tell founders: do what you want" - it's okay to just want to make money
 - "we wanted to get bought by yahoo; we flirted with yahoo extensively"
-- ran everything on open source software which wasn't common back then; yahoo was like us but run by cs grad students from stanford 
+- ran everything on open source software which wasn't common back then; yahoo was like us but run by cs grad students from stanford
 - didn't like working at yahoo (big co. problems), left after a year
 - startups don't go public now because ceos don't want to deal with public company stuff like worrying about stock price, etc.
 

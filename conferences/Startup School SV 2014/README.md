@@ -13,7 +13,7 @@ A one-day conference with practical advice from founders and investors organized
 - 00 - Jessica Livingston, YC (Intro)
 - 01 - Ron Conway, SV Angel
 - 02 - Danae Ringelmann, Indiegogo
-- 03 - Kevin Systrom, Instagram 
+- 03 - Kevin Systrom, Instagram
 - 04 - Reid Hoffman, LinkedIn
 - 05 - Jim Goetz, Sequoia Capital & Jan Koum, WhatsApp
 - 06 - Eric Migicovsky, Pebble

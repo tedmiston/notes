@@ -1,4 +1,4 @@
-# Zero to One 
+# Zero to One
 *Notes on Startups, or How to Build the Future*<br>
 by Peter Thiel with Blake Masters
 
@@ -65,7 +65,7 @@ As read: November 2014
 ## <a name="ch4"></a>4. The Ideology of Competition
 **PURPOSE**: Why do people think competition is something to love?
 
-### "Competition == good" is a pervasive idea 
+### "Competition == good" is a pervasive idea
 - **creative monopoly**: "new products that benefit everybody and sustainable profits for the creator"
 - **competition**: "no profits for anybody, no meaningful differentiation, and a struggle for survival"
 - competition is a pervasive ideology in our society that we preach and internalize even though more competition leaves less for us to gain
@@ -193,7 +193,7 @@ As read: November 2014
 - "Every company starts in unique circumstances, and every company starts only once."
 
 > "Shallow men believe in luck, believe in circumstances.... Strong men believe in cause and effect."
-> 
+>
 > &mdash; <cite>Ralph Waldo Emerson</cite>
 
 - "If you believe your life is mainly a matter of chance, why read this book?"
@@ -219,7 +219,7 @@ As read: November 2014
 
 #### Indefinite finance
 - "Finance epitomizes indefinite thinking because it's the only way to make money when you have no idea how to create wealth."
-- what to do with exit money? 
+- what to do with exit money?
 - entrepreneurs &rarr; banks &rarr; portfolio of institutional investors &rarr; diversified portfolio of stocks &rarr; companies that try to increase their share price w/ cash flow
 
 #### Indefinite politics
@@ -258,7 +258,7 @@ As read: November 2014
 - Fund returns follow power law distribution -- most startups fail, but VCs hope to invest in those startups that will exponentially beat the others
 - "The biggest secret in venture capital is that the best investment in a successful fund equals or outperforms the entire rest of the fund combined."
 - &rarr; "Only invest in companies with the potential to return the value of the entire fund."
-- Ex. In Founders Fund 2005 Facebook, then Palantir 
+- Ex. In Founders Fund 2005 Facebook, then Palantir
 - Founders Fund focuses not on diversified hedging, but rather on companies which could be multibillion-dollar businesses "based on unique fundamentals"
 
 ### Why people don't see the power law
@@ -286,7 +286,7 @@ As read: November 2014
 | easy        | hard    | impossible |
 
 ### Why aren't people looking for secrets?
-- The **Unabomber's Manifesto** argued that all secrets (*"hard problems"*) have been solved, and the remaining problems are either easy or impossible -- both unsatisfying 
+- The **Unabomber's Manifesto** argued that all secrets (*"hard problems"*) have been solved, and the remaining problems are either easy or impossible -- both unsatisfying
 - He posited that if we destroyed everything & all the tech, people could work on hard problems again
 - **Hipsters** basically do this in their clothing style, filtering photos, etc. (*whoa*)
 - "All fundamentalists think this way, not just terrorists and hipsters."
@@ -311,7 +311,7 @@ As read: November 2014
 - "You can't find secrets without looking for them"
 - "If you think something hard is impossible, you'll never even start trying to achieve it.  Belief in secrets is an effective truth."
 - "Great companies can be built on open but unsuspected secrets about how the world works."
-- **sharing economy** startups captured untapped supply: 
+- **sharing economy** startups captured untapped supply:
   - Airbnb
   - Lyft
   - Uber

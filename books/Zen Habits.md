@@ -21,7 +21,7 @@ As read: February 2015
 - The mind seeks comfort and avoids discomfort, fear, and change
 - Fear causes us to avoid and procrastinate on what we really want
 - It's the root of any problem we have in life
-- This leads to: 
+- This leads to:
     - anxiety
     - procrastination
     - avoiding fulfilling activities like chasing dreams, creative pursuits, and failing at habit change

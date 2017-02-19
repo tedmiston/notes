@@ -49,7 +49,7 @@ Software is run far longer than the amount of time it takes to implement.  Googl
 ### 6. Monitoring Distributed Systems
 ### 7. The Evolution of Automation at Google
 ### 8. Release Engineering
-### 9. Simplicity 
+### 9. Simplicity
 
 - "Software systems are inherently dynamic and unstable."
 - You could only make it perfectly stable if you could prevent change (in the codebase, libraries, userbase, ...)

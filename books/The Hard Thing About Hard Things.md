@@ -7,7 +7,7 @@ by Ben Horowitz
 ## Introduction
 > This the real world, homie, school finished<br>
 > They done stole your dreams, you dunno who did it.
-> 
+>
 > &mdash; <cite>Kanye West, *Gorgeous*</cite>
 
 - Most management / self-help books try to provide recipes that don't exist instead of tackling the hard things -- our situations are complicated and dynamic

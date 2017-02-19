@@ -61,7 +61,7 @@ This chapter is about YC interviews, especially with young founders.
 - Graham asks, "Do you have any ideas that people would pay money for? 'Cause you know the big mistake that very young founders make is they make some sort of social mash-up thing no one's going to pay for, right? It might be a good form of discipline to force yourself to work on something that someone would actually pay you for. Maybe it's a grubby business, the Internet equivalent of a body shop. But at least it's real."
 - Next CampusCred, which offers deals around a college campus, somewhat like Groupon: ~11k active users, $117k revenue, 10% weekly growth, and they've just expanded into 5 schools in southern California
 - They point out that they've connected to college students through shot glasses and partnerships with Greek houses -- something Groupon doesn't understand college students enough to do
-- A rep at each campus sets up the deals with local businesses 
+- A rep at each campus sets up the deals with local businesses
 - They talk about doing 100 schools per year to which PG asks why they don't do 100 per month? They say it takes a couple thousand dollars per school, but yes, they are already profitable. PG is delighted and wants them to get money from investors immediately and go for a land grab.
 
 ## 2. Older

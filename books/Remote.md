@@ -71,7 +71,7 @@ Rating: ⭐⭐⭐⭐
 - "So here's a prediction: The luxury privilege of the next twenty years will be to leave the city.  Not as its leashed servant in a suburb, but to wherever one wants."
 
 ### The new luxury
-- old-money luxury (company Lexus, secretary) and new-money luxury (free meals, laundry, massages) come at the opportunity cost of losing time for family & extracurriculars 
+- old-money luxury (company Lexus, secretary) and new-money luxury (free meals, laundry, massages) come at the opportunity cost of losing time for family & extracurriculars
 - **"The new luxury is freedom & time"**: shed the shackles of *deferred living* to pursue your passions *now*, while you're still working today
 - blend work & "retirements" to design a better *lifestyle* overall today, not down the road
   - also reminds me of Tim Ferriss' *mini retirements*
@@ -120,7 +120,7 @@ Rating: ⭐⭐⭐⭐
 ### If I can't see them, how do I know they're working?
 - if people wanted to play games from their desk in the office, they could (more common in corporate)
 - if you keep low expectations, employees will live down to them
-- if you view employees as capable, self-motivated adults, they'll delight you 
+- if you view employees as capable, self-motivated adults, they'll delight you
 - you're a manager, not a babysitter
 - there's some creepy software called InterGuard that some companies use to monitor all remote employee screens (bad culture smell) --> trust the people you work with, or find new people to work with
 
@@ -150,7 +150,7 @@ Rating: ⭐⭐⭐⭐
 - "Working remotely isn't without complication or occasional sacrifice.  It's about making things better for more people more of the time."
 
 ### Big business doesn't do it, so why should we?
-- most big businesses are plagued with inefficiency and bureaucracy... don't look to them for productivity advice or innovation 
+- most big businesses are plagued with inefficiency and bureaucracy... don't look to them for productivity advice or innovation
 - you need confidence to adopt a smarter way of working even if the rest of your industry clings to convention... why wait until this remote is common practice to start?
 
 ### Others would get jealous

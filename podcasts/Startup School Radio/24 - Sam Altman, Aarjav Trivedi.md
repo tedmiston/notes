@@ -12,7 +12,7 @@ hosted by aaron harris
 
 - started **loopt** at 19; it grew out of a side project and morphed into a startup only because of yc
 - dormmate blake ross told him about pg's **summer founders program** the day applications were due
-- in 2005, he know who pg was but was't "following startups" 
+- in 2005, he know who pg was but was't "following startups"
 - facebook had started the year before but no one considered them a real company yet
 - loopt was born from mobile and gps growing to be important things, tied together to see the friends around you and stuff going on around you, that'd be powerful
 - the summer before he worked in the stanford cs research lab on an autonomous helicopter navigation project using gps (before thinking about gps was a common thing)
@@ -48,7 +48,7 @@ hosted by aaron harris
 - **"the issue is that if the ceo is focused on the press and not getting a few initial users to love the product, that's what the rest of the company focuses on too"**
 - "i don't pretend to know everything that went wrong at a clinkle or a color, but those are common examples of these gigantic press launches with huge amounts of money raised and no one could use the product until they were ready and all that.  and i think watching that as an outsider, it did seem in those cases that the press really hurt the companies."
 
-### industries & investment strategy 
+### industries & investment strategy
 
 - a few weeks ago they talked about tech being applied into legacy industries to transform the way they work... is it really infiltrating more industries or are we just seeing that in a couple places that people are talking about a lot?
 - "**it's hard to see an exponential curve when you're on one** -- if you look back it looks flat, and if you look forward it looks vertical -- but i think it's just the continuing compounding curve"
@@ -103,7 +103,7 @@ hosted by aaron harris
 
 - i started wrong by launching a consumer transportation service that competed with uber
 - but then came back to the transit agencies with what we learned:
-  1. figuring out the root cause and attacking it - focus on matching supply and demand -- the hard part about running uber is the backend -- a lot of programmers like building transit tools, but they're mostly focused on the front end 
+  1. figuring out the root cause and attacking it - focus on matching supply and demand -- the hard part about running uber is the backend -- a lot of programmers like building transit tools, but they're mostly focused on the front end
   2. speed - **"the only thing that matters is how quickly you iterate"**.  a lot of things any successful startup does are not perfect when they launch, then they quickly improve it.
 
 ### rollout with transit agencies

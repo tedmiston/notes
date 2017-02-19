@@ -136,7 +136,7 @@ The principles to understand, start, and improve a business presented in small c
 ## 3. Marketing <a name="ch3"></a>
 ### Attention
 ### Receptivity
-### Remarkability 
+### Remarkability
 ### Probable Purchaser
 ### End Result
 ### Qualification
