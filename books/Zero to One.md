@@ -51,16 +51,13 @@ As read: November 2014
 
 <sub><sup>[back to top](#)</sub></sup>
 
-
 ## <a name="ch2"></a>2. Party Like It's 1999
 
 <sub><sup>[back to top](#)</sub></sup>
 
-
 ## <a name="ch3"></a>3. All Happy Companies Are Different
 
 <sub><sup>[back to top](#)</sub></sup>
-
 
 ## <a name="ch4"></a>4. The Ideology of Competition
 **PURPOSE**: Why do people think competition is something to love?
@@ -96,7 +93,6 @@ As read: November 2014
 - fighting is binary: "either don't throw any punches, or strike hard and end it quickly"
 
 <sub><sup>[back to top](#)</sub></sup>
-
 
 ## <a name="ch5"></a>5. Last Mover Advantage
 **PURPOSE**: How does one actually build a monopoly business?
@@ -181,7 +177,6 @@ As read: November 2014
 
 <sub><sup>[back to top](#)</sub></sup>
 
-
 ## <a name="ch6"></a>6. You Are Not a Lottery Ticket
 **PURPOSE**: How should we approach the future?
 
@@ -247,7 +242,6 @@ As read: November 2014
 
 <sub><sup>[back to top](#)</sub></sup>
 
-
 ## <a name="ch7"></a>7. Follow the Money
 **PURPOSE**: How should we invest entrepreneur time and VC money in startups?
 
@@ -272,7 +266,6 @@ As read: November 2014
 - Hesitate to start your own company because joining the very best company while it's growing fast is way more valuable (0.01% of Google >> 100% of nothing)
 
 <sub><sup>[back to top](#)</sub></sup>
-
 
 ## <a name="ch8"></a>8. Secrets
 **PURPOSE**: How do we find the ideas that lead to world-changing companies?
@@ -331,11 +324,9 @@ As read: November 2014
 
 <sub><sup>[back to top](#)</sub></sup>
 
-
 ## <a name="ch9"></a>9. Foundations
 
 <sub><sup>[back to top](#)</sub></sup>
-
 
 ## <a name="ch10"></a>10. The Mechanics of Mafia
 **PURPOSE**: What's the difference between a startup team and a cult?
@@ -393,21 +384,17 @@ As read: November 2014
 
 <sub><sup>[back to top](#)</sub></sup>
 
-
 ## <a name="ch11"></a>11. If You Build It, Will They Come?
 
 <sub><sup>[back to top](#)</sub></sup>
-
 
 ## <a name="ch12"></a>12. Man and Machine
 
 <sub><sup>[back to top](#)</sub></sup>
 
-
 ## <a name="ch13"></a>13. Seeing Green
 
 <sub><sup>[back to top](#)</sub></sup>
-
 
 ## <a name="ch14"></a>14. The Founder's Paradox
 

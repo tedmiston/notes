@@ -14,7 +14,6 @@ by Ben Horowitz
 - This book is the backstory to his blog, his difficulties, and patterns
 - "Because hip-hop artists aspire to be both great and successful and see themselves as entrepreneurs, many of the themes -- competing, making money, being misunderstood -- provide insight into the hard things."
 
-
 ## 1. From Communist to Venture Capitalist
 - Chapter intro quotes [Who We Be](http://genius.com/Dmx-who-we-be-lyrics)... I'm feeling it
 - Communist grandparents, moved to Berkeley as a baby, the wagon story where he met his best friend
@@ -33,7 +32,6 @@ by Ben Horowitz
 - "Most business relationships either become too tense to tolerate or not tense enough to be productive after a while. Either people challenge each other to the point where they don't like each other or they become complacent about each other's feedback and no longer benefit from the relationship. With Marc and me, even after eighteen years, he upsets me almost every day by finding something wrong in my thinking, and I do the same for him. It works."
 - Sold to AOL, a few months in realized AOL saw itself as a media company, not a tech company: "Media companies focused on things like creating great stories whereas technology companies focused on creating a better way of doing things." (wow)
 - Born out of the experience connecting AOL partners with their e-commerce platform, then watching partner sites crash from the traffic, they started with Loudcloud in '99 to invent the idea of cloud computing
-
 
 ## 2. "I Will Survive"
 ## 3. This Time with Feeling

@@ -23,7 +23,6 @@ by Jessica Livingston
 - Successful founders get rich but care more about changing the world and craftsmanship
 - In the business world, startups are *the essence of productivity*
 
-
 ## 1. Max Levchin: Cofounder, PayPal
 ## 2. Sabeer Bhatia: Cofounder, Hotmail
 ## 3. Steve Wozniak: Cofounder, Apple Computer

@@ -38,7 +38,6 @@ Rating: ⭐⭐⭐⭐⭐
 
 <sub><sup>[back to top](#)</sub></sup>
 
-
 ## <a name="ch1"></a>1. You Don't Have to be a Genius
 
 ### Find a scenius
@@ -74,7 +73,6 @@ Rating: ⭐⭐⭐⭐⭐
 
 <sub><sup>[back to top](#)</sub></sup>
 
-
 ## <a name="ch2"></a>2. Think Process, Not Product
 
 ### Take people behind the scenes
@@ -95,7 +93,6 @@ Rating: ⭐⭐⭐⭐⭐
 - documenting & recording your process makes you realize your progress (and gives you material when you're ready to show)
 
 <sub><sup>[back to top](#)</sub></sup>
-
 
 ## <a name="ch3"></a>3. Share Something Small Every Day
 
@@ -142,7 +139,6 @@ Rating: ⭐⭐⭐⭐⭐
 
 <sub><sup>[back to top](#)</sub></sup>
 
-
 ## <a name="ch4"></a>4. Open Up Your Cabinet of Curiosities
 
 ### Don't be a hoarder
@@ -174,7 +170,6 @@ Rating: ⭐⭐⭐⭐⭐
 - leave breadcrumb trails to how you found the source: *via*, *h/t*
 
 <sub><sup>[back to top](#)</sub></sup>
-
 
 ## <a name="ch5"></a>5. Tell Good Stories
 
@@ -213,7 +208,6 @@ Rating: ⭐⭐⭐⭐⭐
 
 <sub><sup>[back to top](#)</sub></sup>
 
-
 ## <a name="ch6"></a>6. Teach What You Know
 
 ### Share your trade secrets
@@ -228,7 +222,6 @@ Rating: ⭐⭐⭐⭐⭐
 - &rarr; learn &rarr; teach &rarr;
 
 <sub><sup>[back to top](#)</sub></sup>
-
 
 ## <a name="ch7"></a>7. Don't Turn into Human Spam
 
@@ -264,7 +257,6 @@ Rating: ⭐⭐⭐⭐⭐
 
 <sub><sup>[back to top](#)</sub></sup>
 
-
 ## <a name="ch8"></a>8. Learn to Take a Punch
 
 ### Let 'em take their best shot
@@ -288,7 +280,6 @@ Rating: ⭐⭐⭐⭐⭐
 - consider not having comments on your website, so people contact you directly
 
 <sub><sup>[back to top](#)</sub></sup>
-
 
 ## <a name="ch9"></a>9. Sell Out
 
@@ -330,7 +321,6 @@ Rating: ⭐⭐⭐⭐⭐
 
 <sub><sup>[back to top](#)</sub></sup>
 
-
 ## <a name="ch10"></a>10. Stick Around
 
 ### Don't quit your show
@@ -369,7 +359,6 @@ Rating: ⭐⭐⭐⭐⭐
 - so, [begin again](https://www.youtube.com/watch?v=cMPEd8m79Hw) -- become an amateur & learn in the open, document your progress and share it [meta: that's sort of what I've been doing with my book reading in this repo]
 
 <sub><sup>[back to top](#)</sub></sup>
-
 
 ## <a name="afterword"></a>Afterword
 

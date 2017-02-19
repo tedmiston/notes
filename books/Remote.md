@@ -30,14 +30,12 @@ Rating: ⭐⭐⭐⭐
 
 <sub><sup>[back to top](#)</sub></sup>
 
-
 ## <a name="pre2"></a>Introduction
 - remote work is seeing increased adoption & the tech to collaborate remotely is here now
 - this book aims to be the missing piece: upgrade the human mind so workers embrace freedom & productivity benefits and companies increased their access to talent (and everyone learns how to overcome the downsides)
 - freedom in location is the new luxury
 
 <sub><sup>[back to top](#)</sub></sup>
-
 
 ## <a name="ch1"></a>1. The Time is Right for Remote Work
 
@@ -107,7 +105,6 @@ Rating: ⭐⭐⭐⭐
 - notice how much work already happens with minimal face-to-face interaction
 
 <sub><sup>[back to top](#)</sub></sup>
-
 
 ## <a name="ch2"></a>2. Dealing with Excuses
 
@@ -213,41 +210,33 @@ Rating: ⭐⭐⭐⭐
 
 <sub><sup>[back to top](#)</sub></sup>
 
-
 ## <a name="ch3"></a>3. How to Collaborate Remotely
 
 <sub><sup>[back to top](#)</sub></sup>
-
 
 ## <a name="ch4"></a>4. Beware the Dragons
 
 <sub><sup>[back to top](#)</sub></sup>
 
-
 ## <a name="ch5"></a>5. Hiring and Keeping the Best
 
 <sub><sup>[back to top](#)</sub></sup>
-
 
 ## <a name="ch6"></a>6. Managing Remote Workers
 
 <sub><sup>[back to top](#)</sub></sup>
 
-
 ## <a name="ch7"></a>7. Life as a Remote Worker
 
 <sub><sup>[back to top](#)</sub></sup>
-
 
 ## <a name="post1"></a>Conclusion
 
 <sub><sup>[back to top](#)</sub></sup>
 
-
 ## <a name="post2"></a>The Remote Toolbox
 
 <sub><sup>[back to top](#)</sub></sup>
-
 
 ## <a name="post3"></a>Acknowledgments
 
