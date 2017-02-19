@@ -28,23 +28,23 @@ by Leo Babauta
 
 - A limitless life is overwhelming and ineffective; a life with limits brings focus and power
 - Benefits
-    - 1. "It simplifies things." &rarr; a simplified life is more manageable & less stressful
-    - 2. "It focuses you." &rarr; focuses your fixed energy on less things
-    - 3. "It focuses on what's important." &rarr; "you do only what's important to you"
-    - 4. "It helps you achieve." &rarr; focus on the essential to complete projects & goals (vs. make incremental progress when we are spread too thin)
-    - 5. "It shows others that your time is important." &rarr; send the message that you value your time & priorities, and others will value it in return
-    - 6. "It makes you more effective." &rarr; "using your limited time and energy on something with lasting impact"
+  - 1. "It simplifies things." &rarr; a simplified life is more manageable & less stressful
+  - 2. "It focuses you." &rarr; focuses your fixed energy on less things
+  - 3. "It focuses on what's important." &rarr; "you do only what's important to you"
+  - 4. "It helps you achieve." &rarr; focus on the essential to complete projects & goals (vs. make incremental progress when we are spread too thin)
+  - 5. "It shows others that your time is important." &rarr; send the message that you value your time & priorities, and others will value it in return
+  - 6. "It makes you more effective." &rarr; "using your limited time and energy on something with lasting impact"
 
 #### What to Set Limits On
 
 - Set limits on every area of your life that is overloaded / takes too much time
 - Start with one area, ideally one that will be successful
 - Some ideas
-    - e-mail
-    - daily tasks
-    - \# of active projects
-    - amount of time reading on the web
-    - \# of things on your desk
+  - e-mail
+  - daily tasks
+  - \# of active projects
+  - amount of time reading on the web
+  - \# of things on your desk
 - Focus on one change until it becomes comfortable routine
 
 #### How to Set Limits
@@ -52,10 +52,10 @@ by Leo Babauta
 - Your first attempt is a fairly arbitrary number, but grounded in your experience and what you is ideal in that activity
 - Ex. If you check email 10-15 times a day, you might try 1-5 times
 - Steps
-    - 1. Set a limit
-    - 2. Test it for a week and analyze if it's working
-    - 3. If not, adjust the limit and test again
-    - 4. Adjust until it becomes habit
+  - 1. Set a limit
+  - 2. Test it for a week and analyze if it's working
+  - 3. If not, adjust the limit and test again
+  - 4. Adjust until it becomes habit
 
 ### 3. Choosing the Essential, and Simplifying
 ### 4. Simple Focus

@@ -22,9 +22,9 @@ As read: February 2015
 - Fear causes us to avoid and procrastinate on what we really want
 - It's the root of any problem we have in life
 - This leads to:
-    - anxiety
-    - procrastination
-    - avoiding fulfilling activities like chasing dreams, creative pursuits, and failing at habit change
+  - anxiety
+  - procrastination
+  - avoiding fulfilling activities like chasing dreams, creative pursuits, and failing at habit change
 - Solving it is the key to removing obstacles from our lives
 - You can come to associate discomfort with learning and growth (**growth mindset**)
 - "Learning to turn from the Mind Movie to reality, and appreciate reality for what it is, changed my life.  I could now act without fear, make changes without procrastination."
@@ -57,7 +57,7 @@ As read: February 2015
 #### Mission: Check your commitment
 - Everyone expresses the desire to change something, but many don't actually take the first action to start
 - "How committed am I to making a new change and actually starting it in the next week?"
-    - I am committed to doing it for the purpose of personal development.
+  - I am committed to doing it for the purpose of personal development.
 
 ### 1. Create a space
 ### 2. Overcome the childish mind
