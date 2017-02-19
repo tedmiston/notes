@@ -42,9 +42,9 @@ by Leo Babauta
 - Some ideas
     - e-mail
     - daily tasks
-    - # of active projects
+    - \# of active projects
     - amount of time reading on the web
-    - # of things on your desk
+    - \# of things on your desk
 - Focus on one change until it becomes comfortable routine
 
 #### How to Set Limits
