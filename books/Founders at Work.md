@@ -1,4 +1,5 @@
 # Founders at Work
+
 *Stories of Startups' Early Days*<br>
 by Jessica Livingston
 
@@ -24,34 +25,65 @@ by Jessica Livingston
 - In the business world, startups are *the essence of productivity*
 
 ## 1. Max Levchin: Cofounder, PayPal
+
 ## 2. Sabeer Bhatia: Cofounder, Hotmail
+
 ## 3. Steve Wozniak: Cofounder, Apple Computer
+
 ## 4. Joe Kraus: Cofounder, Excite
+
 ## 5. Dan Bricklin: Cofounder, Software Arts
+
 ## 6. Mitchell Kapor: Cofounder, Lotus Development
+
 ## 7. Ray Ozzie: Founder Iris Associates, Groove Networks
+
 ## 8. Evan Williams: Cofounder, Pyra Labs (Blogger.com)
+
 ## 9. Tim Brady: First Non-Founding Employee, Yahoo
+
 ## 10. Mike Lazaridis: Cofounder, Research in Motion
+
 ## 11. Arthur van Hoff: Cofounder, Marimba
+
 ## 12. Paul Buchheit: Creator, Gmail
+
 ## 13. Steve Perlman: Cofounder, WebTV
+
 ## 14. Mike Ramsay: Cofounder, TiVo
+
 ## 15. Paul Graham: Cofounder, Viaweb
+
 ## 16. Joshua Schachter: Founder, del.icio.us
+
 ## 17. Mark Fletcher: Founder ONElist, Bloglines
+
 ## 18. Craig Newmark: Founder, craigslist
+
 ## 19. Caterina Fake: Cofounder, Flickr
+
 ## 20. Brewster Kahle: Founder, WAIS, Internet Archive, Alexa Internet
+
 ## 21. Charles Geschke: Cofounder, Adobe Systems
+
 ## 22. Ann Winbland: Cofounder, Open Systems, Hummer Winbland
+
 ## 23. David Heinemeier Hansson: Partner, 37signals
+
 ## 24. Philip Greenspun: Cofounder, ArsDigita
+
 ## 25. Joel Spolsky: Cofounder, Fog Creek Software
+
 ## 26. Stephen Kaufer: Cofounder, Trip Advisor
+
 ## 27. James Hong: Cofounder, HOT or NOT
+
 ## 28. James Currier: Founder, Tickle
+
 ## 29. Blake Ross: Creator, Firefox
+
 ## 30. Mena Trott: Cofounder, Six Apart
+
 ## 31. Bob Davis: Founder, Lycos
+
 ## 32. Run Gruner: Cofounder, Alliant Computer Systems; Founder, Shareholder.com

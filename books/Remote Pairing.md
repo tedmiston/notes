@@ -1,4 +1,5 @@
 # Remote Pairing
+
 *Collaborative Tools for Distributed Development*<br>
 by Joe Kutner
 
@@ -10,10 +11,17 @@ Joe Kutner describes his setup and practical approach to pair programming remote
 ---
 
 ## Preface
+
 ## 1. Introduction to Pair Programming
+
 ## 2. Collaborating with Text Only
+
 ## 3. Using the Cloud to Connect
+
 ## 4. Collaborating with Shared Screens
+
 ## 5. Building a Pairing Server
+
 ## 6. Collaborating with an IDE
+
 ## 7. Remote Pairing in the Wild

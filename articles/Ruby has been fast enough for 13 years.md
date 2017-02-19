@@ -1,4 +1,5 @@
 # Ruby has been fast enough for 13 years
+
 by DHH
 
 https://m.signalvnoise.com/ruby-has-been-fast-enough-for-13-years-afff4a54abc7

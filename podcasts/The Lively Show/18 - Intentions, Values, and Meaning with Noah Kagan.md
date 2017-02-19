@@ -1,4 +1,5 @@
 # 18. Intentions, Values, and Meaning with Noah Kagan
+
 *The Lively Show*<br>
 by [Jess Lively](http://www.jesslively.com/), [Noah Kagan](http://noahkagan.com/)
 

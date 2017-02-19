@@ -1,4 +1,5 @@
 # Location Wars - Part I: History and the Problem
+
 by Tim Brunk
 
 https://medium.com/the-astronomer-journey/location-wars-part-i-history-and-the-problem-ea3047167b56

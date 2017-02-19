@@ -1,4 +1,5 @@
 # The Hitchhiker's Guide to Python
+
 *Best Practices for Development*<br>
 by [Kenneth Reitz](http://www.kennethreitz.org), Tanya Schlusser, August 2016 (O'Reilly)
 
@@ -12,14 +13,25 @@ A guide that covers broadly using Python in real life.
 ---
 
 ## Preface
+
 ## 1. Picking an Interpreter
+
 ## 2. Properly Installing Python
+
 ## 3. Your Development Environment
+
 ## 4. Writing Great Code
+
 ## 5. Reading Great Code
+
 ## 6. Shipping Great Code
+
 ## 7. User Interaction
+
 ## 8. Code Management and Improvement
+
 ## 9. Software Interfaces
+
 ## 10. Data Manipulation
+
 ## 11. Data Persistence

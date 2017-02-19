@@ -1,4 +1,5 @@
 # Zero to One
+
 *Notes on Startups, or How to Build the Future*<br>
 by Peter Thiel with Blake Masters
 
@@ -28,6 +29,7 @@ As read: November 2014
 ---
 
 ## <a name="ch0"></a>Preface
+
 **PURPOSE**: Why does this book exist?
 
 - learn from what Gates, Zuckerberg, etc. have done; don't just copy them
@@ -60,6 +62,7 @@ As read: November 2014
 <sub><sup>[back to top](#)</sub></sup>
 
 ## <a name="ch4"></a>4. The Ideology of Competition
+
 **PURPOSE**: Why do people think competition is something to love?
 
 ### "Competition == good" is a pervasive idea
@@ -99,6 +102,7 @@ As read: November 2014
 <sub><sup>[back to top](#)</sub></sup>
 
 ## <a name="ch5"></a>5. Last Mover Advantage
+
 **PURPOSE**: How does one actually build a monopoly business?
 
 ### Future cash flows
@@ -193,6 +197,7 @@ As read: November 2014
 <sub><sup>[back to top](#)</sub></sup>
 
 ## <a name="ch6"></a>6. You Are Not a Lottery Ticket
+
 **PURPOSE**: How should we approach the future?
 
 ### Success: luck or skill?
@@ -266,6 +271,7 @@ As read: November 2014
 <sub><sup>[back to top](#)</sub></sup>
 
 ## <a name="ch7"></a>7. Follow the Money
+
 **PURPOSE**: How should we invest entrepreneur time and VC money in startups?
 
 ### Background
@@ -295,6 +301,7 @@ As read: November 2014
 <sub><sup>[back to top](#)</sub></sup>
 
 ## <a name="ch8"></a>8. Secrets
+
 **PURPOSE**: How do we find the ideas that lead to world-changing companies?
 
 ### Background
@@ -362,6 +369,7 @@ As read: November 2014
 <sub><sup>[back to top](#)</sub></sup>
 
 ## <a name="ch10"></a>10. The Mechanics of Mafia
+
 **PURPOSE**: What's the difference between a startup team and a cult?
 
 ### What's the ideal company culture?
@@ -442,6 +450,7 @@ As read: November 2014
 ---
 
 ## <a name="ch15"></a>Conclusion: Stagnation or Singularity?
+
 **PURPOSE**: What will we make of the future?
 
 ### 4 patterns for future of humanity

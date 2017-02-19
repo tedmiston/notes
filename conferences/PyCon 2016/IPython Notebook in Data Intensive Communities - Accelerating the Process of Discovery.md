@@ -1,4 +1,5 @@
 # IPython Notebook in Data Intensive Communities
+
 *Accelerating the Process of Discovery*<br>
 by Frances Haugen, Patrick Phelps
 

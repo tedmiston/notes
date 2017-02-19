@@ -1,4 +1,5 @@
 # Two Scoops of Django
+
 *Best Practices for Django 1.8*<br>
 by Daniel Roy Greenfeld, Audrey Roy Greenfeld
 

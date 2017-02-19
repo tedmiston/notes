@@ -1,4 +1,5 @@
 # Python in a Nutshell, 3e
+
 by Steve Holden, Anna Ravenscroft, Alex Martelli, November 2016 (O'Reilly)
 
 - [Official site](http://shop.oreilly.com/product/0636920012610.do)

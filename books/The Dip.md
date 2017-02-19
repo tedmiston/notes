@@ -1,4 +1,5 @@
 # The Dip
+
 *A Little Book That Teaches You When to Quit (and When to Stick)*<br>
 by Seth Godin
 

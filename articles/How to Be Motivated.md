@@ -1,4 +1,5 @@
 # How to Be Motivated: 4 New Insights From Research
+
 by Eric Barker
 
 http://www.bakadesuyo.com/2015/01/how-to-be-motivated/

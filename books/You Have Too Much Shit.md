@@ -1,4 +1,5 @@
 # You Have Too Much Shit
+
 by [Chris Thomas](http://thomaschris.co.uk/), Designer @ Webcredible
 
 A very short self-help book and rally against excessive consumerism.
@@ -18,6 +19,7 @@ Rating: ⭐⭐⭐
 ## Notes
 
 ### What is shit? Why change?
+
 > Have nothing in your house that you do not know to be useful or believe to be beautiful.
 >
 > -- William Morris

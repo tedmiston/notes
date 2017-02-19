@@ -1,4 +1,5 @@
 # Refactoring Python: Why and How to Restructure Your Code
+
 by Brett Slatkin
 
 - [Abstract](https://us.pycon.org/2016/schedule/presentation/2073/)

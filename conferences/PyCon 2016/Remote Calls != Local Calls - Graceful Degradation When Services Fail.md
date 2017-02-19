@@ -1,4 +1,5 @@
 # Remote Calls != Local Calls: Graceful Degradation When Services Fail
+
 by Daniel Riti
 
 - [Abstract](https://us.pycon.org/2016/schedule/presentation/2027/)

@@ -1,10 +1,12 @@
 # The Hard Thing About Hard Things
+
 *Building a Business When There Are No Easy Answers*<br>
 by Ben Horowitz
 
 ---
 
 ## Introduction
+
 > This the real world, homie, school finished<br>
 > They done stole your dreams, you dunno who did it.
 >
@@ -35,10 +37,17 @@ by Ben Horowitz
 - Born out of the experience connecting AOL partners with their e-commerce platform, then watching partner sites crash from the traffic, they started with Loudcloud in '99 to invent the idea of cloud computing
 
 ## 2. "I Will Survive"
+
 ## 3. This Time with Feeling
+
 ## 4. When Things Fall Apart
+
 ## 5. Take Care of the People, the Products, and the Profits – In That Order
+
 ## 6. Concerning the Going Concern
+
 ## 7. How to Lead Even When You Don't Know Where You Are Going
+
 ## 8. First Rule of Entrepreneurship: There Are No Rules
+
 ## 9. The End of the Beginning

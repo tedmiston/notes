@@ -1,4 +1,5 @@
 # Django By Example
+
 by Antonio Melé, November 2015
 
 - [Official site](http://djangobyexample.com/)

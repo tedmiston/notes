@@ -1,4 +1,5 @@
 # Working from Home and Phatic Communication
+
 by Simon Ouderkirk
 
 [Article](http://s12k.com/2016/03/07/working-from-home-and-phatic-communication/) | [HN](https://news.ycombinator.com/item?id=11238535)

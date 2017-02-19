@@ -1,4 +1,5 @@
 # Shoe Dog
+
 *A Memoir by the Creator of Nike*<br>
 by Phil Knight
 
@@ -18,27 +19,47 @@ Phil Knight tell the story of the early days of Nike
 - He went to undergrad in Oregon, Stanford for grad school, then moved back in with his parents a bit lost finding purpose in the world
 
 ## Part One
+
 ### 1962
+
 ### 1963
+
 ### 1964
+
 ### 1965
+
 ### 1966
+
 ### 1967
+
 ### 1968
+
 ### 1969
+
 ### 1970
+
 ### 1971
+
 ### 1972
+
 ### 1973
+
 ### 1974
+
 ### 1975
 
 ## Part Two
+
 ### 1975
+
 ### 1976
+
 ### 1977
+
 ### 1978
+
 ### 1979
+
 ### 1980
 
 ## Night

@@ -1,4 +1,5 @@
 # minimalism isn't traveling the world with nothing
+
 by leo babauta
 
 http://mnmlist.com/suitcase/

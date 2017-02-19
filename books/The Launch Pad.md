@@ -1,4 +1,5 @@
 # The Launch Pad
+
 *Inside Y Combinator*<br>
 by Randall Stross, 2013
 
@@ -97,7 +98,9 @@ The ideal founder template, Viaweb, and interviews with older founders.
 - When they applied, they had: 5,100 accounts, $5.5k recurring monthly revenue, 16% monthly growth in users... without realizing how far ahead of the other applicants they were. They even offer the service to Heroku and have a revenue-sharing deal. They did not realize how significant that was at the time, but Heroku cofounder Adam Wiggins' personal recommendation moved them to the top tier of applicants: YC alum and personal recommendations from successful alum.
 
 ## 3. Grad School
+
 ## 4. Male
+
 ## 5. Crazy But Normal
 
 ## 6. Unsexy
@@ -132,19 +135,33 @@ On cool ideas vs. businesses that make money and finding a real need.
 > Moments like these are why I'm glad we invested in sixty-four startups. If you want to drive off a cliff, go ahead.
 
 ## 7. Genius
+
 ## 8. Angels
+
 ## 9. Always Be Closing
+
 ## 10. Clone Myself
+
 ## 11. What's Up?
+
 ## 12. Hackathon
+
 ## 13. New Ideas
+
 ## 14. Risk
+
 ## 15. Married
+
 ## 16. Fearsome
+
 ## 17. Pay Attention
+
 ## 18. Growth
+
 ## 19. Find a Dropbox
+
 ## 20. Don't Quit
+
 ## 21. Software Is Eating the World
 
 ## Epilogue

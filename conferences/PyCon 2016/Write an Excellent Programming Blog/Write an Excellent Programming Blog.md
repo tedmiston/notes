@@ -1,4 +1,5 @@
 # Write an Excellent Programming Blog
+
 by A. Jesse Jiryu Davis
 
 - [Abstract](https://us.pycon.org/2016/schedule/presentation/1668/)

@@ -1,4 +1,5 @@
 # Fixing the Inequity of Startup Equity
+
 by Harjeet Taggar
 
 [Article text](https://data.triplebyte.com/fixing-the-inequity-of-startup-equity-469793baad1e) | [HN discussion](https://news.ycombinator.com/item?id=11197510)

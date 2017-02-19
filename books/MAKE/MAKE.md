@@ -1,6 +1,7 @@
 ![](cover.png)
 
 # MAKE
+
 *How to build, launch, grow and monetize a bootstrapped startup*<br>
 by [Pieter Levels](https://levels.io/) (@levels.io), 2016
 
@@ -18,6 +19,7 @@ Pieter experimentally launched "12 startups in 12 months" and this is his story 
 - Anticipated ???
 
 ## 1. Ideas
+
 ## 2. Build
 
 ## 3. Iterate*

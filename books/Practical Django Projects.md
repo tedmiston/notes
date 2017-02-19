@@ -1,4 +1,5 @@
 # Practical Django Projects, 2e
+
 by James Bennett, June 2010
 
 - [Official site](https://www.safaribooksonline.com/library/view/django-by-example/9781784391911/)

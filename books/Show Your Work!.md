@@ -1,4 +1,5 @@
 # Show Your Work!
+
 *10 Ways to Share Your Creativity and Get Discovered*<br>
 by Austin Kleon
 
@@ -68,6 +69,7 @@ Rating: ⭐⭐⭐⭐⭐
 - "If your work isn't online, it doesn't exist.... If you want people to know about what you do and the things you care about, you have to share."
 
 ### Read obituaries
+
 > "Remembering that I'll be dead soon is the most important tool I've ever encountered to help me make the big choices in life. Because almost everything—all external expectations, all pride, all fear of embarrassment or failure—these things just fall away in the face of death, leaving only what is truly important. Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. You are already naked."
 >
 > &mdash; <cite>Steve Jobs</cite>
@@ -257,6 +259,7 @@ Rating: ⭐⭐⭐⭐⭐
 - make stuff you love + talk about it = attract people who love that kind of stuff
 
 ### The vampire test
+
 > "Whatever excites you, go do it. Whatever drains you, stop doing it."
 >
 > &mdash; Derek Sivers
@@ -328,6 +331,7 @@ Rating: ⭐⭐⭐⭐⭐
 - set people's expectations about content & frequency of emails
 
 ### Make more work for yourself
+
 > "We don't make movies to make money, we make money to make movies."
 >
 > &mdash; Walt Disney
@@ -361,6 +365,7 @@ Rating: ⭐⭐⭐⭐⭐
 - after a project, ask yourself: what you missed / couldn't get to / could have done better; then, start your next project so you don't lose momentum
 
 ### Go away so you can come back
+
 > "As soon as you stop wanting something, you get it."
 >
 > &mdash; Andy Warhol
@@ -376,6 +381,7 @@ Rating: ⭐⭐⭐⭐⭐
 - separate work from the rest of your life, so you get to *leave*
 
 ### ~~Start over~~ Begin again
+
 > "Whenever Picasso learned how to do something, he abandoned it."
 >
 > &mdash; Milton Glaser
