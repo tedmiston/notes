@@ -21,8 +21,8 @@ This episode is about growing and living intentionally.
 - "I made the most money when I wasn't trying to make money."
 - people that aren't very fulfilled avoid taking responsibility by placing it on external things (e.g., "My boss did...", "The economy's down")
 - 2 tests for fulfillment:
-	- **the sunday test**: how do you feel about Monday?
-	- **the drive test**: how do you feel driving to work Monday morning?
+  - **the sunday test**: how do you feel about Monday?
+  - **the drive test**: how do you feel driving to work Monday morning?
 - saw his mom unsatisfied as a nurse... it's absurd that most Americans hate their jobs
 
 ### Facebook & intentional conversations
@@ -43,12 +43,12 @@ This episode is about growing and living intentionally.
 
 ### Outcomes vs. intentional values
 - outcomes are often out of your control, and achievements are fleeting ("what's next?"), but the enjoyment is in having an **enduring value** that you embody"
-	- ex. "How do you want to be simpler?"
-	- ex. valuing a healthy lifestyle vs. the outcome of a six pack
+  - ex. "How do you want to be simpler?"
+  - ex. valuing a healthy lifestyle vs. the outcome of a six pack
 - his therapist asks, "What do you want?" every 2 weeks in each of:
-	1. relationships
-	2. health
-	3. work
+  1. relationships
+  2. health
+  3. work
 - try a value for 30 days -- how does it make your life better / worse?
 - he wrote what he wanted this year on his whiteboard + desktop background
 - **vision boards** can be motivational, but can also lead to too much focus on fickle outcomes vs. real values
@@ -59,9 +59,9 @@ This episode is about growing and living intentionally.
 - grew up in SF but left because "7 figures is a lifestyle business there"
 - values in Austin: I feel very satisfied when I create, and I go to SF + NYC from time to time to get inspired, then bring it back home
 - his advice:
-	1. If your job isn't satisfying, learn why not -- he writes primarily or goes to therapist.
-	2. Figure out what it is you want to be doing -- every week ask, "What do I want?"  If you don't know what you want, don't fill time with distractions; start being intentional with physical / mental creativity.
-	3. Talk with a brutally honest friend.  Filter out all inputs in life into what you actually do.  Power & strength come from internal decision: "This is what I want & I'm going to do it."
+  1. If your job isn't satisfying, learn why not -- he writes primarily or goes to therapist.
+  2. Figure out what it is you want to be doing -- every week ask, "What do I want?"  If you don't know what you want, don't fill time with distractions; start being intentional with physical / mental creativity.
+  3. Talk with a brutally honest friend.  Filter out all inputs in life into what you actually do.  Power & strength come from internal decision: "This is what I want & I'm going to do it."
 - if he hadn't been fired from Fb, he would have missed out on Thailand, Russia, Argentina, Mint, AppSumo, experiencing people he wouldn't have otherwise (but what about the other opportunity cost...)
 - money doesn't help you be happy with yourself -- what activities do you do?  what people are you around?  how do you feel good with yourself?
 - if it's not there, how do you start crafting it with intentional values?: "Why are we doing the things we're doing now?"

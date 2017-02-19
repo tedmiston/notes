@@ -53,9 +53,9 @@ This chapter is about YC interviews, especially with young founders.
 - Younger founders are interesting because failing in your 20s is easier than your 40s with a family; and even the outcome of failing is that you're broke and much smarter, analogous to the expected outcome of grad school
 - Justin Kan and Emmett Shear's application included impressive anecdotes like Emmett graduating from high school in a 1-year program
 - Applicants fall into three categories:
-	1. promising
-	2. unpromising
-	3. promising people with an unpromising idea
+  1. promising
+  2. unpromising
+  3. promising people with an unpromising idea
 - One team includes an 18-year-old Patrick O'Doherty, whose parents decided he needed to stay home in Ireland to study for final exams; though he attended the interview remotely, PG contends that he passes the test for young founders: Do they seem older than they are?
 - A group of college freshmen in the qualified rejection category is invited off their app showing Facebook friends on a Google map, which was very popular on campus, but no one used it after trying once.
 - Graham asks, "Do you have any ideas that people would pay money for? 'Cause you know the big mistake that very young founders make is they make some sort of social mash-up thing no one's going to pay for, right? It might be a good form of discipline to force yourself to work on something that someone would actually pay you for. Maybe it's a grubby business, the Internet equivalent of a body shop. But at least it's real."
@@ -69,11 +69,11 @@ This chapter is about YC interviews, especially with young founders.
 The ideal founder template, Viaweb, and interviews with older founders.
 
 - **Mid-twenties is the sweet spot for startup founders**
-	- much younger and they are less committed because they can easily fall back to college
-	- much older and they've become encumbered with families and mortgages
+  - much younger and they are less committed because they can easily fall back to college
+  - much older and they've become encumbered with families and mortgages
 - PG also wrote that while someone in their early 30s is a better programmer, they have a more expensive life, and **the 25-year-old has the most advantages**: "stamina, poverty, rootlessness (geographic mobility), colleagues, and (blissful) ignorance"
-	- "Rootlessness meant that all of one's possessions either could fit in the car or were not worth moving at all."
-	- Colleagues: former classmates = prospective cofounders
+  - "Rootlessness meant that all of one's possessions either could fit in the car or were not worth moving at all."
+  - Colleagues: former classmates = prospective cofounders
 - **Ramen profitable**: the moment when a startup makes just enough to pay its founders' (minimal) living expenses
 - PG's company Viaweb which he worked on for three years was acquired by Yahoo in 1998 "achieving sufficient wealth that he would never need to work again" 💰
 - "In 1995, on the eve of his adventures as a startup founder, Paul Graham possessed the attributes he would list years later when describing the ideal twenty-five-year-old candidate for a YC investment. **He was a hacker, single, had no mortgage or assets, and was earning only enough to cover his expenses. He had stamina, too.**"
@@ -86,10 +86,10 @@ The ideal founder template, Viaweb, and interviews with older founders.
 - "A year after the Viaweb deal, Yahoo acquired Broadcast.com for more than $5 billion, leaving Yahoo with little to show for the purchase but placing Broadcast.com's cofounder **Mark Cuban** in the ranks of the wealthiest people in the country."
 - Post acquisition, Graham worked for Yahoo, but as an employee, was no longer independent or happy, so he left shortly after.
 - Seven years after acquisition, YC was founded by 4 partners:
-	- PG
-	- Robert Morris
-	- Trevor Blackwell
-	- Jessica Livingston (who PG was dating)
+  - PG
+  - Robert Morris
+  - Trevor Blackwell
+  - Jessica Livingston (who PG was dating)
 - "In April 2005, when Graham announced the establishment of Y Combinator... He expressed his hope that the founders that YC would fund would not waste time or money -- YC's money -- before learning a key lesson: **a company should make something customers actually want**."
 - **The Start Fund**, beginning during W11, offered every company a $150k convertible note ($100k from Yuri Milner, $50k from Ron Conway) -- highly risk for investors, but simple for founders. It bet that at least one company from the batch would do so well as to outweigh the loss incurred by others.
 - The **MongoHQ** founders (Jason McCay, Ben Wyrosdick) didn't fit the ideal founder template with their mortgages, young kids, being in their 30s with spouses that are stay-at-home moms, and living in Alabama... but they did have a growing software business offering MongoDB as a service, something developers wanted that didn't exist yet
@@ -108,9 +108,9 @@ On cool ideas vs. businesses that make money and finding a real need.
 - PG: compared to a small business, a startup must be designed for scale: to grow very quickly
 - Ex. creating a small business website generator isn't a startup if it requires door-to-door sales
 - PG: How to generate new ideas
-	1. Founders are target users
-	2. Not many people could build it, but founders could
-	3. Few people realize it's a big deal [this is a lot like Peter Thiel's advice]
+  1. Founders are target users
+  2. Not many people could build it, but founders could
+  3. Few people realize it's a big deal [this is a lot like Peter Thiel's advice]
 - "What do I wish someone would start a startup to do for me?"
 - Bill Gates started Microsoft because he wanted to make the computer programmable
 - Woz started Apple because he wanted his own computer but couldn't afford the components

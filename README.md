@@ -156,7 +156,7 @@ Most recently read first
 ## 9. Videos
 
 - Computerphile
-	- [Indie App Developer - Marco Arment Interview](/videos/Computerphile/Indie App Developer - Marco Arment Interview.md)
+  - [Indie App Developer - Marco Arment Interview](/videos/Computerphile/Indie App Developer - Marco Arment Interview.md)
 - [TIME 100 - Kanye West by Elon Musk](/videos/TIME 100/Kanye West.md)
 
 ## 10. Related Projects

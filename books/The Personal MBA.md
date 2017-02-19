@@ -38,9 +38,9 @@ The principles to understand, start, and improve a business presented in small c
 - Build a scaffolding on core principles
 - Experience distilled from solo to Fortune 50 multinationals
 - You'll learn:
-	1. How businesses work
-	2. How to start / improve a business
-	3. How to accomplish personal goals w/ business skills
+  1. How businesses work
+  2. How to start / improve a business
+  3. How to accomplish personal goals w/ business skills
 
 ### No Experience Necessary
 
@@ -71,7 +71,7 @@ The principles to understand, start, and improve a business presented in small c
 
 - Thought: "I want to become a successful business person.  Where should I get my MBA?"
 
-	> Skip business school.  Educate yourself.
+  > Skip business school.  Educate yourself.
 
 - (Underwhelming...)
 

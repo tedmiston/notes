@@ -58,8 +58,8 @@ The best way to get rich is to create wealth.  And startups are the best way to 
 - economically, startups **compress your working life** into less (but more intense) years
 - he accumulates factors to arrive at a **~36x productivity multiplier** in a startup (e.g., work more hours, focus more, remove unnecessary management, how much smarter you are than your current job requires, etc.)
 - re: interruptions in startups
-	- "One valuable thing you tend to get only in startups is **uninterruptability**."
-	- "The mere possibility of being interrupted deters hackers from starting hard projects. This is why they tend to work late at night, and why it's next to impossible to write great software in a cubicle (except late at night)."
+  - "One valuable thing you tend to get only in startups is **uninterruptability**."
+  - "The mere possibility of being interrupted deters hackers from starting hard projects. This is why they tend to work late at night, and why it's next to impossible to write great software in a cubicle (except late at night)."
 - "Combine all these multipliers, and I'm claiming you could be 36 times more productive than you're expected to be in a random corporate job. If a fairly good hacker is worth $80,000 a year at a big company, then **a smart hacker working very hard without any corporate bullshit to slow him down should be able to do work worth about $3 million a year.**"
 - hypothesis: a company that could pay each person in proportion to the wealth they generate would be the most profitable
 - "Startups are not magic. They don't change the laws of wealth creation. They just represent a point at the far end of the curve. There is a conservation law at work here: **if you want to make a million dollars, you have to endure a million dollars' worth of pain.**"
@@ -78,9 +78,8 @@ The best way to get rich is to create wealth.  And startups are the best way to 
 - "The intermediate stuff—the medium of exchange—can be anything that's rare and portable. Historically metals have been the most common, but recently we've been using a medium of exchange, called the dollar, that doesn't physically exist. It works as a medium of exchange, however, because its rarity is guaranteed by the U.S. Government."
 - **businesses make wealth by doing something people want** (money is intermediate)
 - re: giving people what they want, not what you like
-	- "When you're starting a business, it's easy to slide into thinking that customers want what you do. During the Internet Bubble I talked to a woman who, because she liked the outdoors, was starting an "outdoor portal." You know what kind of business you should start if you like the outdoors? One to recover data from crashed hard disks.
-
-		What's the connection? None at all. Which is precisely my point. **If you want to create wealth (in the narrow technical sense of not starving) then you should be especially skeptical about any plan that centers on things you like doing.**"
+  - "When you're starting a business, it's easy to slide into thinking that customers want what you do. During the Internet Bubble I talked to a woman who, because she liked the outdoors, was starting an "outdoor portal." You know what kind of business you should start if you like the outdoors? One to recover data from crashed hard disks.
+  - What's the connection? None at all. Which is precisely my point. **If you want to create wealth (in the narrow technical sense of not starving) then you should be especially skeptical about any plan that centers on things you like doing.**"
 
 ### The Pie Fallacy
 
@@ -114,8 +113,8 @@ The best way to get rich is to create wealth.  And startups are the best way to 
 ### Measurement and Leverage
 
 - to get rich you need:
-	1. **measurement** - be in a position where _your_ performance can be measured
-	2. **leverage** - "decisions you make have a big effect"
+  1. **measurement** - be in a position where _your_ performance can be measured
+  2. **leverage** - "decisions you make have a big effect"
 - working in a sweatshop has measurement but not leverage (measurement by itself doesn't matter)
 - CEOs have both: their performance = performance of the company
 - "A good hint to the presence of leverage is the possibility of failure. Upside must be balanced by downside, so **if there is big potential for gain there must also be a terrifying possibility of loss**."
@@ -141,19 +140,19 @@ The best way to get rich is to create wealth.  And startups are the best way to 
 - "Ditto for Wal-Mart. Sam Walton got rich not by being a retailer, but by designing a new kind of store."
 - "Use difficulty as a guide not just in selecting the overall aim of your company, but also at decision points along the way."
 - **deliberately seek hard problems** and implement more difficult features even if equally valuable [seems counterintuitive to me] because it will be harder/impossible for bigger, slower competitors to follow (**barriers to entry**)
-	- this is when a VC ask, "How hard would this be for someone else to develop?"
+  - this is when a VC ask, "How hard would this be for someone else to develop?"
 - otherwise big companies will copy you with their greater distribution and steal your market
 - **patents** are another barrier, but competitors may just violate knowing that they can make suing them slow and expensive
 - re: companies that invent things vs. make money from them
-	- "Few technologies have one clear inventor. So as a rule, if you know the "inventor" of something ... it is because their company made money from it, and the company's PR people worked hard to spread the story."
+  - "Few technologies have one clear inventor. So as a rule, if you know the "inventor" of something ... it is because their company made money from it, and the company's PR people worked hard to spread the story."
 - **"Start by picking a hard problem, and then at every decision point, take the harder choice."** [not sure how literally one can really take this advice]
 - this is good advice for life: it tricks you into acknowledging what you know is right in the back of your mind
 
 ### The Catch(es)
 
 - it's not as simple as: start a startup, work harder, get paid more
-	1. **you can't decide how much harder you'll work** - your competitors do... as hard as possible
-	2. **payoff is only proportionate to productivity _on average_** - "you're 30 times as productive, and get paid between zero and a thousand times as much. If the mean is 30x, the median is probably zero."
+  1. **you can't decide how much harder you'll work** - your competitors do... as hard as possible
+  2. **payoff is only proportionate to productivity _on average_** - "you're 30 times as productive, and get paid between zero and a thousand times as much. If the mean is 30x, the median is probably zero."
 - "**A startup is like a mosquito.** A bear can absorb a hit and a crab is armored against one, but a mosquito is designed for one thing: to score."
 - "Viaweb's hackers were all extremely risk-averse. ... We would have much preferred a 100% chance of $1 million to a 20% chance of $10 million, even though theoretically the second is worth twice as much. Unfortunately, there is not currently any space in the business world where you can get the first deal."
 - **"The closest you can get is by selling your startup in the early stages, giving up upside (and risk) for a smaller but guaranteed payoff."**
@@ -165,8 +164,8 @@ The best way to get rich is to create wealth.  And startups are the best way to 
 - **"How do you get bought? Mostly by doing the same things you'd do if you didn't intend to sell the company."**
 - "Potential buyers will always delay if they can. The hard part about getting bought is getting them to act."
 - their two biggest fears are:
-	1. their competitor buying you
-	2. you continuing to grow driving up the price later or competing with them
+  1. their competitor buying you
+  2. you continuing to grow driving up the price later or competing with them
 - "In effect, acquirers assume the customers know who has the best technology. And this is not as stupid as it sounds. **Users are the only real proof that you've created wealth.**"
 - one red flag for VCs is a startup obsessed with interesting technical problems instead of solving problems that users care about
 - "**Treat a startup as an optimization problem in which performance is measured by number of users.** As anyone who has tried to optimize software knows, the key is measurement." [but is this really the right way to think or oversimplified?... not all users are equally valuable]
@@ -177,8 +176,8 @@ The best way to get rich is to create wealth.  And startups are the best way to 
 
 - "**Making wealth is not the only way to get rich.** For most of human history it has not even been the most common."
 - but two things changed:
-	1. **law** - starting in medieval Europe, if you made a fortune, it wouldn't be stolen by the rulers
-	2. **industrialization** - hand production replaced by modern machines
+  1. **law** - starting in medieval Europe, if you made a fortune, it wouldn't be stolen by the rulers
+  2. **industrialization** - hand production replaced by modern machines
 - "Remember what a startup is, economically: a way of saying, I want to work faster. Instead of accumulating money slowly by being paid a regular wage for fifty years, I want to get it over with as soon as possible. **So governments that forbid you to accumulate wealth are in effect decreeing that you work slowly.**"
 - **"The problem with working slowly is not just that technical innovation happens slowly. It's that it tends not to happen at all."**
 - "Without the incentive of wealth, no one wants to [develop new technology]. Engineers will work on sexy projects like fighter planes and moon rockets for ordinary salaries, but more mundane technologies like light bulbs or semiconductors have to be developed by entrepreneurs."
@@ -220,12 +219,12 @@ http://www.paulgraham.com/taste.html
 ### Good Design Solves the Right Problem
 
 - stove
-	- 4 knobs in a row is simple, but 4 knobs in a grid is better
-	- it matches the burners &rarr; people don't have to think
+  - 4 knobs in a row is simple, but 4 knobs in a grid is better
+  - it matches the burners &rarr; people don't have to think
 - fonts
-	- sans-serif is purer but less legible
+  - sans-serif is purer but less legible
 - abstract
-	- problems can improved too -- ex. replacing an intractable one with an easier one
+  - problems can improved too -- ex. replacing an intractable one with an easier one
 
 ### Good Design is Suggestive
 
@@ -253,8 +252,8 @@ http://www.paulgraham.com/taste.html
 ### Good Design Uses Symmetry
 
 - 2 kinds of symmetry
-	1. **repetition**
-	2. **recursion**: repetition in subelements
+  1. **repetition**
+  2. **recursion**: repetition in subelements
 - **compositional symmetry**: when two halves react to each other (ex. american gothic)
 - the [eiffel tower](http://www.ce.jhu.edu/perspectives/studies/Eiffel%20Tower%20Files/ET_Geometry_files/image002.jpg) is recursive: a tower on a tower
 
@@ -275,9 +274,9 @@ http://www.paulgraham.com/taste.html
 ### Good Design Can Copy
 
 - a novice (progression):
-	1. imitates unknowingly
-	2. tries to be original
-	3. accepts just being right over originality
+  1. imitates unknowingly
+  2. tries to be original
+  3. accepts just being right over originality
 
 > "I think the greatest masters go on to achieve a kind of selflessness.  They just want to get the right answer, and if part of the right answer has already been discovered by someone else, that's no reason not to use it.  They're confident enough to take from anyone without feeling that their own vision will be lost in the process."
 
@@ -293,7 +292,7 @@ http://www.paulgraham.com/taste.html
 - i'm taking "chunks" here to mean "clusters"
 - why did so many great painters came from florence in the 15th century but none from milan, which was just as big?
 - "Nothing is more powerful than a community of talented people working on related problems.  Genes count for little by comparison: being a genetic Leonardo was not enough to compensate for having been born near Milan instead of Florence."
-	- same idea as ["find a scenius"](/books/Show%20Your%20Work!.md#find-a-scenius) in austin kleon's show your work
+  - same idea as ["find a scenius"](/books/Show%20Your%20Work!.md#find-a-scenius) in austin kleon's show your work
 
 ### Good Design is Often Daring
 

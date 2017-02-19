@@ -74,7 +74,7 @@ Rating: ⭐⭐⭐⭐
 - old-money luxury (company Lexus, secretary) and new-money luxury (free meals, laundry, massages) come at the opportunity cost of losing time for family & extracurriculars 
 - **"The new luxury is freedom & time"**: shed the shackles of *deferred living* to pursue your passions *now*, while you're still working today
 - blend work & "retirements" to design a better *lifestyle* overall today, not down the road
-- 	also reminds me of Tim Ferriss' *mini retirements*
+  - also reminds me of Tim Ferriss' *mini retirements*
 - location changes don't have to be binary: visit another city for just a few weeks
 
 ### Talent isn't bound by the hubs

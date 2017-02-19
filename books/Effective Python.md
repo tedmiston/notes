@@ -6,8 +6,8 @@ by [Brett Slatkin](http://www.onebigfluke.com/), Senior Staff Software Engineer 
 - [Source code](https://github.com/bslatkin/effectivepython)
 - [Errata](https://github.com/bslatkin/effectivepython/blob/master/Errata.md)
 - Safari Books Online
-	- [Book (March 2015)](https://www.safaribooksonline.com/library/view/effective-python-59/9780134034416/)
-	- [Video (August 2015)](https://www.safaribooksonline.com/library/view/effective-python/9780134175249/)
+  - [Book (March 2015)](https://www.safaribooksonline.com/library/view/effective-python-59/9780134034416/)
+  - [Video (August 2015)](https://www.safaribooksonline.com/library/view/effective-python/9780134175249/)
 
 ---
 

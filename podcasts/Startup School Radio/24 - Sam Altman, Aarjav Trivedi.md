@@ -31,8 +31,8 @@ hosted by aaron harris
 - "if you're doing something interesting, the chances that some internet commenter will say that it's stupid or not going to work is 100% and the chances that some investor is going to tell you that it's dumb is 100%"
 - when reading haters about yc or sam personally, he tells himself **"you know what, i'd rather be me than the people writing this and you move on"**
 - dealing with both:
-	1. personal ad hominem attacks
-	2. business challenges - no one knows about your product and you have to push until they start discovering it
+  1. personal ad hominem attacks
+  2. business challenges - no one knows about your product and you have to push until they start discovering it
 
 ### getting discovered; indifference kills startups
 
@@ -61,9 +61,9 @@ hosted by aaron harris
 
 - "the common wisdom, as late as 2007/2008, was that only pure software companies were the ones worth investing in, and that if you touched the physical world at all, you weren't a technology startup because you were going to have problems of humans and regulations and all those sorts of things.  and so there was this big drive to invest only in a pure software company."
 - many of the biggest startups of the last 10 years are "**software plus**":
-	  - uber = software + cars
-	  - airbnb = software + houses
-	  - instacart = software + groceries
+  - uber = software + cars
+  - airbnb = software + houses
+  - instacart = software + groceries
 - people have not always loved online to offline
 - aaron adds that ups and fedex has succeeded because of the way they apply technology to logistics
 
@@ -81,9 +81,9 @@ hosted by aaron harris
 - **farebox recovery ratio**: how much money a transit system makes for every dollar they invest
 - large transportation systems are inefficient; for many U.S. systems FRR is < 20%;
 - reasons:
-	  1. poor tools - lots done manually vs. automation; 30-year-old software; not realtime
-	  2. poor data - don't know where things aren't working, where/why people aren't using transit (esp. realtime)
-	  3. misallocation of supply/demand - ex. "in LA there is a bus that runs once an hour, but costs $125/hr to run, no one rides it because it runs once an hour, but because no one rides it they can't run it more frequently"
+  1. poor tools - lots done manually vs. automation; 30-year-old software; not realtime
+  2. poor data - don't know where things aren't working, where/why people aren't using transit (esp. realtime)
+  3. misallocation of supply/demand - ex. "in LA there is a bus that runs once an hour, but costs $125/hr to run, no one rides it because it runs once an hour, but because no one rides it they can't run it more frequently"
 - low frequency of transit makes it hard for people to get to trains/subways in many cities if they live more than a mile from the train station because it's easier to drive to work
 
 ### ridecell & the story
@@ -103,8 +103,8 @@ hosted by aaron harris
 
 - i started wrong by launching a consumer transportation service that competed with uber
 - but then came back to the transit agencies with what we learned:
-	1. figuring out the root cause and attacking it - focus on matching supply and demand -- the hard part about running uber is the backend -- a lot of programmers like building transit tools, but they're mostly focused on the front end 
-	2. speed - **"the only thing that matters is how quickly you iterate"**.  a lot of things any successful startup does are not perfect when they launch, then they quickly improve it.
+  1. figuring out the root cause and attacking it - focus on matching supply and demand -- the hard part about running uber is the backend -- a lot of programmers like building transit tools, but they're mostly focused on the front end 
+  2. speed - **"the only thing that matters is how quickly you iterate"**.  a lot of things any successful startup does are not perfect when they launch, then they quickly improve it.
 
 ### rollout with transit agencies
 
