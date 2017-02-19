@@ -41,12 +41,14 @@ Rating: ⭐⭐⭐⭐⭐
 ## <a name="ch1"></a>1. You Don't Have to be a Genius
 
 ### Find a scenius
+
 - the lone creative genius is a myth—more common is a group of tastemakers in a scene supporting each other: looking, copying, stealing, contributing
 - you don't need smarts / talent, as much as just to be contributing to a scene: share ideas & make quality connections
 - **scenius**: "where people go to hang out and talk about the things they care about"
 - everyone can contribute *something*, even if you're not a master yet (side thought: is anyone ever *really* a master of anything?)
 
 ### Be an amateur
+
 - **amateur**: enthusiast who pursues their work for love; they experiment & follow their whims
 
 > "In the beginner's mind there are many possibilities, but in the expert's there are few."
@@ -60,6 +62,7 @@ Rating: ⭐⭐⭐⭐⭐
 - What voids can you fill?  What are people in your scenius *not* sharing?
 
 ### You can't find your voice if you don't use it
+
 - find your voice by using it—talk about the things you love
 - Roger Ebert lost his ability to speak, and turned to blogging & social media to write at an aggressive pace
 - "If your work isn't online, it doesn't exist.... If you want people to know about what you do and the things you care about, you have to share."
@@ -76,6 +79,7 @@ Rating: ⭐⭐⭐⭐⭐
 ## <a name="ch2"></a>2. Think Process, Not Product
 
 ### Take people behind the scenes
+
 - process vs. product
 - David Bayles and Ted Orland in *Art and Fear*: keep the messy process personal because people care about finished work
 - you can bond with your audience by sharing your work-in-progress, day-to-day process, influence, inspirations, tools
@@ -84,6 +88,7 @@ Rating: ⭐⭐⭐⭐⭐
 - my public reading log is a start, but I need to make it more accessible
 
 ### Become a documentarian of what you do
+
 - astronaut Chris Hadfield wanted people to connect with an astronaut's day-to-day life
 - he tweeted and YouTubed his normal daily activities, *but in space*
 - there's an art to every work and if you present it *"the right way"*, people will be interested
@@ -97,6 +102,7 @@ Rating: ⭐⭐⭐⭐⭐
 ## <a name="ch3"></a>3. Share Something Small Every Day
 
 ### Send out a daily dispatch
+
 - building a substantial body of work takes a lifetime -- just start by focusing on days
 - "The day has a rhythm."
 - once a day, share a little piece of your process, for example:
@@ -113,6 +119,7 @@ Rating: ⭐⭐⭐⭐⭐
 - if balancing sharing vs. doing work is hard, set a timer
 
 ### The "So what?" test
+
 - not a diary -- you're curating every word
 - don't put it online if you're not ready for the whole world to see it
 - it's great to be open by sharing imperfect & unfinished work, but don't over-share
@@ -123,12 +130,14 @@ Rating: ⭐⭐⭐⭐⭐
   - not sure - save for later
 
 ### Turn your flow into stock
+
 - "**Flow** is the feed.  It's the posts and the tweets.  It's the stream of daily and sub-daily updates that remind people you exist.  **Stock** is the durable stuff.  It's the content you produce that's as interesting in two months (or two years) as it is today.  It's what people discover via search.  It's what spreads slowly but surely, building fans over time."
 - social media sites are like public notebooks -- you have to revisit them to see the themes & trends
 - once you see the patterns, you can turn bits & pieces into more substance: flow into stock
 - ex. ideas in this book: tweets &rarr; blog posts &rarr; book chapters
 
 ### Build a good (domain) name
+
 - social networks come & go, but no one can take your own space away from you
 - "a blog is the ideal machine for turning flow into stock"
   - thought: possibly use Jekyll on GitHub Pages (though I wouldn't be able to post on mobile)
@@ -142,6 +151,7 @@ Rating: ⭐⭐⭐⭐⭐
 ## <a name="ch4"></a>4. Open Up Your Cabinet of Curiosities
 
 ### Don't be a hoarder
+
 - **wunderkammern**: "wonder chamber", a room full of remarkable objects showcasing your thirst for knowledge—by including books, jewels, art, skeletons, exotic artifacts, ... they juxtaposed history, nature, and the arts; common 16<sup>th</sup>- and 17<sup>th</sup>-century Europe
 
 [![An example wunderkammern](http://upload.wikimedia.org/wikipedia/commons/f/f5/Musei_Wormiani_Historia.jpg)](http://en.wikipedia.org/wiki/File:Musei_Wormiani_Historia.jpg)
@@ -159,12 +169,14 @@ Rating: ⭐⭐⭐⭐⭐
 - share your influences to clue people in to your own work & who you are
 
 ### No guilty pleasures
+
 - 20 years ago an NYC garbageman [started collecting](http://www.nytimes.com/2012/07/24/nyregion/in-new-york-sanitation-dept-garage-an-art-gallery.html) art, paintings, photographs, toys, etc. that others discarded
 - artists should *dumpster dive* through other's "trash" & our culture to find inspiration in the things people ignore & the places they don't / won't visit
 - the depth & breadth of our influence and ways in which we mix parts of subcultures makes us unique
 - share the things you enjoy open & honestly; don't edit too much
 
 ### Credit is always due
+
 - credit your sources & influences so your people can dig deeper
 - attribution is context: Who made it, when, and why?  Why are you sharing it?  Why should the reader care?  Where can I find more?
 - leave breadcrumb trails to how you found the source: *via*, *h/t*
@@ -174,6 +186,7 @@ Rating: ⭐⭐⭐⭐⭐
 ## <a name="ch5"></a>5. Tell Good Stories
 
 ### Work doesn't speak for itself
+
 - two seemingly identical canvases in an art gallery -- without tags which is by the master & which is forgery?
 - how much people like / value something is influenced by what you tell them about it
 - *Significant Objects* - authors bought insignificant objects and hired writers to "attribute significance" to each -- sold ~$100 of trinkets for 30x return (but does it scale lol?)
@@ -181,6 +194,7 @@ Rating: ⭐⭐⭐⭐⭐
 - personal stories make the complex tangible & give people an opportunity to connect &rarr; to effectively share yourself & your work, become a better storyteller
 
 ### Structure is everything
+
 - Dan Harmon's Story Circle is a plot framework, kind like a trope (I guess I'd consider those plot libraries or mixins really)
 - life is messy & uncertain &rarr; crop & edit it into a well structured story
 - formula of creative work: (1) get a great idea, (2) execute, (3) release &rarr; win/lose/draw
@@ -211,6 +225,7 @@ Rating: ⭐⭐⭐⭐⭐
 ## <a name="ch6"></a>6. Teach What You Know
 
 ### Share your trade secrets
+
 - a legendary Austin BBQer shared his whole setup & process in a crowdfunded YouTube series
 - barbecue technique is simple, but developing the intuition takes years (and repetition)
 - teaching != competition
@@ -226,6 +241,7 @@ Rating: ⭐⭐⭐⭐⭐
 ## <a name="ch7"></a>7. Don't Turn into Human Spam
 
 ### Shut up and listen
+
 - to be a writer, you first have to pay your dues as a reader ([sometimes](http://s8.postimg.org/6p56hr8id/kanye_west_quote4.jpg))
 - sharing: hoarder &larr; contributor &rarr; spammer
 - forward-thinking artists are looking for collaborators, not passive consumers -- good art is incomplete without feedback
@@ -233,6 +249,7 @@ Rating: ⭐⭐⭐⭐⭐
 - be an open node, a connector, a good citizen of the community
 
 ### You want hearts, not eyeballs
+
 - follow & be followed by those who care about the things you care about
 - worry about the quality, not quantity, of your followers
 - "If you want to be interesting, you have to be interested."
@@ -247,11 +264,13 @@ Rating: ⭐⭐⭐⭐⭐
 - **vampires**: people who make you feel exhausted / depleted after hanging out with them -- just avoid those people
 
 ### Identify your fellow knuckleballers
+
 - while most pitchers hoard their secrets from opposing teams, **knuckleballers** are a rare breed who share their techniques with each other
 - your real peers are those who share your obsessions, a similar mission, and mutual respect
 - you'll only find a few so keep them close, show them work first, collaborate with them, etc.
 
 ### Meet up in meatspace
+
 - meet your binary friends IRL and talk about big ideas
 - coffee, lunch, art museums, bookstores, ...
 
@@ -260,6 +279,7 @@ Rating: ⭐⭐⭐⭐⭐
 ## <a name="ch8"></a>8. Learn to Take a Punch
 
 ### Let 'em take their best shot
+
 - art school teaches one to handle vicious critiques
 - 5 strategies
 
@@ -274,6 +294,7 @@ Rating: ⭐⭐⭐⭐⭐
 > &mdash; Brian Michael Bendis
 
 ### Don't feed the trolls
+
 - be wary of feedback from people who don't care about you and what you do
 - ignore the trolls and they'll go away eventually
 - no shame in deleting trolling comments & blocking people on social media
@@ -284,17 +305,20 @@ Rating: ⭐⭐⭐⭐⭐
 ## <a name="ch9"></a>9. Sell Out
 
 ### Even the Renaissance had to be funded
+
 - somehow we have to find a way to get money to enable us to pursue our art
 - getting paid does not inherently corrupt creativity -- ex. *The Godfather*, *Sistine Chapel*
 - support your friends & family
 
 ### Pass around the hat
+
 - try a "donate" or "like this? buy me a coffee" button on your site
 - crowdfunding can help you create work requiring upfront capital *if* you've already got fans interested
 - Kleon uses simply "hire me" and "buy now"
 - don't be afraid to charge for your work, but make sure what you're putting out is valued by others as highly as by you
 
 ### Keep a mailing list
+
 - email might be boring & utilitarian, but it's a strong, universal channel for people who want to stay informed with your work
 - a model
   1. give away great stuff on your site
@@ -314,6 +338,7 @@ Rating: ⭐⭐⭐⭐⭐
 - say yes to opportunities that allow more of the kind of work you want, not those which pay more but offer less of that
 
 ### Pay it forward
+
 - when you have success, throw opportunities to your mentors, influences, and fans
 - the more success, the more you'll have to say *no* to people
 - to remedy not answering every email, Kleon hosts monthly office hours online
@@ -324,9 +349,11 @@ Rating: ⭐⭐⭐⭐⭐
 ## <a name="ch10"></a>10. Stick Around
 
 ### Don't quit your show
+
 - "The people who get what they're after are very often the ones who just stick around long enough."
 
 ### Chain-smoke
+
 - what's next? -- a successful / failed project doesn't guarantee the outcome of your next
 - lifelong artists persevere, success or failure
 - Hemingway ended his day mid-sentence to have a clear starting place for the next morning
@@ -363,14 +390,17 @@ Rating: ⭐⭐⭐⭐⭐
 ## <a name="afterword"></a>Afterword
 
 ### What now?
+
 - post your current work with #showyourwork ([twitter](https://twitter.com/search?q=%23showyourwork), [instagram](https://instagram.com/explore/tags/showyourwork/))
 - plan a show your work event, guided by this book, for colleagues / friends
 - give a copy to someone who needs it
 
 ### "Books are made out of books"
+
 - inspired by books from Brian Eno, Steven Johnson, David Byrne, Mike Monteiro, Kio Stark, Ian Svenonius, Sidney Lumet, and P.T. Barnum
 
 ### YMMV
+
 - take only the advice that's helpful to you / no rules
 - [www.austinkleon.com](http://www.austinkleon.com)
 

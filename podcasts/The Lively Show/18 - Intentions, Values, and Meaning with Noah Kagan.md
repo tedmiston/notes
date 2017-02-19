@@ -9,6 +9,7 @@ This episode is about growing and living intentionally.
 ---
 
 ## Who is Noah Kagan?
+
 - early @ Facebook, Mint; founder, AppSumo
 - fired from [Fb](http://okdork.com/justlively), "lost out" ~$150MM, but it was a great thing to happen to him (devil's advocate: retroactive rationalization)
 - Jess sent him a headset for the podcast which he thought was a nice touch of putting the extra effort in vs. doing what everyone else does
@@ -16,6 +17,7 @@ This episode is about growing and living intentionally.
 ## Figuring out what you care about
 
 ### Purpose & fulfillment
+
 - **generation of moving**: we just quit jobs that don't feel purposeful to us
 - he quit, moved to Argentina and just drank wine and tangoed for 4 months -- realized he hadn't found his purpose yet
 - "I made the most money when I wasn't trying to make money."
@@ -26,15 +28,18 @@ This episode is about growing and living intentionally.
 - saw his mom unsatisfied as a nurse... it's absurd that most Americans hate their jobs
 
 ### Facebook & intentional conversations
+
 - submitted resume to Fb to be employee #30 with a bunch of changes he would make to their site & brought examples of other sites he'd been creating *[vs. 99% of people that just send their resume + hope]*
 - tip: research person before you interview / talk (and promise them tacos)
 - fired from Fb, but it was very challenging & high growth
 
 ### Clarity & distractions
+
 - when we're not sure what we want, we fill our time with distractions: drinks, calendar events -- what if we actually did nothing? (vs. things that don't help you get clarity)
 - people, often women, question themselves for feeling constrained by the external limitation of not being able to check every item on a checklist of requirements (do you even really care about the checklist?)
 
 ### Money, freedom, and happiness
+
 - on missing out on $150MM from Fb: his therapist instructed, "make a list of the things you would buy if you had that money," then they discussed item-by-item "could you buy it now?" --> concluded that there wasn't anything in his life he was really missing from that money [aligns with Jason Fried's thought that [freedom of lifestyle is the new luxury](https://github.com/tedmiston/notes/blob/master/books/Remote.md#the-new-luxury)]
 - a lot of people want freedom of "work from anywhere and do whatever I want and not have a boss", but people instead tie it to making $x/mo., then they aren't actually happy once they get there
 - no magical one thing that will trigger all of your happiness -- how do you want to enjoy the process of life?
@@ -42,6 +47,7 @@ This episode is about growing and living intentionally.
 ## Getting there
 
 ### Outcomes vs. intentional values
+
 - outcomes are often out of your control, and achievements are fleeting ("what's next?"), but the enjoyment is in having an **enduring value** that you embody"
   - ex. "How do you want to be simpler?"
   - ex. valuing a healthy lifestyle vs. the outcome of a six pack
@@ -55,6 +61,7 @@ This episode is about growing and living intentionally.
 - launched KingSumo.com - A/B test headlines for blog posts, but initial conversion was low... always still learning
 
 ### Learning & growth
+
 - the experiences you learn and grow from are *"the hot sauce of life"*, not when everything just works
 - grew up in SF but left because "7 figures is a lifestyle business there"
 - values in Austin: I feel very satisfied when I create, and I go to SF + NYC from time to time to get inspired, then bring it back home
@@ -69,8 +76,10 @@ This episode is about growing and living intentionally.
 ## Closing questions
 
 ### What doubts & resistance have you faced in life?
+
 - his dad had a business, made a lot of money, then sabotaged it -- doesn't want that to be him
 - **Embrace what you're good at** -- "I'm really good at starting, but how do I surround myself with people who like finishing?"
 
 ### What would you tell someone who's just starting out?
+
 - hustle... just start working; if you really want something, put the effort in

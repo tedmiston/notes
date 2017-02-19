@@ -63,6 +63,7 @@ As read: November 2014
 **PURPOSE**: Why do people think competition is something to love?
 
 ### "Competition == good" is a pervasive idea
+
 - **creative monopoly**: "new products that benefit everybody and sustainable profits for the creator"
 - **competition**: "no profits for anybody, no meaningful differentiation, and a struggle for survival"
 - competition is a pervasive ideology in our society that we preach and internalize even though more competition leaves less for us to gain
@@ -75,11 +76,13 @@ As read: November 2014
 - the key to success is [market dominance](http://venturebeat.com/2014/11/30/why-eric-schmidt-doesnt-know-how-google-works/) (e.g., Google's search monopoly)
 
 ### Understanding conflict
+
 - 2 models for understanding conflict
 - Marx - difference
 - Shakespeare - similarity
 
 ### Don't focus too much on your competition
+
 - becoming obsessed with your competition is the Shakespeare model
 - this is how Apple surpassed Google + Microsoft in market cap
 - Square vs. everyone and their brother making a mobile credit card reader
@@ -88,6 +91,7 @@ As read: November 2014
 - ex. the online pet store market (e.g., Pets.com) was overrun w/ competition obsessed w/ defeating each other -- "everybody loses when the war isn't one worth fighting"
 
 ### Fight or merge
+
 - "If you can't beat a rival, it may be better to merge"
 - Elon Musk started X.com at the same time and with a very similar feature set to Peter Thiel's PayPal, so they merged to prevent focusing on each other too much before the bubble popped
 - fighting is binary: "either don't throw any punches, or strike hard and end it quickly"
@@ -98,11 +102,13 @@ As read: November 2014
 **PURPOSE**: How does one actually build a monopoly business?
 
 ### Future cash flows
+
 - Twitter employs a comparable amount of people to The New York Times, but has 12x its market cap, despite losing money now while NYT made money... because Twitter is expected to generate monopoly profits over the next decade, while a newspaper's time to do so has passed
 - "the value of a business today is the sum of all the money it will make in the future" (with future cash flows being discounted to present worth)
 - comparing discounted cash flows shows the stark contrast b/t low-growth businesses, like a newspaper or nightclub, and high-growth startups
 
 ### Building valuable things takes time
+
 - tech companies lose money at the beginning because it takes time to build valuable things
 - LinkedIn has < $1B revenue and only $21MM net income for 2012, but its $24B market cap is justified by projected future cash flows
 - the importance of future profits can be counterintuitive
@@ -114,9 +120,11 @@ As read: November 2014
 > "Will this business still be around a decade from now?"
 
 ### Characteristics of a monopoly
+
 - some combination of: proprietary tech, network effects, economies of scale, branding
 
 #### 1. Proprietary technology
+
 - **proprietary tech** makes your productive difficult to replicate
 - should be "an order of magnitude better than its closest substitute in some important dimension to lead to a real monopolistic advantage"
 - easiest way to make something that much better is to invent something completely new
@@ -127,16 +135,19 @@ As read: November 2014
   - iPad brought superior integrated design to the tablet computing space --> tablets went from unusable to useful
 
 #### 2. Network effects
+
 - **network effect**: a product becomes more useful as more people use it
 - even with that, you must start and prove valuable to a small market first (i.e., Facebook beginning with just Harvard students)
 - "the initial markets are so small that they often don't even appear to be business opportunities at all"
 
 #### 3. Economies of scale
+
 - **economies of scale**: a monopoly biz gets stronger as it gets bigger because fixed costs are spread over more sales
 - (this is especially dramatic for software startups)
 - service businesses are difficult to monopolize (e.g., a yoga studio only has capacity for so many customers; can't provide value to millions of clients the way software engineers can)
 
 #### 4. Branding
+
 - you can create a strong brand (e.g., Apple)
 - imitators copy surface features, but Apple has proprietary tech in hardware and software, and dominates the pricing for the materials it buys
 - additionally, it enjoys the network effect of having the best app ecosystem --> devs keep writing and users stay
@@ -144,11 +155,13 @@ As read: November 2014
 ### Building a monopoly
 
 #### 1. Start small and monopolize
+
 - err on the side of starting with too small of a market so you can dominate
 - ex. Paypal first went after eBay's powersellers
 - "Any big market is a bad choice... This is why it's always a red flag when entrepreneurs talk about getting 1% of a $100 billion market."
 
 #### 2. Scaling up
+
 - once you dominate the niche market, expand into related, slightly broader markets
 - Amazon
   - Bezo's vision was to dominate all of online retail, but he deliberately started with just books
@@ -160,11 +173,13 @@ As read: November 2014
   - learned that auction format doesn't work for commodities
 
 #### 3. Don't disrupt
+
 - disruption used to mean a low-end product at a low price that could overtake incumbents, then become better overtime (for example, what PCs did to mainframe computers)
 - **disruption**: "a self-congratulatory buzzword for anything posing as trendy and new"
 - when you plan expansion into adjacent markets, you don't want to disrupt; you want to avoid competition as much as possible
 
 ### ["Don't be good, be great"](http://genius.com/1942097)
+
 - **first mover advantage**: the first player can capture significant market share before competitors even start
 - but this is only a tactic; what really matters is generating future cash flows
 - better to be the **last mover**, the one that makes the last great development leading to years / decades of monopoly profits
@@ -181,6 +196,7 @@ As read: November 2014
 **PURPOSE**: How should we approach the future?
 
 ### Success: luck or skill?
+
 - what is success?
 - Malcolm Gladwell: "a patchwork of lucky breaks and arbitrary advantages"
 - Jeff Bezos: luck + timing + brains
@@ -194,6 +210,7 @@ As read: November 2014
 - "If you believe your life is mainly a matter of chance, why read this book?"
 
 ### Can you control your future?
+
 - definite vs. uncertain
 - indefinite attitudes on the future are a problem in the U.S.
 - **indefinite view**: assemble a portfolio of various options to be well rounded (or "many-sided mediocrity")
@@ -213,29 +230,35 @@ As read: November 2014
 ### Other areas
 
 #### Indefinite finance
+
 - "Finance epitomizes indefinite thinking because it's the only way to make money when you have no idea how to create wealth."
 - what to do with exit money?
 - entrepreneurs &rarr; banks &rarr; portfolio of institutional investors &rarr; diversified portfolio of stocks &rarr; companies that try to increase their share price w/ cash flow
 
 #### Indefinite politics
+
 - politicians use modern polling to modify their message to match existing public opinion
 
 #### Indefinite philosophy
+
 - ancient philosophers were pessimistic
 - modern philosophers are mostly definite optimistic
 - late 20th century are indefinite optimistic (John Rawls, Robert Nozick)
 - "Arguing over process has become a way to endlessly defer making concrete plans for a better future."
 
 #### Indefinite life
+
 - **Eroom's law**: "the number of new drugs approved per billion dollars spent on R&D has halved every nine years since 1950"
 - biotech startups are struggling compared to software startups... because their research involves lots of random guessing
 
 ### Is indefinite optimism even possible?
+
 - "How can the future get better if no one plans for it?"
 - progress w/o planning is **evolution** (i.e., lean startups, MVPs, iteration, ...)
 - "Iteration without a bold plan won't take you from 0 to 1"
 
 ### Intelligent design
+
 - "The greatest thing Jobs designed was his business."
 - the iPod began the post-PC generation, but most people didn't see it yet
 - "A startup is the largest endeavor over which you can have definite mastery... it begins by rejecting the unjust tyranny of Chance."
@@ -246,9 +269,11 @@ As read: November 2014
 **PURPOSE**: How should we invest entrepreneur time and VC money in startups?
 
 ### Background
+
 - Compound interest is the 8th wonder of the world
 
 ### The power law of venture capital
+
 - Fund returns follow power law distribution -- most startups fail, but VCs hope to invest in those startups that will exponentially beat the others
 - "The biggest secret in venture capital is that the best investment in a successful fund equals or outperforms the entire rest of the fund combined."
 - &rarr; "Only invest in companies with the potential to return the value of the entire fund."
@@ -256,11 +281,13 @@ As read: November 2014
 - Founders Fund focuses not on diversified hedging, but rather on companies which could be multibillion-dollar businesses "based on unique fundamentals"
 
 ### Why people don't see the power law
+
 - People don't see power law because in early to mid-stage funds, the difference between linear & exponential growth isn't yet clear
 - Total VC investment is < 0.2% of GDP but generates revenue equivalent to 21% of GDP
 - The 12 largest tech companies are worth ≥ $2 trillion, *more than all other tech companies combined*
 
 ### What to do with the power law
+
 - Entrepreneurs & individuals invest in their companies & careers -- diversification doesn't work because you can't run multiple companies simultaneously, so instead make as few investments as possible
 - Don't diversify your skill set: focus relentlessly on something you're good at that will be valuable in the future
 - Hesitate to start your own company because joining the very best company while it's growing fast is way more valuable (0.01% of Google >> 100% of nothing)
@@ -271,6 +298,7 @@ As read: November 2014
 **PURPOSE**: How do we find the ideas that lead to world-changing companies?
 
 ### Background
+
 - Pythagoras' theorem was a secret for millenia
 - **secret**: "what valuable company is nobody building?"
 
@@ -279,6 +307,7 @@ As read: November 2014
 | easy        | hard    | impossible |
 
 ### Why aren't people looking for secrets?
+
 - The **Unabomber's Manifesto** argued that all secrets (*"hard problems"*) have been solved, and the remaining problems are either easy or impossible -- both unsatisfying
 - He posited that if we destroyed everything & all the tech, people could work on hard problems again
 - **Hipsters** basically do this in their clothing style, filtering photos, etc. (*whoa*)
@@ -296,11 +325,13 @@ As read: November 2014
 - People don't "take unorthodox ideas seriously today and the mainstream sees that as a sign of progress"
 
 ### The world according to convention
+
 - the existence of hidden injustices in society implies **there are still secrets left**
 - the view that slavery is evil was a secret in the early 19th century
 - HP rode a rollercoaster (in market cap) from late 90s to present with massive decline in the late 90's when it "stopped inventing things"
 
 ### The case for secrets
+
 - "You can't find secrets without looking for them"
 - "If you think something hard is impossible, you'll never even start trying to achieve it.  Belief in secrets is an effective truth."
 - "Great companies can be built on open but unsuspected secrets about how the world works."
@@ -311,6 +342,7 @@ As read: November 2014
 - "Few people imaginged that it was possible to build a billion-dollar business by simply connecting people who want to go places with people whilling to drive them there."
 
 ### How to find secrets
+
 - 2 kinds of secrets
   1. **natural secrets**: found by studying undiscovered aspects of the physical world
   2. **human secrets**: things people don't know or hide about themselves
@@ -318,6 +350,7 @@ As read: November 2014
 - ex. the field of nutrition yields secrets, because it isn't yet institutionalized, and major studies from decades ago are flawed
 
 ### What to do with secrets
+
 - "Unless you have perfectly conventional beliefes, it's rarely a good idea to tell everybody everything you know."
 - the golden mean between telling no one and everyone is forming a company: **build a business around a secret hidden from the outside**
 - "A great company is a conspiracy to change the world; when you share your secret, the recipient becomes a fellow conspirator."
@@ -332,11 +365,13 @@ As read: November 2014
 **PURPOSE**: What's the difference between a startup team and a cult?
 
 ### What's the ideal company culture?
+
 - Employees love their work so much that formal business hours become obsolete, open workspace, comfort, relaxation, pets, etc.
 - But perks don't work without substance
 - "No company has a culture; every company is a culture."
 
 ### Beyond professionalism
+
 - **PayPal Mafia**: the team at PayPal that went on to found seven $1B companies (SpaceX, Tesla, LinkedIn, YouTube, Yelp, Yammer, Palantir)
 
   ![PayPal Mafia](https://fortunedotcom.files.wordpress.com/2014/09/pay26_b1.jpg?quality=100&w=640)
@@ -359,6 +394,7 @@ As read: November 2014
 - People we hired "had to be talented, but even more than that they had to be excited about working specifically with us"
 
 ### Recruiting conspirators
+
 - Recruiting skilled people who work cohesively together is a core competency, not something to outsource
 - Talented people have many options: they don't need you...why should they join you?
 - Every startup has valuable stock, smart people, and challenging problems
@@ -367,16 +403,19 @@ As read: November 2014
   - Are these the kind of people I want to work with?
 
 ### What's under Silicon Valley hoodies?
+
 - The *startup t-shirt* is a uniform connecting ["a tribe of like-minded people fiercely devoted to the company's mission"](http://sf.racked.com/2014/9/10/7577401/peter-thiel-zero-to-one-silicon-valley-fashion)
 - It's easier for startups to work quickly & efficiently with a *shared understanding of the world*
 - Ex. PayPal obsessed over creating a digital currency controlled by individuals
 
 ### Do one thing
+
 - The optimization problem of matching talents to tasks breaks down because of how fast roles changes & conflict in competing for responsibilities
 - Every person was assigned one unique thing to be responsible for & evaluated against
 - Startups fail of external causes but internal conflict can create the vulnerability in the first place
 
 ### Of cults and consultants
+
 - **cult**: "Cultures of total dedication look crazy from the outside."
 - A consulting firm is the opposite of a cult: no defined mission & lacking longterm connection to the company they're creating things for
 - *Company culture is a spectrum*: consultants (nihilism) <--> cults (dogmatism)

@@ -159,6 +159,7 @@ The best way to get rich is to create wealth.  And startups are the best way to 
 - "It would have been a bargain to buy us at an early stage, but companies doing acquisitions are not looking for bargains. A company big enough to acquire startups will be big enough to be fairly conservative... They would rather overpay for a safe choice. So it is easier to sell an established startup, even at a large premium, than an early-stage one."
 
 ### Get Users
+
 - "**I think it's a good idea to get bought, if you can. Running a business is different from growing one.** It is just as well to let a big company take over once you reach cruising altitude."
 - "It's also financially wiser, because selling allows you to **diversify**."
 - **"How do you get bought? Mostly by doing the same things you'd do if you didn't intend to sell the company."**

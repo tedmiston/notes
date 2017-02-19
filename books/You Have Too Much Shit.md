@@ -12,6 +12,7 @@ Rating: ⭐⭐⭐
 ---
 
 ## Meta
+
 - The chapters are so short that it felt right to compile all of the notes into one section
 
 ## Notes
@@ -37,6 +38,7 @@ Rating: ⭐⭐⭐
 - *Sentimental value* can create emotional crutches
 
 ### Actions
+
 1. Give or sell to people who need it more than you
 2. Share with friends, colleagues, neighbors
 3. Digitize analog things

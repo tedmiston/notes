@@ -15,6 +15,7 @@ by Ben Horowitz
 - "Because hip-hop artists aspire to be both great and successful and see themselves as entrepreneurs, many of the themes -- competing, making money, being misunderstood -- provide insight into the hard things."
 
 ## 1. From Communist to Venture Capitalist
+
 - Chapter intro quotes [Who We Be](http://genius.com/Dmx-who-we-be-lyrics)... I'm feeling it
 - Communist grandparents, moved to Berkeley as a baby, the wagon story where he met his best friend
 - "[That story] shaped my life. It taught me that being scared didn't mean I was gutless."

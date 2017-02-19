@@ -13,6 +13,7 @@ by Andrew Hunt, David Thomas
 ## Preface
 
 ## Inside Front Cover: Quick Reference Guide
+
 - A summary of the tips and checklists in the book reproduced verbatim for convenience
 
 ### Tips

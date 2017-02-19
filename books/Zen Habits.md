@@ -15,6 +15,7 @@ As read: February 2015
 ### Introduction: Become the Master of Change
 
 #### The One Problem
+
 - If you could take a magic wand to your life, what would you change?  What's stopping you from doing it?
 - **Mind Movie**: thoughts play through our mind like a movie pulling us between instant gratification and longterm goals
 - This mental projector creates idealized expectations from fantasy that don't align with reality
@@ -30,20 +31,25 @@ As read: February 2015
 - "Learning to turn from the Mind Movie to reality, and appreciate reality for what it is, changed my life.  I could now act without fear, make changes without procrastination."
 
 #### What this book will teach you
+
 - How to form mindful habits to master the skills of discomfort & change, the **Zen Habits Method**
 
 #### How to use this book
+
 - **Slow change**: one step per chapter
 
 #### The Challenge: Commit to making a small change
+
 - Commit to reading one chapter every day & make one small life change as you read the book
 
 ---
 
 ## Part 1 - Getting Started
+
 - Prepare yourself to overcome mental resistance in habit change
 
 ### 0. Why make a change?
+
 - Why put effort into change?
 - Leo was overweight, smoker, in debt, disorganized, and lacking time for important things in life
 - Changing habits helped him get unstuck
@@ -55,6 +61,7 @@ As read: February 2015
 - he attributes his results to learning about change
 
 #### Mission: Check your commitment
+
 - Everyone expresses the desire to change something, but many don't actually take the first action to start
 - "How committed am I to making a new change and actually starting it in the next week?"
   - I am committed to doing it for the purpose of personal development.
