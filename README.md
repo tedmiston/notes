@@ -153,6 +153,8 @@ Most recently read first
 - [StartupCTO.io](/podcasts/StartupCTO.io)
 - [Talk Python to Me](/podcasts/Talk%20Python%20to%20Me)
 - [The Lively Show](/podcasts/The%20Lively%20Show)
+- [The Minimalists](/podcasts/The%20Minimalists)
+  - [13 - Career](/podcasts/The%20Minimalists/13%20-%20Career.md)
 - [The Pitch](/podcasts/The%20Pitch)
 
 ## 9. Videos
