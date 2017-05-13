@@ -147,15 +147,20 @@ Most recently read first
 
 ## 8. Podcasts
 
-- [a16z](/podcasts/a16z)
-- [StartUp](/podcasts/StartUp)
-- [Startup School Radio](/podcasts/Startup%20School%20Radio)
-- [StartupCTO.io](/podcasts/StartupCTO.io)
-- [Talk Python to Me](/podcasts/Talk%20Python%20to%20Me)
-- [The Lively Show](/podcasts/The%20Lively%20Show)
-- [The Minimalists](/podcasts/The%20Minimalists)
-  - [13 - Career](/podcasts/The%20Minimalists/13%20-%20Career.md)
-- [The Pitch](/podcasts/The%20Pitch)
+- [a16z](/podcasts/a16z/README.md)
+- [StartUp](/podcasts/StartUp/README.md)
+- [Startup School Radio](/podcasts/Startup%20School%20Radio/README.md)
+  - [24 - Sam Altman and Aarjav Trivedi](/podcasts/Startup%20School%20Radio/24.md)
+  - [33 - Y Combinator on Formation and Fundraising](/podcasts/Startup%20School%20Radio/33.md)
+  - [35 - Paul Graham](/podcasts/Startup%20School%20Radio/35.md)
+- [StartupCTO.io](/podcasts/StartupCTO.io/README.md)
+- [Talk Python to Me](/podcasts/Talk%20Python%20to%20Me/README.md)
+- [The Lively Show](/podcasts/The%20Lively%20Show/README.md)
+  - [18 - Intentions, Values, and Meaning with Noah Kagan](/podcasts/The%20Lively%20Show/18.md)
+- [The Minimalists](/podcasts/The%20Minimalists/README.md)
+  - [13 - Career](/podcasts/The%20Minimalists/13.md)
+- [The Pitch](/podcasts/The%20Pitch/README.md)
+  - [S2E2 - Sudden Coffee](/podcasts/The%20Pitch/S2E2.md)
 
 ## 9. Videos
 
