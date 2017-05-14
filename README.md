@@ -150,6 +150,9 @@ Most recently read first
 
 - [a16z](/podcasts/a16z/README.md)
 - [Python Bytes](/podcasts/Python%20Bytes/README.md)
+  - [12 - Expanding your Python mental model and serving millions of requests per second with Python](/podcasts/Python%20Bytes/12.md)
+  - [21 - Python has a new star framework for RESTful APIs](/podcasts/Python%20Bytes/21.md)
+  - [23 - Can you grok the GIL?](/podcasts/Python%20Bytes/23.md)
 - [StartUp](/podcasts/StartUp/README.md)
 - [Startup School Radio](/podcasts/Startup%20School%20Radio/README.md)
   - [24 - Sam Altman and Aarjav Trivedi](/podcasts/Startup%20School%20Radio/24.md)
