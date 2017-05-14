@@ -148,6 +148,7 @@ Most recently read first
 ## 8. Podcasts
 
 - [a16z](/podcasts/a16z/README.md)
+- [Python Bytes](/podcasts/Python%20Bytes/README.md)
 - [StartUp](/podcasts/StartUp/README.md)
 - [Startup School Radio](/podcasts/Startup%20School%20Radio/README.md)
   - [24 - Sam Altman and Aarjav Trivedi](/podcasts/Startup%20School%20Radio/24.md)
