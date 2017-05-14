@@ -79,6 +79,7 @@ Most recently read first
 - [Hackers & Painters](/books/Hackers%20&%20Painters/Hackers%20&%20Painters.md)
 - [How Google Works](/books/How%20Google%20Works.md)
 - [Idiot's Guides: Zen Living](/books/Idiot's%20Guides:%20Zen%20Living.md)
+- [Introduction to Machine Learning with Python](/books/Introduction%20to%20Machine%20Learning%20with%20Python.md)
 - [Lightweight Django](/books/Lightweight%20Django.md)
 - [MAKE](/books/MAKE/MAKE.md)
 - [Out of Office](/books/Out%20of%20Office.md)
