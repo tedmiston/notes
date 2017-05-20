@@ -129,6 +129,7 @@ Most recently read first
 - [Git Merge 2016](/conferences/Git%20Merge%202016)
 - [PyCon 2015](/conferences/PyCon%202015)
 - [PyCon 2016](/conferences/PyCon%202016)
+- [PyCon 2017](/conferences/PyCon%202017)
 - [PyOhio 2016](/conferences/PyOhio%202016)
 - [Startup School SV 2014](/conferences/Startup%20School%20SV%202014)
 - [Startup School 2016](/conferences/Startup%20School%202016)
