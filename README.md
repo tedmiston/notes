@@ -33,9 +33,12 @@ I want to remember more [of what I read](http://austinkleon.com/2016/03/03/how-t
 
 ### Purpose
 
-This project logs what I'm reading and how it connects to other sources and ideas.
+This project serves a few purposes:
 
-It also keeps placeholders for what I want to read.
+- log what I'm learning from reading books and articles, listening to conference talks and podcasts, etc
+- consider how the various ideas connect to other sources and ideas
+- keep placeholders for what I want to read / listen to / watch in the future
+- explore topics both for immediate value and purely intellectual curiosity
 
 ### Workflow
 
