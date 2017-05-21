@@ -33,6 +33,32 @@ https://us.pycon.org/2017/schedule/presentation/182/
 
 ---
 
+## Schedule / Non-Talk Sessions
+
+https://us.pycon.org/2017/schedule/talks/
+
+### Friday
+
+#### Welcome
+#### Keynote 1: Jake Vanderplas
+#### Lightning Talks - Friday Evening
+
+### Saturday
+
+#### Lightning Talks - Saturday Morning
+#### Keynote 2: Lisa Guo & Hui Ding
+#### Keynote 3: Katy Huff
+#### Lightning Talks - Saturday Evening
+
+### Sunday
+
+#### Lightning Talks - Sunday Morning
+#### Panel: Paul Everitt with Guido van Rossum and others
+#### Keynote 4: Kelsey Hightower
+#### Final Remarks and Conference Close
+
+---
+
 ## Talks
 
 https://us.pycon.org/2017/schedule/talks/
