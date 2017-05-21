@@ -12,25 +12,82 @@ TODO: convert talk links to markdown header sections
 
 https://us.pycon.org/2017/schedule/tutorials/
 
+### Contract-First API Development Using The OpenAPI Specification (Swagger)
+
 https://us.pycon.org/2017/schedule/presentation/52/
+
+### Cross-platform Native GUI development with BeeWare
+
 https://us.pycon.org/2017/schedule/presentation/166/
+
+### Using Functional Programming for efficient Data Processing and Analysis
+
 https://us.pycon.org/2017/schedule/presentation/24/
+
+### Exploratory data analysis in python
+
 https://us.pycon.org/2017/schedule/presentation/170/
+
+### Network Analysis Made Simple
+
 https://us.pycon.org/2017/schedule/presentation/61/
+
+### Decorators and descriptors decoded
+
 https://us.pycon.org/2017/schedule/presentation/230/
+
+### Microservices with Python and Flask
+
 https://us.pycon.org/2017/schedule/presentation/64/
+
+### ContainerOrchestration.py: The tutorial session
+
 https://us.pycon.org/2017/schedule/presentation/5/
+
+### Time Series Analysis
+
 https://us.pycon.org/2017/schedule/presentation/235/
+
+### Introduction to Statistical Modeling with Python
+
 https://us.pycon.org/2017/schedule/presentation/199/
+
+### Complexity Science
+
 https://us.pycon.org/2017/schedule/presentation/200/
-  https://www.safaribooksonline.com/library/view/think-complexity/9781449331672/
+
+https://www.safaribooksonline.com/library/view/think-complexity/9781449331672/
+
+### Faster Python Programs - Measure, don't Guess
+
 https://us.pycon.org/2017/schedule/presentation/168/
+
+### Creating And Consuming Modern Web Services with Twisted
+
 https://us.pycon.org/2017/schedule/presentation/120/
+
+### IPython and Jupyter in Depth: High productivity, interactive Python
+
 https://us.pycon.org/2017/schedule/presentation/184/
+
+### Build a data pipeline with Luigi
+
 https://us.pycon.org/2017/schedule/presentation/210/
+
+### Python Epiphanies
+
 https://us.pycon.org/2017/schedule/presentation/228/
+
+### Effectively running python applications in Kubernetes/OpenShift
+
 https://us.pycon.org/2017/schedule/presentation/222/
+
+### Parallel Data Analysis
+
 https://us.pycon.org/2017/schedule/presentation/189/
+
+### Best Testing Practices for Data Science
+
 https://us.pycon.org/2017/schedule/presentation/182/
 
 ---
