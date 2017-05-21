@@ -42,3 +42,19 @@ https://us.pycon.org/2017/schedule/talks/
 ## Posters
 
 https://us.pycon.org/2017/schedule/posters/list/
+
+https://us.pycon.org/2017/schedule/presentation/56/
+https://us.pycon.org/2017/schedule/presentation/466/
+https://us.pycon.org/2017/schedule/presentation/643/
+https://us.pycon.org/2017/schedule/presentation/323/
+https://us.pycon.org/2017/schedule/presentation/690/
+https://us.pycon.org/2017/schedule/presentation/451/
+https://us.pycon.org/2017/schedule/presentation/728/
+https://us.pycon.org/2017/schedule/presentation/717/
+https://us.pycon.org/2017/schedule/presentation/606/
+https://us.pycon.org/2017/schedule/presentation/318/
+https://us.pycon.org/2017/schedule/presentation/324/
+https://us.pycon.org/2017/schedule/presentation/338/
+https://us.pycon.org/2017/schedule/presentation/667/
+https://us.pycon.org/2017/schedule/presentation/532/
+https://us.pycon.org/2017/schedule/presentation/640/
