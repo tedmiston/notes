@@ -2,6 +2,8 @@
 
 https://us.pycon.org/2017/
 
+The sessions that are interesting to me at PyCon 2017.
+
 ---
 
 TODO: convert talk links to markdown header sections
@@ -62,6 +64,68 @@ https://us.pycon.org/2017/schedule/talks/
 ## Talks
 
 https://us.pycon.org/2017/schedule/talks/
+
+https://us.pycon.org/2017/schedule/presentation/779/
+https://us.pycon.org/2017/schedule/presentation/2/
+https://us.pycon.org/2017/schedule/presentation/708/
+https://us.pycon.org/2017/schedule/presentation/511/
+https://us.pycon.org/2017/schedule/presentation/102/
+https://us.pycon.org/2017/schedule/presentation/518/
+https://us.pycon.org/2017/schedule/presentation/397/
+https://us.pycon.org/2017/schedule/presentation/392/
+https://us.pycon.org/2017/schedule/presentation/663/
+https://us.pycon.org/2017/schedule/presentation/693/
+https://us.pycon.org/2017/schedule/presentation/402/
+https://us.pycon.org/2017/schedule/presentation/526/
+https://us.pycon.org/2017/schedule/presentation/557/
+https://us.pycon.org/2017/schedule/presentation/756/
+https://us.pycon.org/2017/schedule/presentation/29/
+https://us.pycon.org/2017/schedule/presentation/389/
+https://us.pycon.org/2017/schedule/presentation/689/
+https://us.pycon.org/2017/schedule/presentation/320/
+https://us.pycon.org/2017/schedule/presentation/732/
+https://us.pycon.org/2017/schedule/presentation/49/
+https://us.pycon.org/2017/schedule/presentation/410/
+https://us.pycon.org/2017/schedule/presentation/729/
+https://us.pycon.org/2017/schedule/presentation/760/
+https://us.pycon.org/2017/schedule/presentation/485/
+https://us.pycon.org/2017/schedule/presentation/661/
+https://us.pycon.org/2017/schedule/presentation/768/
+https://us.pycon.org/2017/schedule/presentation/468/
+https://us.pycon.org/2017/schedule/presentation/566/
+https://us.pycon.org/2017/schedule/presentation/781/
+https://us.pycon.org/2017/schedule/presentation/556/
+https://us.pycon.org/2017/schedule/presentation/349/
+https://us.pycon.org/2017/schedule/presentation/486/
+https://us.pycon.org/2017/schedule/presentation/18/
+https://us.pycon.org/2017/schedule/presentation/705/
+https://us.pycon.org/2017/schedule/presentation/628/
+https://us.pycon.org/2017/schedule/presentation/298/
+https://us.pycon.org/2017/schedule/presentation/487/
+https://us.pycon.org/2017/schedule/presentation/291/
+https://us.pycon.org/2017/schedule/presentation/359/
+https://us.pycon.org/2017/schedule/presentation/473/
+https://us.pycon.org/2017/schedule/presentation/469/
+https://us.pycon.org/2017/schedule/presentation/430/
+https://us.pycon.org/2017/schedule/presentation/31/
+https://us.pycon.org/2017/schedule/presentation/71/
+https://us.pycon.org/2017/schedule/presentation/675/
+https://us.pycon.org/2017/schedule/presentation/51/
+https://us.pycon.org/2017/schedule/presentation/146/
+https://us.pycon.org/2017/schedule/presentation/678/
+https://us.pycon.org/2017/schedule/presentation/520/
+https://us.pycon.org/2017/schedule/presentation/118/
+https://us.pycon.org/2017/schedule/presentation/753/
+https://us.pycon.org/2017/schedule/presentation/477/
+https://us.pycon.org/2017/schedule/presentation/764/
+https://us.pycon.org/2017/schedule/presentation/616/
+https://us.pycon.org/2017/schedule/presentation/644/
+https://us.pycon.org/2017/schedule/presentation/769/
+https://us.pycon.org/2017/schedule/presentation/565/
+https://us.pycon.org/2017/schedule/presentation/345/
+https://us.pycon.org/2017/schedule/presentation/653/
+https://us.pycon.org/2017/schedule/presentation/292/
+https://us.pycon.org/2017/schedule/presentation/309/
 
 ---
 
