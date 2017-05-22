@@ -8,8 +8,6 @@ The sessions that are interesting to me at PyCon 2017.
 
 ---
 
-TODO: convert talk links to markdown header sections
-
 ## Tutorials
 
 https://us.pycon.org/2017/schedule/tutorials/
@@ -124,66 +122,248 @@ https://us.pycon.org/2017/schedule/talks/
 
 https://us.pycon.org/2017/schedule/talks/
 
+### 5 ways to deploy your Python web app in 2017
+
 https://us.pycon.org/2017/schedule/presentation/779/
+
+### A gentle introduction to deep learning with TensorFlow
+
 https://us.pycon.org/2017/schedule/presentation/2/
+
+### An Introduction to Reinforcement Learning
+
 https://us.pycon.org/2017/schedule/presentation/708/
+
+### async/await and asyncio in Python 3.6 and beyond
+
 https://us.pycon.org/2017/schedule/presentation/511/
+
+### Asynchronous Python for the Complete Beginner
+
 https://us.pycon.org/2017/schedule/presentation/102/
+
+### Awesome Command Line Tools
+
 https://us.pycon.org/2017/schedule/presentation/518/
+
+### Big picture software testing: unit testing, Lean Startup, and everything in-between
+
 https://us.pycon.org/2017/schedule/presentation/397/
+
+### Building Stream Processing Applications
+
 https://us.pycon.org/2017/schedule/presentation/392/
+
+### Constructive Code Review
+
 https://us.pycon.org/2017/schedule/presentation/663/
+
+### Cython as a Game Changer for Efficiency
+
 https://us.pycon.org/2017/schedule/presentation/693/
+
+### Dask: A Pythonic Distributed Data Science Framework
+
 https://us.pycon.org/2017/schedule/presentation/402/
+
+### Debugging in Python 3.6: Better, Faster, Stronger
+
 https://us.pycon.org/2017/schedule/presentation/526/
+
+### Decorators, unwrapped: How do they work?
+
 https://us.pycon.org/2017/schedule/presentation/557/
+
+### Designing secure APIs with state machines
+
 https://us.pycon.org/2017/schedule/presentation/756/
+
+### Dial M For Mentor
+
 https://us.pycon.org/2017/schedule/presentation/29/
+
+### Experiment Assignment on the Web
+
 https://us.pycon.org/2017/schedule/presentation/389/
+
+### Fuzzy Search Algorithms: How and When to Use Them
+
 https://us.pycon.org/2017/schedule/presentation/689/
+
+### Grok the GIL: Write Fast And Thread-Safe Python
+
 https://us.pycon.org/2017/schedule/presentation/320/
+
+### Hacking Classic Nintendo Games with Python
+
 https://us.pycon.org/2017/schedule/presentation/732/
+
+### How to make a good library API
+
 https://us.pycon.org/2017/schedule/presentation/49/
+
+### How to write a Python transpiler
+
 https://us.pycon.org/2017/schedule/presentation/410/
+
+### Immutable Programming - Writing Functional Python
+
 https://us.pycon.org/2017/schedule/presentation/729/
+
+### In-Memory Event Resequencing: Realistic Testing For Impossible Bugs
+
 https://us.pycon.org/2017/schedule/presentation/760/
+
+### Instagram Filters in 15 Lines of Python
+
 https://us.pycon.org/2017/schedule/presentation/485/
+
+### Introduction to Threat Modeling
+
 https://us.pycon.org/2017/schedule/presentation/661/
+
+### Know thy self: Methods and method binding
+
 https://us.pycon.org/2017/schedule/presentation/768/
+
+### Level up! Rethinking the Web API framework.
+
 https://us.pycon.org/2017/schedule/presentation/468/
+
+### Leveraging Serverless Architecture for Powerful Data Pipelines
+
 https://us.pycon.org/2017/schedule/presentation/566/
+
+### Library UX: Using abstraction towards friendlier APIs
+
 https://us.pycon.org/2017/schedule/presentation/781/
+
+### Look mum no hands! From blinking LEDs to a bike speedometer with MicroPython
+
 https://us.pycon.org/2017/schedule/presentation/556/
+
+### Looping Like a Pro in Python
+
 https://us.pycon.org/2017/schedule/presentation/349/
+
+### Magic Method, on the wall, who, now, is the `__fairest__` one of all?
+
 https://us.pycon.org/2017/schedule/presentation/486/
+
+### Modern Python Dictionaries -- A confluence of a dozen great ideas
+
 https://us.pycon.org/2017/schedule/presentation/18/
+
+### Next Level Testing
+
 https://us.pycon.org/2017/schedule/presentation/705/
+
+### No More Sad Pandas: Optimizing Pandas Code for Speed and Efficiency
+
 https://us.pycon.org/2017/schedule/presentation/628/
+
+### One Data Pipeline to Rule Them All
+
 https://us.pycon.org/2017/schedule/presentation/298/
+
+### Optimizations which made Python 3.6 faster than Python 3.5
+
 https://us.pycon.org/2017/schedule/presentation/487/
+
+### Packaging Let’s Encrypt: Lessons learned shipping Python code to hundreds of thousands of users
+
 https://us.pycon.org/2017/schedule/presentation/291/
+
+### Prehistoric Patterns in Python
+
 https://us.pycon.org/2017/schedule/presentation/359/
+
+### Probabilistic Programming with PyMC3
+
 https://us.pycon.org/2017/schedule/presentation/473/
+
+### Python in The Serverless Era
+
 https://us.pycon.org/2017/schedule/presentation/469/
+
+### Rants and Ruminations From A Job Applicant After 💯 CS Job Interviews in Silicon Valley
+
 https://us.pycon.org/2017/schedule/presentation/430/
+
+### Readability Counts
+
 https://us.pycon.org/2017/schedule/presentation/31/
+
+### Requests Under The Hood
+
 https://us.pycon.org/2017/schedule/presentation/71/
+
+### Share Your Code! Python Packaging Without Complication
+
 https://us.pycon.org/2017/schedule/presentation/675/
+
+### Snek in the Browser
+
 https://us.pycon.org/2017/schedule/presentation/51/
+
+### Solid Snakes or: How to Take 5 Weeks of Vacation
+
 https://us.pycon.org/2017/schedule/presentation/146/
+
+### Static Types for Python
+
 https://us.pycon.org/2017/schedule/presentation/678/
+
+### The Dictionary Even Mightier
+
 https://us.pycon.org/2017/schedule/presentation/520/
+
+### The Gilectomy: How's It Going?
+
 https://us.pycon.org/2017/schedule/presentation/118/
+
+### The Glory of pdb's set_trace
+
 https://us.pycon.org/2017/schedule/presentation/753/
+
+### The Memory Chronicles: A Tale of Two Pythons
+
 https://us.pycon.org/2017/schedule/presentation/477/
+
+### The Next Step: Finding Model Parameters With Random Walks
+
 https://us.pycon.org/2017/schedule/presentation/764/
+
+### The Python Visualization Landscape
+
 https://us.pycon.org/2017/schedule/presentation/616/
+
+### The Wild West of Data Wrangling
+
 https://us.pycon.org/2017/schedule/presentation/644/
+
+### Title Available On Request: An Introduction to Lazy Evaluation
+
 https://us.pycon.org/2017/schedule/presentation/769/
+
+### Tracing, Fast and Slow: Digging into and improving your web service’s performance
+
 https://us.pycon.org/2017/schedule/presentation/565/
+
+### Unicode: what is the big deal?
+
 https://us.pycon.org/2017/schedule/presentation/345/
+
+### What's in your pip toolbox?
+
 https://us.pycon.org/2017/schedule/presentation/653/
+
+### What's new in Python 3.6
+
 https://us.pycon.org/2017/schedule/presentation/292/
+
+### When the abyss gazes back: staring down Python's surprising internals
+
 https://us.pycon.org/2017/schedule/presentation/309/
 
 ---
