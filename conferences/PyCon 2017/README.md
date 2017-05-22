@@ -192,18 +192,62 @@ https://us.pycon.org/2017/schedule/presentation/309/
 
 https://us.pycon.org/2017/schedule/posters/list/
 
+### Coconut: A Novel Language for Functional Programming in Python
+
 https://us.pycon.org/2017/schedule/presentation/56/
+
+### Django REST framework
+
 https://us.pycon.org/2017/schedule/presentation/466/
+
+### Earning with a capital L
+
 https://us.pycon.org/2017/schedule/presentation/643/
+
+### educational framework for constructing black box optimization methods based on Python modules
+
 https://us.pycon.org/2017/schedule/presentation/323/
+
+### Feeling Down? You're Not Alone! Tech Burnout and Mental Health
+
 https://us.pycon.org/2017/schedule/presentation/690/
+
+### Hybrid Vocal Classifier: a package for automated labeling of birdsong
+
 https://us.pycon.org/2017/schedule/presentation/451/
+
+### Improving readability of online content by removing abusive speech using Python
+
 https://us.pycon.org/2017/schedule/presentation/728/
+
+### JupyterHub: Interactive Learning at Scale
+
 https://us.pycon.org/2017/schedule/presentation/717/
+
+### MAKING BIG DATA A LITTLE BIT SMALLER
+
 https://us.pycon.org/2017/schedule/presentation/606/
+
+### Model Management Systems: Scikit-Learn and Django
+
 https://us.pycon.org/2017/schedule/presentation/318/
+
+### On the Hour Data Ingestion from the Web to a Mongo Database
+
 https://us.pycon.org/2017/schedule/presentation/324/
+
+### Science: give DueCredit to software and methods developers!
+
 https://us.pycon.org/2017/schedule/presentation/338/
+
+### The Personality of the Snake: Personality Recognition using Convolutional Neural Networks
+
 https://us.pycon.org/2017/schedule/presentation/667/
+
+### Training and Using Haar Classifiers in OpenCV
+
 https://us.pycon.org/2017/schedule/presentation/532/
+
+### Using Lazy Evaluation to Optimize Python Programs
+
 https://us.pycon.org/2017/schedule/presentation/640/
