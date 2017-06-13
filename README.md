@@ -142,6 +142,7 @@ Most recently read first
 
 - [How to Start a Startup](/courses/How%20to%20Start%20a%20Startup)
 - [Startup School MOOC](/courses/Startup%20School%20MOOC)
+  - [18 - How to Raise Money, and How to Succeed Long-Term](/courses/Startup%20School%20MOOC/18.md)
 
 ## 6. Essays
 
