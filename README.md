@@ -141,6 +141,7 @@ Most recently read first
 ## 5. Courses
 
 - [How to Start a Startup](/courses/How%20to%20Start%20a%20Startup)
+- [Startup School MOOC](/courses/Startup%20School%20MOOC)
 
 ## 6. Essays
 
