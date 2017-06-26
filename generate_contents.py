@@ -2,7 +2,7 @@
 
 """
 Converted a tab-indented input file of chapters > sections > subsections, etc
-into a Markdown hierarchy.
+into a markdown hierarchy.
 
 Usage:
 
@@ -44,7 +44,7 @@ import re
 
 
 def load_file(filename):
-    """Load the contents of an input file."""
+    """Load contents of an input file."""
     try:
         with open(filename) as fp:
             # no lstrip() because leading indentation is significant
@@ -59,7 +59,7 @@ def load_file(filename):
 
 
 def parse_title(lines):
-    """Parse book title (optional)."""
+    """Parse optional book title."""
     TITLE_PREFIX = '# '
     book_title = None
     if lines[0].startswith(TITLE_PREFIX):
@@ -67,8 +67,8 @@ def parse_title(lines):
     return book_title
 
 
-def parse_chapters(lines):
-    """Parse chapter titles and depth level."""
+def parse_body(lines):
+    """Parse chapter titles, subtitles, etc and depth level."""
     chapters = []
     for chapter in lines:
         depth = len(re.findall(r' {4}|\t', chapter))
@@ -79,20 +79,20 @@ def parse_chapters(lines):
 
 
 def parse(lines):
-    """Parse the lines of an input file."""
+    """Parse input file."""
     title = parse_title(lines)
-    chapters = parse_chapters(lines)
+    chapters = parse_body(lines)
     return title, chapters
 
 
 def serialize_heading(title, depth):
-    """Generate h1-h6 in Markdown."""
+    """Generate h1-h6 in markdown."""
     hashes = '#' * depth
     return f'{hashes} {title}'
 
 
 def serialize_chapters(chapters):
-    """Generate Markdown for chapters."""
+    """Generate markdown for chapters."""
     markdown_chapters = []
     for title, indent in chapters:
         markdown_chapter = serialize_heading(title, depth=indent+2)
@@ -103,19 +103,19 @@ def serialize_chapters(chapters):
 
 
 def serialize_title(title):
-    """Generate Markdown for title."""
+    """Generate markdown for title."""
     return serialize_heading(title, depth=1) if title is not None else ''
 
 
 def serialize(title, chapters):
-    """Generate the Markdown components and combine them."""
+    """Generate markdown components and concatenate."""
     chapters_md = serialize_chapters(chapters)
     title_md = [serialize_title(title) + '\n']
     return '\n'.join(title_md + chapters_md).strip()
 
 
 def main():
-    """Convert tab tree contents to Markdown contents."""
+    """Convert tab tree to markdown."""
     lines = load_file('in.txt')
     output = serialize(*parse(lines))
     print(output)
