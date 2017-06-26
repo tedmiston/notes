@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
 Converted a tab-indented input file of chapters > sections > subsections, etc
 into a Markdown hierarchy.
@@ -36,8 +38,6 @@ Output:
     ### Section 2.1
 
     ## Conclusion
-
-Note: Python 3
 """
 
 import re
