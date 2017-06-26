@@ -109,8 +109,8 @@ def serialize_title(title):
 def serialize(title, chapters):
     """Generate the Markdown components and combine them."""
     chapters_md = serialize_chapters(chapters)
-    title_md = serialize_title(title)
-    return '\n'.join([title_md] + chapters_md).strip()
+    title_md = [serialize_title(title) + '\n']
+    return '\n'.join(title_md + chapters_md).strip()
 
 
 def main():
