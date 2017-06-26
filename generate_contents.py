@@ -91,6 +91,11 @@ def serialize_heading(title, depth):
     return f'{hashes} {title}'
 
 
+def serialize_title(title):
+    """Generate markdown for title."""
+    return serialize_heading(title, depth=1) if title is not None else ''
+
+
 def serialize_chapters(chapters):
     """Generate markdown for chapters."""
     markdown_chapters = []
@@ -102,15 +107,10 @@ def serialize_chapters(chapters):
     return markdown_chapters
 
 
-def serialize_title(title):
-    """Generate markdown for title."""
-    return serialize_heading(title, depth=1) if title is not None else ''
-
-
 def serialize(title, chapters):
     """Generate markdown components and concatenate."""
-    chapters_md = serialize_chapters(chapters)
     title_md = [serialize_title(title) + '\n']
+    chapters_md = serialize_chapters(chapters)
     return '\n'.join(title_md + chapters_md).strip()
 
 
