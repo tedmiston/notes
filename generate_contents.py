@@ -50,10 +50,10 @@ def load_file(filename):
             # no lstrip() because leading indentation is significant
             text = fp.read().rstrip()
     except FileNotFoundError as e:
-        exit('Error: Input file "{}" does not exist.'.format(filename))
+        exit(f'Error: Input file "{filename}" does not exist.')
 
     if text == '':
-        exit('Error: Input file "{}" is blank.'.format(filename))
+        exit(f'Error: Input file "{filename}" is blank.')
 
     return text.split(sep='\n')
 
@@ -87,7 +87,8 @@ def parse(lines):
 
 def serialize_heading(title, depth):
     """Generate h1-h6 in Markdown."""
-    return '{} {}'.format('#' * depth, title)
+    hashes = '#' * depth
+    return f'{hashes} {title}'
 
 
 def serialize_chapters(chapters):
