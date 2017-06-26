@@ -71,7 +71,7 @@ def parse_chapters(lines):
     """Parse chapter titles and depth level."""
     chapters = []
     for chapter in lines:
-        depth = len(re.findall(r'    |\t', chapter))
+        depth = len(re.findall(r' {4}|\t', chapter))
         title = chapter.strip()
         if len(title) != 0:
             chapters.append((title, depth))
