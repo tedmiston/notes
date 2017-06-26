@@ -43,24 +43,34 @@ Output:
 import re
 
 
-def generate_heading(title, depth):
-    """Generate h1-h6 in Markdown."""
-    return '{} {}'.format('#' * depth, title)
+def load_file(filename):
+    """Load the contents of an input file."""
+    try:
+        with open(filename) as fp:
+            # no lstrip() because leading indentation is significant
+            text = fp.read().rstrip()
+    except FileNotFoundError as e:
+        exit('Error: Input file "{}" does not exist.'.format(filename))
+
+    if text == '':
+        exit('Error: Input file "{}" is blank.'.format(filename))
+
+    return text.split(sep='\n')
 
 
-def parse_title(chapters_input):
+def parse_title(lines):
     """Parse book title (optional)."""
     TITLE_PREFIX = '# '
     book_title = None
-    if chapters_input[0].startswith(TITLE_PREFIX):
-        book_title = chapters_input.pop(0)[len(TITLE_PREFIX):].strip()
+    if lines[0].startswith(TITLE_PREFIX):
+        book_title = lines.pop(0)[len(TITLE_PREFIX):].strip()
     return book_title
 
 
-def parse_chapters(chapters_input):
+def parse_chapters(lines):
     """Parse chapter titles and depth level."""
     chapters = []
-    for chapter in chapters_input:
+    for chapter in lines:
         depth = len(re.findall(r'    |\t', chapter))
         title = chapter.strip()
         if len(title) != 0:
@@ -68,51 +78,45 @@ def parse_chapters(chapters_input):
     return chapters
 
 
-def generate_chapters(chapters):
+def parse(lines):
+    """Parse the lines of an input file."""
+    title = parse_title(lines)
+    chapters = parse_chapters(lines)
+    return title, chapters
+
+
+def serialize_heading(title, depth):
+    """Generate h1-h6 in Markdown."""
+    return '{} {}'.format('#' * depth, title)
+
+
+def serialize_chapters(chapters):
     """Generate Markdown for chapters."""
     markdown_chapters = []
     for title, indent in chapters:
-        markdown_chapter = generate_heading(title, depth=indent+2)
+        markdown_chapter = serialize_heading(title, depth=indent+2)
         if indent == 0:
             markdown_chapter = '\n' + markdown_chapter
         markdown_chapters.append(markdown_chapter)
     return markdown_chapters
 
 
-def generate_title(title):
+def serialize_title(title):
     """Generate Markdown for title."""
-    return generate_heading(title, depth=1) if title is not None else ''
+    return serialize_heading(title, depth=1) if title is not None else ''
 
 
-def generate_markdown(title, chapters):
+def serialize(title, chapters):
     """Generate the Markdown components and combine them."""
-    chapters_md = generate_chapters(chapters)
-    title_md = generate_title(title)
-
-    everything_md = '\n'.join([title_md] + chapters_md).strip()
-    return everything_md
+    chapters_md = serialize_chapters(chapters)
+    title_md = serialize_title(title)
+    return '\n'.join([title_md] + chapters_md).strip()
 
 
 def main():
     """Convert tab tree contents to Markdown contents."""
-    INPUT_FILE = 'in.txt'
-
-    try:
-        with open(INPUT_FILE) as fp:
-            # no lstrip() because leading indentation is significant
-            text = fp.read().rstrip()
-    except FileNotFoundError as e:
-        exit('Error: Input file "{}" does not exist.'.format(INPUT_FILE))
-
-    if text == '':
-        exit('Error: Input file "{}" is blank.'.format(INPUT_FILE))
-
-    chapters_input = text.split(sep='\n')
-
-    title = parse_title(chapters_input)
-    chapters = parse_chapters(chapters_input)
-
-    output = generate_markdown(title, chapters)
+    lines = load_file('in.txt')
+    output = serialize(*parse(lines))
     print(output)
 
 
