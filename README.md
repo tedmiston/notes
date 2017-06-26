@@ -173,6 +173,7 @@ Most recently read first
   - [13 - Career](/podcasts/The%20Minimalists/13.md)
 - [The Pitch](/podcasts/The%20Pitch/README.md)
   - [S2E2 - Sudden Coffee](/podcasts/The%20Pitch/S2E2.md)
+- [Y Combinator](/podcasts/Y%20Combinator/README.md)
 
 ## 9. Videos
 
