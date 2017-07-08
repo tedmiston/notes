@@ -1,6 +1,6 @@
 # Notes
 
-[![Code Climate](https://lima.codeclimate.com/github/tedmiston/notes/badges/gpa.svg)](https://lima.codeclimate.com/github/tedmiston/notes) [![Test Coverage](https://lima.codeclimate.com/github/tedmiston/notes/badges/coverage.svg)](https://lima.codeclimate.com/github/tedmiston/notes/coverage)
+[![Code Climate](https://lima.codeclimate.com/github/tedmiston/notes/badges/gpa.svg)](https://lima.codeclimate.com/github/tedmiston/notes)
 
 An unassuming place to accumulate knowledge.
 
