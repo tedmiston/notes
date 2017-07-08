@@ -12,20 +12,20 @@ An unassuming place to accumulate knowledge.
 
 **Contents**
 
-1. [Meta](#user-content-1-meta)
-2. [Articles](#user-content-2-articles)
-3. [Books](#user-content-3-books)
-4. [Conferences](#user-content-4-conferences)
-5. [Courses](#user-content-5-courses)
-6. [Essays](#user-content-6-essays)
-7. [Magazines](#user-content-7-magazines)
-8. [Podcasts](#user-content-8-podcasts)
-9. [Videos](#user-content-9-videos)
-10. [Related](#user-content-10-related)
+- [Meta](#user-content-meta)
+- [Articles](#user-content-articles)
+- [Books](#user-content-books)
+- [Conferences](#user-content-conferences)
+- [Courses](#user-content-courses)
+- [Essays](#user-content-essays)
+- [Magazines](#user-content-magazines)
+- [Podcasts](#user-content-podcasts)
+- [Videos](#user-content-videos)
+- [Related](#user-content-related)
 
 ---
 
-## 1. Meta
+## Meta
 
 ### Motivation
 
@@ -48,7 +48,7 @@ I recommend two Mac apps for working with Markdown: [FoldingText](http://www.fol
 
 ---
 
-## 2. Articles
+## Articles
 
 <details>
 
@@ -68,7 +68,7 @@ Most recently read first
 
 </details>
 
-## 3. Books
+## Books
 
 - [Algorithms to Live By](/books/Algorithms%20to%20Live%20By.md)
 - [Building Microservices](/books/Building%20Microservices.md)
@@ -122,7 +122,7 @@ Most recently read first
 - [Zen Habits](/books/Zen%20Habits.md)
 - [Zero to One](/books/Zero%20to%20One.md)
 
-## 4. Conferences
+## Conferences
 
 - [DEF CON 23](/conferences/DEF%20CON%2023)
 - [DEF CON 24](/conferences/DEF%20CON%2024)
@@ -138,22 +138,22 @@ Most recently read first
 - [Startup School SV 2014](/conferences/Startup%20School%20SV%202014)
 - [Startup School 2016](/conferences/Startup%20School%202016)
 
-## 5. Courses
+## Courses
 
 - [How to Start a Startup](/courses/How%20to%20Start%20a%20Startup)
 - [Startup School MOOC](/courses/Startup%20School%20MOOC/README.md)
   - [18 - How to Raise Money, and How to Succeed Long-Term](/courses/Startup%20School%20MOOC/18.md)
 
-## 6. Essays
+## Essays
 
 - [Cities and Ambition](/essays/Cities%20and%20Ambition.md)
 - [Walking](/essays/Walking.md)
 
-## 7. Magazines
+## Magazines
 
 - [Offscreen](/magazines/Offscreen)
 
-## 8. Podcasts
+## Podcasts
 
 - [a16z](/podcasts/a16z/README.md)
 - [Python Bytes](/podcasts/Python%20Bytes/README.md)
@@ -175,13 +175,13 @@ Most recently read first
   - [S2E2 - Sudden Coffee](/podcasts/The%20Pitch/S2E2.md)
 - [Y Combinator](/podcasts/Y%20Combinator/README.md)
 
-## 9. Videos
+## Videos
 
 - Computerphile
   - [Indie App Developer - Marco Arment Interview](/videos/Computerphile/Indie%20App%20Developer%20-%20Marco%20Arment%20Interview.md)
 - [TIME 100 - Kanye West by Elon Musk](/videos/TIME%20100/Kanye%20West.md)
 
-## 10. Related
+## Related
 
 Interesting related projects by other people.
 
