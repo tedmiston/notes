@@ -151,6 +151,7 @@ Most recently read first
 
 ## Magazines
 
+- [Drift](/magazines/Drift)
 - [Offscreen](/magazines/Offscreen)
 
 ## Podcasts
