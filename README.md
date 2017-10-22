@@ -36,15 +36,15 @@ I want to remember more [of what I read](http://austinkleon.com/2016/03/03/how-t
 This project serves a few purposes:
 
 - log what I'm learning from reading books and articles, listening to conference talks and podcasts, etc
-- consider how the various ideas connect to other sources and ideas
-- keep placeholders for what I want to read / listen to / watch in the future
-- explore topics both for immediate value and purely intellectual curiosity
+- consider how ideas from various sources connect to others
+- keep placeholders for what to read / listen / watch in the future
+- explore topics for immediate pragmatic value to purely intellectual curiosity
 
 ### Workflow
 
-I read articles on Instapaper, and books on a Kindle or Safari Books Online.  I read nonsequentially and typically not [cover to cover](http://austinkleon.com/2014/10/17/33-thoughts-on-reading/) (blank spots == not yet read).  I skim Hacker News daily.
+I read articles on Instapaper and books mostly on Kindle or Safari Books Online.  I read nonlinearly and often not [cover to cover](http://austinkleon.com/2014/10/17/33-thoughts-on-reading/) (blank spots == not yet read).  I skim Hacker News and Techmeme weekly.
 
-I recommend two Mac apps for working with Markdown: [FoldingText](http://www.foldingtext.com/) and [Marked](http://marked2app.com/).
+I recommend two macOS apps for working with Markdown: [FoldingText](http://www.foldingtext.com/) and [Marked](http://marked2app.com/).
 
 ---
 
@@ -189,5 +189,5 @@ Most recently read first
 Interesting related projects by other people.
 
 - [Derek Sivers — Books I've Read](https://sivers.org/book) - A collection of detailed notes from entrepreneur and writer Derek Sivers.
-- [GTD in 15 minutes – A Pragmatic Guide to Getting Things Done](https://hamberg.no/gtd/) - An illustrated & annotated summary of David Allen's *Getting Things Done*.  I'd like to explore doing more rich notes and formatting in this style.
-- [tldr.io](http://tldr.io) - Interesting content summarized by people (see mine at [tldr.io/tedmiston](http://tldr.io/tedmiston)).
+- [GTD in 15 minutes](https://hamberg.no/gtd/) - An illustrated & annotated summary of David Allen's popular book.
+- [tldr.io](http://tldr.io) - Interesting content summarized in a few bullet points by people (see mine at [tldr.io/tedmiston](http://tldr.io/tedmiston)).
