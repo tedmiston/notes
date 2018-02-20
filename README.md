@@ -60,7 +60,7 @@ Most recently read first
 - [Ruby has been fast enough for 13 years](/articles/Ruby%20has%20been%20fast%20enough%20for%2013%20years.md)
 - [Location Wars - Part I: History and the Problem](/articles/Location%20Wars%20-%20Part%20I%20-%20History%20and%20the%20Problem.md)
 - [I'm Not Living The Dream](/articles/I'm%20Not%20Living%20The%20Dream.md)
-- [Shannon’s Method: Overcome Habit Procrastination](/articles/Shannon’s%20Method%20-%20Overcome%20Habit%20Procrastination.md)
+- [Shannon's Method: Overcome Habit Procrastination](/articles/Shannon's%20Method%20-%20Overcome%20Habit%20Procrastination.md)
 - [Working from Home and Phatic Communication](/articles/Working%20from%20Home%20and%20Phatic%20Communication.md)
 - [The Zen of Limits](/articles/The%20Zen%20of%20Limits.md)
 - [Minimalism Isn't Traveling the World with Nothing](/articles/Minimalism%20Isn't%20Traveling%20the%20World%20with%20Nothing.md)

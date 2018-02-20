@@ -1,4 +1,4 @@
-# Shannon’s Method: Overcome Habit Procrastination
+# Shannon's Method: Overcome Habit Procrastination
 
 by Leo Babauta
 
