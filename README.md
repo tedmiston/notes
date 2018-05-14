@@ -19,6 +19,7 @@ An unassuming place to accumulate knowledge.
 - [Courses](#user-content-courses)
 - [Essays](#user-content-essays)
 - [Magazines](#user-content-magazines)
+- [Meetups](#user-content-meetups)
 - [Podcasts](#user-content-podcasts)
 - [Videos](#user-content-videos)
 - [Related](#user-content-related)
@@ -155,6 +156,10 @@ Most recently read first
 
 - [Drift](/magazines/Drift)
 - [Offscreen](/magazines/Offscreen)
+
+## Meetups
+
+- [Pyninsula](/meetups/Pyninsula.md)
 
 ## Podcasts
 
