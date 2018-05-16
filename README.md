@@ -155,6 +155,7 @@ Most recently read first
 ## Magazines
 
 - [Drift](/magazines/Drift)
+- [Logic Magazine](/magazines/Logic.md)
 - [Offscreen](/magazines/Offscreen)
 
 ## Meetups
