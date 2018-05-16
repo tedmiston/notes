@@ -155,6 +155,7 @@ Most recently read first
 ## Magazines
 
 - [Drift](/magazines/Drift)
+- [Increment](/magazines/Increment.md)
 - [Logic Magazine](/magazines/Logic.md)
 - [Offscreen](/magazines/Offscreen)
 
