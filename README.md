@@ -161,6 +161,7 @@ Most recently read first
 
 ## Meetups
 
+- [Bay Area Apache Airflow](/meetups/Bay%20Area%20Apache%20Airflow.md)
 - [Pyninsula](/meetups/Pyninsula.md)
 
 ## Podcasts
