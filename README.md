@@ -130,6 +130,7 @@ Most recently read first
 - [DEF CON 24](/conferences/DEF%20CON%2024)
 - [DEF CON 25](/conferences/DEF%20CON%2025)
 - [DjangoCon US 2016](/conferences/DjangoCon%20US%202016)
+- [DjangoCon US 2018](/conferences/DjangoCon%20US%202018.md)
 - [Female Founders Conference 2016](/conferences/Female%20Founders%20Conference%202016)
 - [Fluent 2016](/conferences/Fluent%202016)
 - [Git Merge 2015](/conferences/Git%20Merge%202015)
