@@ -138,6 +138,7 @@ Most recently read first
 - [PyCon 2015](/conferences/PyCon%202015)
 - [PyCon 2016](/conferences/PyCon%202016)
 - [PyCon 2017](/conferences/PyCon%202017/README.md)
+- [PyCon 2018](/conferences/PyCon%202018.md)
 - [PyOhio 2016](/conferences/PyOhio%202016)
 - [Startup School SV 2014](/conferences/Startup%20School%20SV%202014)
 - [Startup School 2016](/conferences/Startup%20School%202016)
