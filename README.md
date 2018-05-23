@@ -141,6 +141,7 @@ Most recently read first
 - [PyOhio 2016](/conferences/PyOhio%202016)
 - [Startup School SV 2014](/conferences/Startup%20School%20SV%202014)
 - [Startup School 2016](/conferences/Startup%20School%202016)
+- [Velocity 2017 - San Jose](/conferences/Velocity%202017%20San%20Jose.md)
 
 ## Courses
 
