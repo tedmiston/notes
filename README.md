@@ -57,6 +57,7 @@ I recommend two macOS apps for working with Markdown: [FoldingText](http://www.f
 
 Most recently read first
 
+- [How to Accomplish Dread Tasks](/articles/How%20to%20Accomplish%20Dread%20Tasks.md)
 - [What Goes Up Must Come Down](/articles/What%20Goes%20Up%20Must%20Come%20Down.md)
 - [How to Be Motivated: 4 New Insights From Research](/articles/How%20to%20Be%20Motivated.md)
 - [Ruby has been fast enough for 13 years](/articles/Ruby%20has%20been%20fast%20enough%20for%2013%20years.md)
