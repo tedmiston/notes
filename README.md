@@ -138,6 +138,7 @@ Most recently read first
 - [Git Merge 2016](/conferences/Git%20Merge%202016)
 - [JupyterCon 2017](/conferences/JupyterCon%202017.md)
 - [JupyterCon 2018](/conferences/JupyterCon%202018.md)
+- [PyBay 2018](/conferences/PyBay%202018.md)
 - [PyCon 2015](/conferences/PyCon%202015)
 - [PyCon 2016](/conferences/PyCon%202016)
 - [PyCon 2017](/conferences/PyCon%202017/README.md)
