@@ -8,12 +8,13 @@ August 2018
 
 Influential speakers presenting on Python topics such as internals, data, performance, devops, and web tech.
 
+[Schedule](https://pybay.com/schedule/) &middot;
+[Speakers](https://pybay.com/our-speakers/) &middot;
+[Blog](https://medium.com/pybay)
+
 ---
 
 ## Talks
-
-- Introductions to [the speakers][speakers] are posted on the [PyBay blog][pybay-blog]
-- [Talk list](https://medium.com/pybay/announcing-pybay2018s-speakers-1bef92b9a328)
 
 ### Deprecating the state machine: building conversational AI with the Rasa stack by Alan Nichol
 ### Robots, biology and unsupervised model selection by Amelia Taylor
