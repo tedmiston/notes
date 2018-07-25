@@ -136,6 +136,7 @@ Most recently read first
 - [Fluent 2016](/conferences/Fluent%202016)
 - [Git Merge 2015](/conferences/Git%20Merge%202015)
 - [Git Merge 2016](/conferences/Git%20Merge%202016)
+- [Google Cloud Next '18](/conferences/Google%20Cloud%20Next%202018.md)
 - [JupyterCon 2017](/conferences/JupyterCon%202017.md)
 - [JupyterCon 2018](/conferences/JupyterCon%202018.md)
 - [PyBay 2018](/conferences/PyBay%202018.md)
