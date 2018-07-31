@@ -145,6 +145,7 @@ Most recently read first
 - [PyCon 2017](/conferences/PyCon%202017/README.md)
 - [PyCon 2018](/conferences/PyCon%202018.md)
 - [PyOhio 2016](/conferences/PyOhio%202016)
+- [PyOhio 2018](/conferences/PyOhio%202018.md)
 - [Startup School SV 2014](/conferences/Startup%20School%20SV%202014)
 - [Startup School 2016](/conferences/Startup%20School%202016)
 - [Velocity 2017 - San Jose](/conferences/Velocity%202017%20San%20Jose.md)
