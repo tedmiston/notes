@@ -87,6 +87,7 @@ Most recently read first
 - [How Google Works](/books/How%20Google%20Works.md)
 - [Idiot's Guides: Zen Living](/books/Idiot's%20Guides:%20Zen%20Living.md)
 - [Introduction to Machine Learning with Python](/books/Introduction%20to%20Machine%20Learning%20with%20Python.md)
+- [It Doesn't Have to Be Crazy at Work](/books/It%20Doesn't%20Have%20to%20Be%20Crazy%20at%20Work.md)
 - [Lightweight Django](/books/Lightweight%20Django.md)
 - [MAKE](/books/MAKE/MAKE.md)
 - [Out of Office](/books/Out%20of%20Office.md)
