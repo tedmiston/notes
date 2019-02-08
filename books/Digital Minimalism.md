@@ -10,4 +10,22 @@ How much technology is "just enough"?  A thoughtful philosophy for technology us
 
 ---
 
-TODO
+## Introduction
+
+## Part 1: Foundations
+
+### 1: A Lopsided Arms Race
+
+### 2: Digital Minimalism
+
+### 3: The Digital Declutter
+
+## Part 2: Practices
+
+### 4: Spend Time Alone
+
+### 5: Don't Click "Like"
+
+### 6: Reclaim Leisure
+
+### 7: Join the Attention Resistance
