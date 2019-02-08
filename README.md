@@ -76,6 +76,7 @@ Most recently read first
 - [Algorithms to Live By](/books/Algorithms%20to%20Live%20By.md)
 - [Building Microservices](/books/Building%20Microservices.md)
 - [Deep Work](/books/Deep%20Work.md)
+- [Digital Minimalism](/books/Digital%20Minimalism.md)
 - [Django By Example](/books/Django%20By%20Example.md)
 - [Effective Python](/books/Effective%20Python.md)
 - [Expert Python Programming](/books/Expert%20Python%20Programming.md)
